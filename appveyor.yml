@@ -58,7 +58,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
-  - cmd: inspectcode --o="inspectcodereport.xml" -s=ERROR --projects:MaterialDesign* MaterialDesignToolkit.Wpf.sln
+  - cmd: inspectcode --o="inspectcodereport.xml" -s=ERROR --projects:MaterialDesignColors* MaterialDesignToolkit.Wpf.sln
   - cmd: NVika parsereport "inspectcodereport.xml"
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.$env:APPVEYOR_BUILD_VERSION.zip MainDemo.Wpf\bin\**\*.*
