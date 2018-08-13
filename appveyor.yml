@@ -14,12 +14,17 @@
     assembly_informational_version: '2.5.0.{build}'
   environment:
     RestorePackages: false
+  install:
+    - cmd: choco install resharper-clt -y
+    - cmd: choco install nvika -y
   before_build:
   - ps: .paket\paket.exe restore
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
+  - cmd: inspectcode --o="inspectcodereport.xml" --projects:osu.Game* --caches-home="inspectcode" osu.sln > NUL
+  - cmd: NVika parsereport "inspectcodereport.xml" --treatwarningsaserrors
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
   artifacts:
@@ -43,13 +48,18 @@
     assembly_file_version: '{version}'
     assembly_informational_version: '{version}'
   environment:
-    RestorePackages: false    
+    RestorePackages: false
+  install:
+    - cmd: choco install resharper-clt -y
+    - cmd: choco install nvika -y
   before_build:
   - ps: .paket\paket.exe restore
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
+  - cmd: inspectcode --o="inspectcodereport.xml" --projects:osu.Game* --caches-home="inspectcode" osu.sln > NUL
+  - cmd: NVika parsereport "inspectcodereport.xml" --treatwarningsaserrors
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.$env:APPVEYOR_BUILD_VERSION.zip MainDemo.Wpf\bin\**\*.*
   artifacts:
