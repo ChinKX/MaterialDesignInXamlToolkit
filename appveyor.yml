@@ -23,7 +23,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
-  - cmd: inspectcode --o="inspectcodereport.xml" --caches-home="inspectcode" MaterialDesignToolkit.ResourceGeneration.sln > NUL
+  - cmd: inspectcode --o="inspectcodereport.xml" --projects:mdresgen --caches-home="inspectcode" MaterialDesignToolkit.ResourceGeneration.sln > NUL
   - cmd: NVika parsereport "inspectcodereport.xml" --treatwarningsaserrors
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
@@ -58,7 +58,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
-  - cmd: inspectcode --o="inspectcodereport.xml" --caches-home="inspectcode" MaterialDesignToolkit.ResourceGeneration.sln > NUL
+  - cmd: inspectcode --o="inspectcodereport.xml" --projects:mdresgen --caches-home="inspectcode" MaterialDesignToolkit.ResourceGeneration.sln > NUL
   - cmd: NVika parsereport "inspectcodereport.xml" --treatwarningsaserrors
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.$env:APPVEYOR_BUILD_VERSION.zip MainDemo.Wpf\bin\**\*.*
