@@ -5,7 +5,7 @@
       - master
 
   image: Visual Studio 2017
-  configuration: Debug
+  configuration: AppVeyor
   assembly_info:
     patch: true
     file: '**\AssemblyInfo.*'
