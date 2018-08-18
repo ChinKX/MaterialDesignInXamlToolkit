@@ -15,17 +15,17 @@
     assembly_informational_version: '2.5.0.{build}'
   environment:
     RestorePackages: false
+  install:
+  - choco install "msbuild-sonarqube-runner" -y
   before_build:
   - ps: .paket\paket.exe restore
-  build_script:
-  - choco install "msbuild-sonarqube-runner" -y
-  - MSBuild.SonarQube.Runner.exe begin /k:"MaterialDesignInXamlToolkit" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
-  - msbuild "MaterialDesignToolkit.Wpf.sln"
-  - MSBuild.SonarQube.Runner.exe end /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
+  - MSBuild.SonarQube.Runner.exe begin /k:"MaterialDesignInXamlToolkit" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
+  - msbuild "MaterialDesignToolkit.Wpf.sln"
+  - MSBuild.SonarQube.Runner.exe end /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
   artifacts:
@@ -51,17 +51,17 @@
     assembly_informational_version: '{version}'
   environment:
     RestorePackages: false
+  install:
+  - choco install "msbuild-sonarqube-runner" -y
   before_build:
   - ps: .paket\paket.exe restore
-  build_script:
-  - choco install "msbuild-sonarqube-runner" -y
-  - MSBuild.SonarQube.Runner.exe begin /k:"MaterialDesignInXamlToolkit" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
-  - msbuild "MaterialDesignToolkit.Wpf.sln"
-  - MSBuild.SonarQube.Runner.exe end /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
+  - MSBuild.SonarQube.Runner.exe begin /k:"MaterialDesignInXamlToolkit" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
+  - msbuild "MaterialDesignToolkit.Wpf.sln"
+  - MSBuild.SonarQube.Runner.exe end /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.$env:APPVEYOR_BUILD_VERSION.zip MainDemo.Wpf\bin\**\*.*
   artifacts:
