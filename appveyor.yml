@@ -19,12 +19,12 @@
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
-  #after_build:
-  #- ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
-  #- ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
-  #artifacts:
-  #- path: '**\MaterialDesignThemes.*.nupkg'
-  #- path: Demo.*.zip
+  after_build:
+  - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
+  - ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
+  artifacts:
+  - path: '**\MaterialDesignThemes.*.nupkg'
+  - path: Demo.*.zip
 
   version: 2.5.0-ci{build}
 
@@ -35,7 +35,7 @@
       - release
 
   os: Visual Studio 2017
-  configuration: AppVeyor
+  configuration: Debug
   assembly_info:
     patch: true
     file: '**\AssemblyInfo.*'
