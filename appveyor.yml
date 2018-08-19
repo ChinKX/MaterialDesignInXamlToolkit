@@ -23,9 +23,9 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
-  - MSBuild.SonarQube.Runner.exe begin /k:"MaterialDesignInXamlToolkit" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
+  - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln"
-  - MSBuild.SonarQube.Runner.exe end /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
+  - MSBuild.SonarQube.Runner.exe end /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
   artifacts:
@@ -59,9 +59,9 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   after_build:
-  - MSBuild.SonarQube.Runner.exe begin /k:"MaterialDesignInXamlToolkit" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
+  - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln"
-  - MSBuild.SonarQube.Runner.exe end /d:"sonar.login=502c628fab98e50ad429d2c4b7fac4169d66b996"
+  - MSBuild.SonarQube.Runner.exe end /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.$env:APPVEYOR_BUILD_VERSION.zip MainDemo.Wpf\bin\**\*.*
   artifacts:
