@@ -17,14 +17,17 @@
     RestorePackages: false
   install:
   - choco install "msbuild-sonarqube-runner" -y
+  - choco install opencover.portable
   before_build:
   - ps: .paket\paket.exe restore
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
+  test_script:
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" -targetargs:"D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" "D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\obj\Debug\MaterialDesignThemes.Wpf.Tests.dll" -parallel
   after_build:
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
-  - msbuild "MaterialDesignToolkit.Wpf.sln"
+  - msbuild "MaterialDesignToolkit.Wpf.sln" /t:Rebuild
   - MSBuild.SonarQube.Runner.exe end /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
   - ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
@@ -53,11 +56,14 @@
     RestorePackages: false
   install:
   - choco install "msbuild-sonarqube-runner" -y
+  - choco install opencover.portable
   before_build:
   - ps: .paket\paket.exe restore
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
+  test_script:
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" -targetargs:"D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" "D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\obj\Debug\MaterialDesignThemes.Wpf.Tests.dll" -parallel
   after_build:
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln"
