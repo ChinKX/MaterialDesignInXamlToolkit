@@ -24,7 +24,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   test_script:
-  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" -targetargs:"D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" "D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\obj\Debug\MaterialDesignThemes.Wpf.Tests.dll" -parallel
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" -targetargs:"D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" "D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\obj\Debug\MaterialDesignThemes.Wpf.Tests.dll" -parallel all
   after_build:
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln" /t:Rebuild
@@ -63,7 +63,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   test_script:
-  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" -targetargs:"D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" "D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\obj\Debug\MaterialDesignThemes.Wpf.Tests.dll" -parallel
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" -targetargs:"D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" "D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\obj\Debug\MaterialDesignThemes.Wpf.Tests.dll" -parallel all
   after_build:
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln"
