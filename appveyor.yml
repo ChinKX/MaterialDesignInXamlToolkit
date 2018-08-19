@@ -24,7 +24,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   test_script:
-  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Release\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Release\MaterialDesignThemes.Wpf.Tests.dll" -parellel all" "-filter:+[MaterialDesignColors.Wpf.Tests]* +[MaterialDesignThemes.Wpf.Tests]*"
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Release\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Release\MaterialDesignThemes.Wpf.Tests.dll" "-filter:+[MaterialDesignColors.Wpf.Tests]* +[MaterialDesignThemes.Wpf.Tests]*"
   after_build:
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln" /t:Rebuild
@@ -63,7 +63,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   test_script:
-  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Release\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Release\MaterialDesignThemes.Wpf.Tests.dll" -parellel all" "-filter:+[MaterialDesignColors.Wpf.Tests]* +[MaterialDesignThemes.Wpf.Tests]*"
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Release\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Release\MaterialDesignThemes.Wpf.Tests.dll" "-filter:+[MaterialDesignColors.Wpf.Tests]* +[MaterialDesignThemes.Wpf.Tests]*"
   after_build:
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln"
