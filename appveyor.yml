@@ -24,7 +24,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   test_script:
-  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Release\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Release\MaterialDesignThemes.Wpf.Tests.dll"" -filter:"+[MaterialDesignColors]* +[MaterialDesignThemes.Wpf]*" -output:".\coverage.xml"
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Release\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Release\MaterialDesignThemes.Wpf.Tests.dll"" "-filter:+[MaterialDesignColors]* +[MaterialDesignThemes.Wpf]*" -output:".\coverage.xml"
   after_test:
   - ps: |
       $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
@@ -68,7 +68,7 @@
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
   test_script:
-  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Release\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Release\MaterialDesignThemes.Wpf.Tests.dll"" -filter:"+[MaterialDesignColors]* +[MaterialDesignThemes.Wpf]*" -output:".\coverage.xml"
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Release\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Release\MaterialDesignThemes.Wpf.Tests.dll"" "-filter:+[MaterialDesignColors]* +[MaterialDesignThemes.Wpf]*" -output:".\coverage.xml"
   after_test:
   - ps: |
       $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
