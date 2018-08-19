@@ -34,9 +34,11 @@
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln" /t:Rebuild
   - MSBuild.SonarQube.Runner.exe end /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
-  artifacts:
-  - path: '**\MaterialDesignThemes.*.nupkg'
-  - path: Demo.*.zip
+  #- ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
+  #- ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
+  #artifacts:
+  #- path: '**\MaterialDesignThemes.*.nupkg'
+  #- path: Demo.*.zip
 
   version: 2.5.0-ci{build}
 
@@ -76,8 +78,10 @@
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln"
   - MSBuild.SonarQube.Runner.exe end /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
-  artifacts:
-  - path: '**\MaterialDesignThemes.*.nupkg'
-  - path: Demo.*.zip
+  #- ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
+  #- ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
+  #artifacts:
+  #- path: '**\MaterialDesignThemes.*.nupkg'
+  #- path: Demo.*.zip
 
   version: 2.5.0.{build}
