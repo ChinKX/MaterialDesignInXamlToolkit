@@ -1,0 +1,12 @@
+m
+dD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\AnotherCommandImplementation.csutf-8Y
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\App.xaml.csutf-8]
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\Dialogs.xaml.csutf-8a
+XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\DialogsViewModel.csutf-8c
+ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\FlyoutContent.xaml.csutf-8i
+`D:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\PaletteSelectorViewModel.csutf-8Y
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\Mah.xaml.csutf-8`
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\MainWindow.xaml.csutf-8g
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\NotEmptyValidationRule.csutf-8e
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\PaletteSelector.xaml.csutf-8h
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\Properties\AssemblyInfo.csutf-8
