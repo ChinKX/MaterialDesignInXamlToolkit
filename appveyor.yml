@@ -17,19 +17,19 @@
     RestorePackages: false
   install:
   #- choco install "msbuild-sonarqube-runner" -y
-  #- choco install opencover.portable
+  - choco install opencover.portable
   before_build:
   - ps: .paket\paket.exe restore
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
-  #test_script:
-  #- OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" /noshadow" "-filter:+[MaterialDesignThemes.Wpf]* +[MaterialDesignColors]*" -output:".\coverage.xml"
-  #after_test:
-  #- ps: |
-  #    $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
-  #    Invoke-WebRequest -Uri 'https://codecov.io/bash' -OutFile codecov.sh
-  #    bash codecov.sh -f "coverage.xml"
+  test_script:
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" /noshadow" "-filter:+[MaterialDesignThemes.Wpf]* +[MaterialDesignColors]*" -output:".\coverage.xml"
+  after_test:
+  - ps: |
+      $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
+      Invoke-WebRequest -Uri 'https://codecov.io/bash' -OutFile codecov.sh
+      bash codecov.sh -f "coverage.xml"
   after_build:
   #- MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   #- msbuild "MaterialDesignToolkit.Wpf.sln" /t:Rebuild
@@ -61,19 +61,19 @@
     RestorePackages: false
   install:
   #- choco install "msbuild-sonarqube-runner" -y
-  #- choco install opencover.portable
+  - choco install opencover.portable
   before_build:
   - ps: .paket\paket.exe restore
   build:
     project: MaterialDesignToolkit.Wpf.sln
     verbosity: minimal
-  #test_script:
-  #- OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" /noshadow" "-filter:+[MaterialDesignThemes.Wpf]* +[MaterialDesignColors]*" -output:".\coverage.xml"
-  #after_test:
-  #- ps: |
-  #    $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
-  #    Invoke-WebRequest -Uri 'https://codecov.io/bash' -OutFile codecov.sh
-  #    bash codecov.sh -f "coverage.xml"
+  test_script:
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" /noshadow" "-filter:+[MaterialDesignThemes.Wpf]* +[MaterialDesignColors]*" -output:".\coverage.xml"
+  after_test:
+  - ps: |
+      $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
+      Invoke-WebRequest -Uri 'https://codecov.io/bash' -OutFile codecov.sh
+      bash codecov.sh -f "coverage.xml"
   after_build:
   #- MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   #- msbuild "MaterialDesignToolkit.Wpf.sln"
