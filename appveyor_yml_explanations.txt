@@ -50,6 +50,7 @@
 
   after_build:
   ## the first three commands are to generate a static code analysis report and send to SonarCloud for analysis purpose
+  ## For more reference please go to https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+MSBuild
   - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
   - msbuild "MaterialDesignToolkit.Wpf.sln" /t:Rebuild
   - MSBuild.SonarQube.Runner.exe end /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
