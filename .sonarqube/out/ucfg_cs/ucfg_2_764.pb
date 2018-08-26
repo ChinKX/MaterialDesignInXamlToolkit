@@ -1,10 +1,7 @@
 
-oMaterialDesignThemes.Wpf.MaterialDataGridComboBoxColumn.ApplyStyle(bool, bool, System.Windows.FrameworkElement)o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridComboBoxColumn.csA H(	isEditingdefaultToElementStyleelement"0*
-0*
-1
-2*
-1*
-2*
-2"
+mMaterialDesignThemes.Wpf.Transitions.TransitionerSlide.OnInTransitionFinished(System.Windows.RoutedEventArgs)n
+dD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionerSlide.cs" %(e"0*
+0*
+1*
+1"
 ""

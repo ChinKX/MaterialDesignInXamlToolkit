@@ -1,25 +1,48 @@
 
-|MaterialDesignThemes.Wpf.ClockItemButton.ThumbOnDragStarted(object, System.Windows.Controls.Primitives.DragStartedEventArgs)b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs° •(senderdragStartedEventArgs"0*Ñ
-0û
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs§  §(&%04MaterialDesignThemes.Wpf.ClockItemButton.CentreX.getÇ
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs§  §(N%1__concat"
-"""
-
-%0ì
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs§R §(V%2)System.Windows.FrameworkElement.Width.getû
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs§_ §(e%34MaterialDesignThemes.Wpf.ClockItemButton.CentreY.getÉ
-c
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs§_ §(ã%4__concat"
-"""
-
-%3ñ
-d
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs§è §(î%5*System.Windows.FrameworkElement.Height.get*
-1*
-1"
+8ControlzEx.BadgedEx.ArrangeOverride(System.Windows.Size)é
+ÉD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.csk (arrangeBounds"0*
+0*
+1
+2*ü
+1"ô
+é
+ÉD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cso) o(6
+""*
+2*
+3
+4*
+4*
+3*
+3*
+5
+6*
+5*
+6*
+6*
+7
+8*
+7*
+8*
+8*
+9
+10*	
+9*
+10*
+10*
+11
+12*
+
+11*
+12*
+12*
+13
+14*
+
+13*
+14*†
+14"ô
+é
+ÉD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs~ ~(
+""*
+15"
 ""

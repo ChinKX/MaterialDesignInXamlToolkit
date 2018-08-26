@@ -1,31 +1,24 @@
 
-ôMaterialDesignThemes.Wpf.Transitions.SlideOutWipe.Wipe(MaterialDesignThemes.Wpf.Transitions.TransitionerSlide, MaterialDesignThemes.Wpf.Transitions.TransitionerSlide, System.Windows.Point, MaterialDesignThemes.Wpf.Transitions.IZIndexController)i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\SlideOutWipe.cs 8(	fromSlidetoSlideoriginzIndexController"0*
-0*
+qMaterialDesignThemes.Wpf.SnackbarMessageQueue.DoActionCallback(MaterialDesignThemes.Wpf.SnackbarMessageQueueItem)g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csŸ ®(messageQueueItem"0*
+0*	
 1
-2*¾
-1³
-i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\SlideOutWipe.cs) (T%0:System.ArgumentNullException.ArgumentNullException(string)"
+2
+3*
+2*	
+1
+3
+3*ô
+1¡
+g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs¨ ¨(x%0*System.Diagnostics.Trace.WriteLine(string)"
+""¡
+g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs© ©(K%1*System.Diagnostics.Trace.WriteLine(string)"
+""¡
+g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csª ª(.%2*System.Diagnostics.Trace.WriteLine(string)"
 ""*
-3*
-2*
-4
-5*¾
-4³
-i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\SlideOutWipe.cs' (P%0:System.ArgumentNullException.ArgumentNullException(string)"
-""*
-3*
-5*
-6
-7*¾
-6³
-i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\SlideOutWipe.cs0 (b%0:System.ArgumentNullException.ArgumentNullException(string)"
-""*
-3*
-7*
 3*
 3"
 ""

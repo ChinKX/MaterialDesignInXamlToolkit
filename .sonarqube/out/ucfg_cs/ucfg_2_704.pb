@@ -1,9 +1,7 @@
 
-<MaterialDesignThemes.Wpf.TimePicker.IsInvalidTextAllowed.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs±	 ±(E"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs± ±(C
-""*
+IMaterialDesignThemes.Wpf.ListSortDirectionIndicator.ListSortDirection.setk
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListSortDirectionIndicator.cs- -(>value"0*
+0*
+1*
 1"
 ""

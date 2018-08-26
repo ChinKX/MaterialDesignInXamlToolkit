@@ -1,18 +1,14 @@
 
-MaterialDesignColors.WpfExample.Pickers.LocaleCombo_SelectionChanged(object, System.Windows.Controls.SelectionChangedEventArgs)Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Pickers.xaml.cs %(sendere"0*
-0*
-1
-2*¤
-2–
-Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Pickers.xaml.cs (j%05System.Windows.Markup.XmlLanguage.GetLanguage(string)"
-""*
-1
-3*
-1*
-3*
-3*
-4*
-4"
+MMaterialDesignColors.WpfExample.ButtonsViewModel.DemoRestartCountdownText.setW
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs€ €(lvalue"0*ò
+0ç
+W
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs€ €(i%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
+"""
+"""	
+
+value"
+""*
+1*
+1"
 ""

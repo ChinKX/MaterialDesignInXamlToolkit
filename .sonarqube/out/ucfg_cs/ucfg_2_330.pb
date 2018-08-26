@@ -1,9 +1,17 @@
 
-ÉMaterialDesignThemes.Wpf.DialogHostEx.ShowDialog(System.Windows.Window, object, MaterialDesignThemes.Wpf.DialogClosingEventHandler)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHostEx.cs= @(windowcontentclosingEventHandler"0*l
-0"g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHostEx.cs? ?(d
+ëMaterialDesignThemes.Wpf.Converters.NullableDateTimeToCurrentDateConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)Ç
+xD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullableDateTimeToCurrentDateConverter.cs (value
+targetType	parameterculture"0*
+0*
+1
+2*ì
+1"ç
+Ç
+xD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullableDateTimeToCurrentDateConverter.cs (
+""*ì
+2"ç
+Ç
+xD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullableDateTimeToCurrentDateConverter.cs ($
 ""*
-1"
+3"
 ""

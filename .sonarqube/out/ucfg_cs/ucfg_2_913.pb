@@ -1,7 +1,15 @@
 
-aMaterialDesignThemes.Wpf.TimePicker.DropDownButtonOnClick(object, System.Windows.RoutedEventArgs)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs± ´(senderroutedEventArgs"0*
-0*
-1*
-1"
+žMaterialDesignThemes.Wpf.TextFieldAssist.IncludeSpellingSuggestionsChanged(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)a
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csv †(elemente"0*
+0*
+1
+2*
+1*
+3
+4*
+3*
+2*
+4*
+2*
+2"
 ""

@@ -1,9 +1,7 @@
 
-"ControlzEx.BadgedEx.IsBadgeSet.getŽ
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.csT T(>"0*Ÿ
-0"™
-Ž
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.csT T(<
-""*
+/MaterialDesignThemes.Wpf.Chip.DeleteCommand.setU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csH H(:value"0*
+0*
+1*
 1"
 ""

@@ -1,15 +1,37 @@
 
-@MaterialDesignThemes.Wpf.Transitions.Transitioner.Transitioner()i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.cs? K("0*à
-0ù
-i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csA A(%0,System.Windows.UIElement.CommandBindings.getù
-i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csB B(%1,System.Windows.UIElement.CommandBindings.getù
-i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csC C(%2,System.Windows.UIElement.CommandBindings.getù
-i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csD D(%3,System.Windows.UIElement.CommandBindings.get*
-1*
-1"
+MMaterialDesignThemes.Wpf.MaterialDataGridComboBoxColumn.PickStyle(bool, bool)o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridComboBoxColumn.csJ S(	isEditingdefaultToElementStyle"0*
+0*
+1
+2*»
+1Ω
+o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridComboBoxColumn.csL$ L(6%0FSystem.Windows.Controls.DataGridComboBoxColumn.EditingElementStyle.get*
+3*¡
+2∂
+o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridComboBoxColumn.csL: L(E%0?System.Windows.Controls.DataGridComboBoxColumn.ElementStyle.get*
+3*
+3*
+4
+5*
+4*
+5*
+5*
+6
+7*
+6*
+7*
+7*
+8
+9*¡
+8∂
+o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridComboBoxColumn.csO O(#%0?System.Windows.Controls.DataGridComboBoxColumn.ElementStyle.get*
+9*~
+9"y
+o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridComboBoxColumn.csR R(
+""*
+10"
 ""

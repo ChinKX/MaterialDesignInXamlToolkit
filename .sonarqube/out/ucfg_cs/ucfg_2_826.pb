@@ -1,6 +1,6 @@
 
-VMaterialDesignThemes.Wpf.DialogHost.OnUnloaded(object, System.Windows.RoutedEventArgs)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs¤ ¨(senderroutedEventArgs"0*
+*MaterialDesignThemes.Wpf.RatingBar.Max.setZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs; ;(0value"0*
 0*
 1*
 1"

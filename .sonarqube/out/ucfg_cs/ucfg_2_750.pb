@@ -1,9 +1,7 @@
 
-=MaterialDesignThemes.Wpf.DialogHost.DialogClosingCallback.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csš š(]"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csš š([
-""*
+“MaterialDesignThemes.Wpf.Transitions.TransitionEffectExtension.TransitionEffectExtension(MaterialDesignThemes.Wpf.Transitions.TransitionEffectKind)v
+lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs (kind"0*
+0*
+1*
 1"
 ""

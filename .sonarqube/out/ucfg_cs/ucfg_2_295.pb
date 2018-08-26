@@ -1,21 +1,33 @@
 
-ˆMaterialDesignThemes.Wpf.Converters.NullableToVisibilityConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullToVisibilityConverter.cs (value
-targetType	parameterculture"0*
+0MaterialDesignThemes.Wpf.Clock.OnApplyTemplate()X
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csæ û("0*
 0*
 1
-2*×
-1Ì
-u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullToVisibilityConverter.cs# (+%0OMaterialDesignThemes.Wpf.Converters.NullableToVisibilityConverter.NullValue.get*
-3*Ú
-2Ï
-u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullToVisibilityConverter.cs/ (:%0RMaterialDesignThemes.Wpf.Converters.NullableToVisibilityConverter.NotNullValue.get*
-3*„
-3"
-u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullToVisibilityConverter.cs (;
-""*
-4"
+2*
+1*
+2*
+2*
+3
+4*
+3*
+4*Ñ
+4 
+X
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csñ ñ(>%08System.Windows.FrameworkElement.GetTemplateChild(string)"
+"" 
+X
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csò ò(B%18System.Windows.FrameworkElement.GetTemplateChild(string)"
+""*
+5
+6*
+5*
+6*
+6*
+7
+8*
+7*
+8*
+8*
+9*
+9"
 ""

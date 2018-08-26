@@ -1,7 +1,9 @@
 
-EMaterialDesignThemes.Wpf.HintProxyFabric.TextBoxHintProxy.IsFocused()h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.TextBox.cs (A"0*
-0*
-1*
+@MaterialDesignThemes.Wpf.DrawerHost.TopDrawerContentTemplate.get[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csa a(S"0*j
+0"e
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csa a(Q
+""*
 1"
 ""

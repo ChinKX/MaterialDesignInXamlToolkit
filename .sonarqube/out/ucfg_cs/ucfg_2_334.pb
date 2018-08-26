@@ -1,9 +1,16 @@
 
-WMaterialDesignThemes.Wpf.DataGridAssist.GetCellPadding(System.Windows.DependencyObject)_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.csl o(element"0*n
-0"i
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.csn n(D
+hMaterialDesignThemes.Wpf.Converters.ShadowConverter.Clone(System.Windows.Media.Effects.DropShadowEffect)k
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs $(dropShadowEffect"0*
+0*
+1
+2*z
+1"u
+k
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs* (5
+""*z
+2"u
+k
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs #(
 ""*
-1"
+3"
 ""

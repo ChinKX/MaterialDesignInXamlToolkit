@@ -1,11 +1,14 @@
 
-xMaterialDesignThemes.Wpf.Screen.MonitorEnumCallback.Callback(System.IntPtr, System.IntPtr, System.IntPtr, System.IntPtr)Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.cs“ —(monitorhdclprcMonitorlparam"0*‹
-0 
-Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.cs• •(%0?MaterialDesignThemes.Wpf.Screen.MonitorEnumCallback.Screens.get"c
-Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.cs– –(
-""*
+EMaterialDesignThemes.Wpf.ListSortDirectionIndicator.OnApplyTemplate()k
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListSortDirectionIndicator.cs ("0*À
+0¼
+k
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListSortDirectionIndicator.cs" (2%0IMaterialDesignThemes.Wpf.ListSortDirectionIndicator.ListSortDirection.getö
+k
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListSortDirectionIndicator.cs (3%1sMaterialDesignThemes.Wpf.ListSortDirectionIndicator.GotoVisualState(bool, System.ComponentModel.ListSortDirection?)"
+"""
+
+%0*
+1*
 1"
 ""

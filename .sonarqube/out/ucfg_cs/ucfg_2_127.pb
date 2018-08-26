@@ -1,7 +1,9 @@
 
-&MaterialDesignThemes.Wpf.Clock.Clock()V
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs= B("0*
-0*
-1*
+eMaterialDesignThemes.Wpf.ButtonProgressAssist.GetIndicatorBackground(System.Windows.DependencyObject)e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.csW Z(element"0*t
+0"o
+e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.csY Y(G
+""*
 1"
 ""

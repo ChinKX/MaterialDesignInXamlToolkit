@@ -1,7 +1,9 @@
 
-XMaterialDesignThemes.Wpf.SmartHint.OnHintProxyIsVisibleChanged(object, System.EventArgs)\
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csÎ Ñ(sendere"0*
-0*
-1*
+/MaterialDesignThemes.Wpf.PopupBox.PopupMode.get[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs¥ ¥(J"0*j
+0"e
+[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs¥ ¥(H
+""*
 1"
 ""

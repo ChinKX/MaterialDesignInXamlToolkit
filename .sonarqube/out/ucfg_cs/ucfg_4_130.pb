@@ -1,13 +1,7 @@
 
-lMaterialDesignDemo.Domain.SimpleDataTemplateSelector.SelectTemplate(object, System.Windows.DependencyObject)f
-\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SimpleDataTemplateSelector.cs
- (item	container"0*¬
-0´
-f
-\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SimpleDataTemplateSelector.cs (%0FMaterialDesignDemo.Domain.SimpleDataTemplateSelector.FixedTemplate.get"p
-f
-\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SimpleDataTemplateSelector.cs ( 
-
-%0*
+>MaterialDesignDemo.TransitionsDemo.Slide1_Intro.Slide1_Intro()f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\TransitionsDemo\Slide1_Intro.xaml.cs ("0*
+0*
+1*
 1"
 ""

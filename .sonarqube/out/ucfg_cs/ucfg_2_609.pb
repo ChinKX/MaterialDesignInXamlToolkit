@@ -1,7 +1,9 @@
 
-UMaterialDesignThemes.Wpf.SnackbarMessageQueue.MouseNotOverManagedWaitHandle.Dispose()e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs_ b("0*
-0*
-1*
+.MaterialDesignThemes.Wpf.DialogHost.IsOpen.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs± ±(9"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs± ±(7
+""*
 1"
 ""

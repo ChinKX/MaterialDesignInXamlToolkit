@@ -1,11 +1,7 @@
 
-0MaterialDesignThemes.Wpf.DialogHost.DialogHost()]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs× Þ("0*°
-0‘
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÜ Ü(%0,System.Windows.UIElement.CommandBindings.get‘
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÝ Ý(%1,System.Windows.UIElement.CommandBindings.get*
+ MaterialDesignThemes.Wpf.ToggleButtonAssist.OnContentPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.cs% ((dependencyObject"dependencyPropertyChangedEventArgs"0*
+0*
 1*
 1"
 ""

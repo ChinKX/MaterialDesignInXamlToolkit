@@ -1,13 +1,19 @@
 
-JMaterialDesignColors.WpfExample.ButtonsViewModel.DismissButtonProgress.setU
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csz z(avalue"0*í
-0â
-U
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csz z(^%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
+JMaterialDesignColors.WpfExample.Domain.DocumentationLink.ApiLink<TClass>()]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs0 8("0*„
+0w
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs2 2(-typeName__id"
+""œ
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs4 7(%0˜MaterialDesignColors.WpfExample.Domain.DocumentationLink.DocumentationLink(MaterialDesignColors.WpfExample.Domain.DocumentationLinkType, string, string)"
 """
-"""
-"""
-""*
-1*
+"""
+
+
+typeName"g
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs4 7(
+""*
 1"
 ""

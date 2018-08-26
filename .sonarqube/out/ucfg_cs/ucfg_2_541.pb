@@ -1,9 +1,9 @@
 
-FMaterialDesignThemes.Wpf.DrawerHost.RightDrawerContentStringFormat.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs (S"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs (Q
+0MaterialDesignThemes.Wpf.Plane3D.FieldOfView.getX
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csE E(@"0*g
+0"b
+X
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csE E(>
 ""*
 1"
 ""

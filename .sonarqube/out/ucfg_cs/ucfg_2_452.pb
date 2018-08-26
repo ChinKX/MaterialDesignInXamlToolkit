@@ -1,7 +1,7 @@
 
->MaterialDesignThemes.Wpf.PackIconExtension.PackIconExtension()b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PackIconExtension.cs	 
-(
-"0*
-0"
+HMaterialDesignThemes.Wpf.DrawerHost.TopDrawerContentTemplateSelector.set[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csk k(Mvalue"0*
+0*
+1*
+1"
 ""

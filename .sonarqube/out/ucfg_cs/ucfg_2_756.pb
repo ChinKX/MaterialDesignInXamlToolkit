@@ -1,9 +1,7 @@
 
-SMaterialDesignThemes.Wpf.Transitions.TransitionEffect.CreateFadeIn(System.TimeSpan)m
-cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csV Y(initialOffset"0*|
-0"w
-m
-cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csX X(3
-""*
+’MaterialDesignThemes.Wpf.Transitions.TransitionEffect.TransitionEffect(MaterialDesignThemes.Wpf.Transitions.TransitionEffectKind, System.TimeSpan)m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.cs (kindduration"0*
+0*
+1*
 1"
 ""

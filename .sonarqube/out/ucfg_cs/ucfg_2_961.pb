@@ -1,24 +1,32 @@
 
-qMaterialDesignThemes.Wpf.PaletteHelper.GetHueIndex(MaterialDesignColors.Swatch, System.Windows.Media.Color, bool)`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csÇ Î(swatchcolorisAccent"0*
+fMaterialDesignThemes.Wpf.PaletteHelper.ReplaceEntry(object, object, System.Windows.ResourceDictionary)`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csú ’(	entryNamenewValueparentDictionary"0*
 0*
 1
 2*
 1*
-3*
-2*
-3*
+2*
+2*
+3
+4*
 3*
-4
-5*½
-4²
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csÌ Ì(g%0BSystem.InvalidOperationException.InvalidOperationException(string)"
-""*
-6*o
-5"j
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csÍ Í(
-""*
-6"
+5
+6*
+5*
+6*
+6*
+7
+8*
+7*
+4*
+8*
+4*
+4*
+9*
+9*
+10
+11*	
+10*
+9*
+11"
 ""

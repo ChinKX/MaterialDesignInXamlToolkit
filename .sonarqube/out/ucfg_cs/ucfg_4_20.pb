@@ -1,15 +1,23 @@
 
-}MaterialDesignColors.WpfExample.Cards.Flipper_OnIsFlippedChanged(object, System.Windows.RoutedPropertyChangedEventArgs<bool>)O
-ED:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Cards.xaml.cs (sendere"0*Ö
-0o
-O
-ED:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Cards.xaml.cs/ (O%0__concat"
-"""
-""â
-O
-ED:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Cards.xaml.cs (P%1*System.Diagnostics.Debug.WriteLine(string)"
+7MaterialDesignColors.WpfExample.Buttons.Execute(object)Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs! $(o"0*
+0*
+1
+2*
+1*
+2*Î
+2j
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs#E #(\%0object.ToString()q
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs# #(\%1__concat"
 
-%0*
-1*
-1"
+%0"
+""Å
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs# #(]%2 System.Console.WriteLine(string)"
+
+%1*
+3*
+3"
 ""

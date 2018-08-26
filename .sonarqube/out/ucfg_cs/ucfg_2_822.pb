@@ -1,6 +1,6 @@
 
-qMaterialDesignThemes.Wpf.DialogHost.CloseDialogCanExecute(object, System.Windows.Input.CanExecuteRoutedEventArgs)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs‘ ”(sendercanExecuteRoutedEventArgs"0*
+*MaterialDesignThemes.Wpf.RatingBar.Min.setZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs2 2(0value"0*
 0*
 1*
 1"

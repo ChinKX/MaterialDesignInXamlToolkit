@@ -1,9 +1,7 @@
 
-.MaterialDesignThemes.Wpf.Plane3D.RotationY.getX
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs2 2(>"0*g
-0"b
-X
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs2 2(<
-""*
+.MaterialDesignThemes.Wpf.Plane3D.RotationZ.setX
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs< <(6value"0*
+0*
+1*
 1"
 ""

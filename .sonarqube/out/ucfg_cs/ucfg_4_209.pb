@@ -1,33 +1,14 @@
 
-cMaterialDesignDemo.Domain.NotEmptyValidationRule.Validate(object, System.Globalization.CultureInfo)b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\NotEmptyValidationRule.cs (valuecultureInfo"0*
+JMaterialDesignColors.WpfExample.PickersViewModel.OnPropertyChanged(string)U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.csB E(propertyName"0*
 0*
 1
-2*
-1*
-2*ž
-2{
-b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\NotEmptyValidationRule.cs
-$ 
-(;%0object.ToString()“
-b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\NotEmptyValidationRule.cs
-
- 
-(<%1!string.IsNullOrWhiteSpace(string)"
-
-%0*
-3
-4*
-3*
-5*
-4*
-5*q
-5"l
-b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\NotEmptyValidationRule.cs
- ("
-""*
-6"
+2*É
+2¾
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.csD* D(S%0OSystem.ComponentModel.PropertyChangedEventArgs.PropertyChangedEventArgs(string)"
+
+propertyName*
+1*
+1"
 ""

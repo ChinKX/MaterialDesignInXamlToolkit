@@ -1,12 +1,9 @@
 
-RMaterialDesignColors.WpfExample.Domain.DocumentationLink.DemoPageLink<TDemoPage>()]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs: =("0*´
-0Å
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs< <(/%0XMaterialDesignColors.WpfExample.Domain.DocumentationLink.DemoPageLink<TDemoPage>(string)"
-"""g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs< <(0
+IMaterialDesignColors.WpfExample.PickersViewModel.FutureValidatingDate.getU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.cs8 8(0"0*d
+0"_
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.cs8 8(.
 ""*
 1"
 ""

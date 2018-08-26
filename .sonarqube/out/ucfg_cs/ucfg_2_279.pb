@@ -1,22 +1,15 @@
 
-wMaterialDesignThemes.Wpf.Converters.NotConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotConverter.cs
- (value
-targetType	parameterculture"0*
+öMaterialDesignThemes.Wpf.DialogClosingEventArgs.DialogClosingEventArgs(MaterialDesignThemes.Wpf.DialogSession, object, System.Windows.RoutedEvent, object)g
+]D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogClosingEventArgs.cs (session	parameterroutedEventsource"0*
 0*
 1
-2*ô
-1Å
-h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotConverter.cs4 (C%0object.ToString()ä
-h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotConverter.cs) (D%1bool.Parse(string)"
-
-%0*
-2*w
-2"r
-h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotConverter.cs (E
-""*
+2*º
+1±
+g
+]D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogClosingEventArgs.cs' (P%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*
+2*
+3*
 3"
 ""

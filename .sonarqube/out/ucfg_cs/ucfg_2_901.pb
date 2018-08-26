@@ -1,6 +1,6 @@
 
-|MaterialDesignThemes.Wpf.TextFieldAssist.SetDecorationVisibility(System.Windows.DependencyObject, System.Windows.Visibility)`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.cs7 :(elementvalue"0*
+5MaterialDesignThemes.Wpf.TimePicker.InitializeClock()]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs› £("0*
 0*
 1*
 1"

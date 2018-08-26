@@ -1,12 +1,7 @@
 
-FMaterialDesignThemes.Wpf.DrawerHost.RightDrawerContentStringFormat.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs‚ ‚(Kvalue"0*Ö
-0Ë
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs‚ ‚(H%0SSystem.Windows.DependencyObject.SetValue(System.Windows.DependencyProperty, object)"
-"""	
-
-value*
+:MaterialDesignThemes.Wpf.SnackbarMessage.ActionContent.set`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cs5 5(:value"0*
+0*
 1*
 1"
 ""

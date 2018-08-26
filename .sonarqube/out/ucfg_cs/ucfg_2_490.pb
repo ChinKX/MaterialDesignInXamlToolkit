@@ -1,9 +1,9 @@
 
-ÅMaterialDesignThemes.Wpf.ComboBoxPopup.PositioningData.PositioningData(System.Windows.Media.Visual, double, double, double, System.Windows.Size, System.Windows.Size, double, double, double, double)`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csþ ‡(
-mainVisualoffsetXnewUpYnewDownY	popupSize
-targetSize	locationX	locationYscreenHeightscreenWidth"0*
-0*
-1*
+AMaterialDesignThemes.Wpf.DrawerHost.LeftDrawerContentTemplate.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs¨ ¨(U"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs¨ ¨(S
+""*
 1"
 ""

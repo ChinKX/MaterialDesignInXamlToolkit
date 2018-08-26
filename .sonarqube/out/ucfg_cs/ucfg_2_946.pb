@@ -1,23 +1,17 @@
 
-iMaterialDesignThemes.Wpf.TextFieldAssist.GetSpellingError(System.Windows.Controls.Primitives.TextBoxBase)b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csÇ Ô(textBoxBase"0*
+zMaterialDesignThemes.Wpf.TextFieldAssist.TextBoxOnContextMenuClosing(object, System.Windows.Controls.ContextMenuEventArgs)b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csÖ Ý(sendere"0*
 0*
 1
-2*q
-1"l
+2*¤
+2™
 b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csÌ Ì(C
-""*
-2*
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csØ7 Ø(A%0/System.Windows.FrameworkElement.ContextMenu.get*
+1*
+1*
 3
-4*q
-3"l
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csÑ Ñ(N
-""*q
-4"l
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csÓ Ó(
-""*
-5"
+4*
+3*
+4*
+4"
 ""

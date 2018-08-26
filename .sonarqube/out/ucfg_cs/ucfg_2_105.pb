@@ -1,9 +1,9 @@
 
-.MaterialDesignThemes.Wpf.ClockItemButton.Y.get`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs: :(-"0*o
-0"j
-`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs:	 :(+
++MaterialDesignThemes.Wpf.ColorZone.Mode.getZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs- -(A"0*i
+0"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs- -(?
 ""*
 1"
 ""

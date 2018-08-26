@@ -1,9 +1,9 @@
 
-^MaterialDesignThemes.Wpf.RippleAssist.GetRippleSizeMultiplier(System.Windows.DependencyObject)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.cs` c(element"0*l
-0"g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.csb b(I
-""*
+bMaterialDesignThemes.Wpf.Flipper.FlipHandler(object, System.Windows.Input.ExecutedRoutedEventArgs)Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs∑ ∫(senderexecutedRoutedEventArgs"0*õ
+0ê
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.csπ0 π(8%0.MaterialDesignThemes.Wpf.Flipper.IsFlipped.get*
+1*
 1"
 ""

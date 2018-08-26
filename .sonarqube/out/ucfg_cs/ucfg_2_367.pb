@@ -1,9 +1,9 @@
 
-¿MaterialDesignThemes.Wpf.DialogHostEx.ShowDialog(System.Windows.DependencyObject, object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler, MaterialDesignThemes.Wpf.DialogClosingEventHandler)_
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHostEx.cså è(childDependencyObjectcontentopenedEventHandlerclosingEventHandler"0*o
-0"j
-`
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHostEx.csé é(Ç
+cMaterialDesignThemes.Wpf.DialogHost.Show(object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler)[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csd g(contentopenedEventHandler"0*j
+0"e
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csf f(F
 ""*
 1"
 ""

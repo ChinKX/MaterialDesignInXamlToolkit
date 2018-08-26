@@ -1,9 +1,7 @@
 
-QMaterialDesignThemes.Wpf.ColorZoneAssist.GetMode(System.Windows.DependencyObject)`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZoneAssist.cs (element"0*o
-0"j
-`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZoneAssist.cs (@
-""*
+jMaterialDesignThemes.Wpf.ButtonProgressAssist.SetIsIndicatorVisible(System.Windows.DependencyObject, bool)e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs_ b(elementisIndicatorVisible"0*
+0*
+1*
 1"
 ""

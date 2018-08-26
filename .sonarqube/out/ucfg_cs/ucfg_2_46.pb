@@ -1,9 +1,7 @@
 
-6MaterialDesignThemes.Wpf.Badged.BadgeColorZoneMode.getW
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Badged.cs (O"0*f
-0"a
-W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Badged.cs (M
-""*
+aMaterialDesignThemes.Wpf.ButtonProgressAssist.SetMinimum(System.Windows.DependencyObject, double)e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs (elementvalue"0*
+0*
+1*
 1"
 ""

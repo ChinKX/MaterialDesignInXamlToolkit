@@ -1,6 +1,6 @@
 
--MaterialDesignColors.WpfExample.Lists.Lists()O
-ED:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Lists.xaml.cs ("0*
+IMaterialDesignDemo.Domain.ListsAndGridsViewModel.ListsAndGridsViewModel()b
+XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.cs ("0*
 0*
 1*
 1"

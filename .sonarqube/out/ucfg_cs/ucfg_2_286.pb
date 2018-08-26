@@ -1,50 +1,47 @@
 
-SMaterialDesignThemes.Wpf.DateTimeEx.GetDateFormat(System.Globalization.CultureInfo)[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DateTimeEx.cs	 1(culture"0*
+ïMaterialDesignThemes.Wpf.Converters.CircularProgressBar.ArcEndPointConverter.Convert(object[], System.Type, object, System.Globalization.CultureInfo)Ñ
+zD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcEndPointConverter.cs
+ ((values
+targetType	parameterculture"0*
 0*
 1
-2*∞
-1•
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DateTimeEx.cs (G%0:System.ArgumentNullException.ArgumentNullException(string)"
-""*
-3*
+2*ï
+1"è
+Ñ
+zD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcEndPointConverter.cs ((
+""*
 2*
-4
-5*j
-4"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DateTimeEx.cs (!
-""*
+3
+4*
+3*
+5
+6*
 5*
 6*
 6*
 7
-8*
-7*
-9
+4*
+7*
+4*
+4*
+8
+9*	
+8*
 10*	
 9*
-10*
-10*
-11
-12*	
-11*
-6*	
-12*
-8*
-8*
-13
-14*
-
-13*
-15*
-
-14*
-15*k
-15"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DateTimeEx.cs0 0(
-""*
-3"
+10*à
+10•
+Ñ
+zD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcEndPointConverter.cs' '(/%0__concat"
+"""
+""«
+Ñ
+zD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcEndPointConverter.cs' '(E%1*System.Windows.Point.Point(double, double)"
+
+%0"
+"""è
+Ñ
+zD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcEndPointConverter.cs' '(F
+""*
+11"
 ""

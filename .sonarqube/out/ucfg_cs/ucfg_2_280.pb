@@ -1,17 +1,23 @@
 
-ëMaterialDesignThemes.Wpf.Converters.NullableDateTimeToCurrentDateConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)Ç
-xD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullableDateTimeToCurrentDateConverter.cs (value
+èMaterialDesignThemes.Wpf.Converters.CircularProgressBar.ArcSizeConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)Ä
+vD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcSizeConverter.cs
+ (value
 targetType	parameterculture"0*
 0*
 1
-2*ì
-1"ç
-Ç
-xD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullableDateTimeToCurrentDateConverter.cs (
-""*ì
-2"ç
-Ç
-xD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullableDateTimeToCurrentDateConverter.cs ($
+2*
+1*
+2*
+2*
+3
+4*ë
+3"ã
+Ä
+vD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcSizeConverter.cs (E
+""*ë
+4"ã
+Ä
+vD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcSizeConverter.cs (
 ""*
-3"
+5"
 ""

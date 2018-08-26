@@ -1,20 +1,21 @@
 
-KMaterialDesignDemo.Domain.DialogsViewModel.ExecuteRunExtendedDialog(object)\
-RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.cs/ <(o"0*
-0*
-1
-2*
-1*
-2*•
-2|
-\
-RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.cs; ;(r%0__concat"
-"""
-""Œ
-\
-RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.cs; ;(s%1 System.Console.WriteLine(string)"
+DVirtualCollection.VirtualCollection.VirtualizingWrapPanel.PageLeft()®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs½ À("0*ú
+0…
+®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¿  ¿(/%0NVirtualCollection.VirtualCollection.VirtualizingWrapPanel.HorizontalOffset.getþ
+®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¿3 ¿(;%1GVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemWidth.getÏ
+®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¿  ¿(;%2__concat"
 
-%0*
-3*
-3"
+%1"
+
+%0”
+®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¿ ¿(<%3UVirtualCollection.VirtualCollection.VirtualizingWrapPanel.SetHorizontalOffset(double)"
+
+%2*
+1*
+1"
 ""

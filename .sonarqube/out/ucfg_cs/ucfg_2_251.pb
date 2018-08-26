@@ -1,7 +1,11 @@
 
-!ControlzEx.PopupEx.RECT.Right.setè
-ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csó ó(&value"0*
-0*
+;MaterialDesignThemes.Wpf.Converters.ShadowInfo.ShadowInfo()f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowInfo.cs ("0*∞
+0•
+g
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowInfo.csG (ƒ%0&System.Uri.Uri(string, System.UriKind)"
+"""
+""*
 1*
 1"
 ""

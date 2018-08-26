@@ -1,9 +1,9 @@
 
-YMaterialDesignThemes.Wpf.ButtonProgressAssist.GetMaximum(System.Windows.DependencyObject)e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs# &(element"0*t
-0"o
-e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs% %(<
+'ControlzEx.BadgedEx.BadgeBackground.getŽ
+ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs' '(D"0*Ÿ
+0"™
+Ž
+ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs' '(B
 ""*
 1"
 ""

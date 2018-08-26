@@ -1,10 +1,7 @@
 
-%ControlzEx.BadgedEx.OnApplyTemplate()Ž
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.csd i("0*â
-0×
-Ž
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.csh h(E%08System.Windows.FrameworkElement.GetTemplateChild(string)"
-""*
+dMaterialDesignThemes.Wpf.ComboBoxAssist.SetShowSelectedItem(System.Windows.DependencyObject, object)_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxAssist.cs, /(elementvalue"0*
+0*
 1*
 1"
 ""

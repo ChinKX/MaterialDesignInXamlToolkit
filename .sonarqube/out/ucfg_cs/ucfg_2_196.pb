@@ -1,15 +1,9 @@
 
-ªMaterialDesignThemes.Wpf.Converters.ClockItemIsCheckedConverter.ClockItemIsCheckedConverter(System.Func<System.DateTime>, MaterialDesignThemes.Wpf.ClockDisplayMode, bool)w
-mD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ClockItemIsCheckedConverter.cs (currentTimeGetterdisplayMode	is24Hours"0*
-0*
-1
-2*Ì
-1Á
-w
-mD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ClockItemIsCheckedConverter.cs( ([%0:System.ArgumentNullException.ArgumentNullException(string)"
-""*
-3*
-2*
-3*
-3"
+9MaterialDesignThemes.Wpf.ComboBoxPopup.PopupPlacement.get^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csp p(S"0*m
+0"h
+^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csp p(Q
+""*
+1"
 ""

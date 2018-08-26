@@ -1,10 +1,9 @@
 
-MaterialDesignThemes.Wpf.Converters.NotZeroConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)l
-bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotZeroConverter.cs (value
-targetType	parameterculture"0*{
-0"v
-l
-bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotZeroConverter.cs ($
+ ControlzEx.PopupEx.RECT.Left.getè
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csè è($"0*†
+0"ö
+è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csè è("
 ""*
 1"
 ""

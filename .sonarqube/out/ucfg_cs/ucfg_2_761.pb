@@ -1,16 +1,38 @@
 
-GMaterialDesignThemes.Wpf.Transitions.TransitionerSlide.AnimateToState()n
-dD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionerSlide.csF K("0*Ä
-0¶
-n
-dD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionerSlide.csH H(%0@MaterialDesignThemes.Wpf.Transitions.TransitionerSlide.State.get*
+4MaterialDesignThemes.Wpf.TimePicker.SetInvalidTime()]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csø ˆ("0*¯
+0¡
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csú ú(#%0<MaterialDesignThemes.Wpf.TimePicker.IsInvalidTextAllowed.get*
 1
-2*}
-1"x
-n
-dD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionerSlide.csH9 H(?
-""*
-2*
-3*
-3"
+2*l
+1"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csú& ú(,
+""*
+2*
+3
+4*
+3*
+5
+6*
+5*
+7*
+6*
+7*°
+7
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csÿ  ÿ(y%0 System.DateTime.ToString(string)"
+""•
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csÿ ÿ(y%1(System.Windows.Controls.TextBox.Text.set"
+
+%0*
+8* 
+4•
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs… …(!%0(System.Windows.Controls.TextBox.Text.set"
+""*
+8*
+8"
 ""

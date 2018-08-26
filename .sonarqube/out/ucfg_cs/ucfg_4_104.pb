@@ -1,9 +1,13 @@
 
-=MaterialDesignColors.WpfExample.ButtonsViewModel.IsSaving.getW
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csž ž($"0*f
-0"a
+CMaterialDesignColors.WpfExample.ButtonsViewModel.OrClickMeCount.setW
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs‘ ‘(bvalue"0*ï
+0ä
 W
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csž ž("
-""*
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs‘ ‘(_%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
+"""
+"""
+"""
+""*
+1*
 1"
 ""

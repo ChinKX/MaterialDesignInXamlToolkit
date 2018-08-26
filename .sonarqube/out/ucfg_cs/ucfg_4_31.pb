@@ -1,7 +1,14 @@
 
-GVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemWidth.set¬
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs5 5(6value"0*
-0*
+8MaterialDesignDemo.Domain.SampleDialogViewModel.Name.seta
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SampleDialogViewModel.cs (value"0*ü
+0ñ
+a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SampleDialogViewModel.cs (K%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
+"""
+"""	
+
+value"
+""*
 1*
 1"
 ""

@@ -1,7 +1,12 @@
 
-jMaterialDesignThemes.Wpf.RatingBar.SelectItemHandler(object, System.Windows.Input.ExecutedRoutedEventArgs)Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs& *(senderexecutedRoutedEventArgs"0*
-0*
+UMaterialDesignThemes.Wpf.TimePicker.ParseTime(string, System.Action<System.DateTime>)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csÉ Î(ssuccessContinuation"0*Î
+0À
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csÌ Ì('%0LMaterialDesignThemes.Wpf.TimePicker.IsTimeValid(string, out System.DateTime)"
+
+s"
+""*
 1
 2*
 1*

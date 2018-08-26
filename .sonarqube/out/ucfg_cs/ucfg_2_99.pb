@@ -1,6 +1,6 @@
 
-.MaterialDesignThemes.Wpf.ClockItemButton.X.set`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs+ +(0value"0*
+&MaterialDesignThemes.Wpf.Clock.Clock()V
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs8 ;("0*
 0*
 1*
 1"

@@ -1,9 +1,20 @@
 
-3MaterialDesignThemes.Wpf.ColorZone.CornerRadius.getZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs6 6(H"0*i
-0"d
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs6 6(F
-""*
-1"
+:MaterialDesignThemes.Wpf.ClockItemButton.OnApplyTemplate()`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs> Q("0*
+0*
+1
+2*
+1*
+2*¶
+2¨
+`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csG G(*%08System.Windows.FrameworkElement.GetTemplateChild(string)"
+""*
+3
+4*
+3*
+4*
+4*
+5*
+5"
 ""

@@ -1,9 +1,9 @@
 
-,MaterialDesignThemes.Wpf.TimePicker.Text.get[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs? ?(1"0*j
-0"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs?	 ?(/
+=MaterialDesignThemes.Wpf.DialogHost.DialogContentTemplate.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÃ Ã(P"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÃ Ã(N
 ""*
 1"
 ""

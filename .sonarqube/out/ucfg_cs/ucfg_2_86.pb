@@ -1,7 +1,9 @@
 
-ÅMaterialDesignThemes.Wpf.ButtonProgressAssist.SetIndicatorBackground(System.Windows.DependencyObject, System.Windows.Media.Brush)e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.csR U(elementindicatorBackground"0*
-0*
-1*
+.MaterialDesignThemes.Wpf.ClockItemButton.X.get`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs* *(-"0*o
+0"j
+`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs*	 *(+
+""*
 1"
 ""

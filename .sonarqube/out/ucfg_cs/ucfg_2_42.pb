@@ -1,9 +1,7 @@
 
-YMaterialDesignThemes.Wpf.ButtonProgressAssist.GetMinimum(System.Windows.DependencyObject)e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs (element"0*t
-0"o
-e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs (<
-""*
+\MaterialDesignThemes.Wpf.ValidationAssist.SetSuppress(System.Windows.DependencyObject, bool)a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ValidationAssist.csE H(elementvalue"0*
+0*
+1*
 1"
 ""

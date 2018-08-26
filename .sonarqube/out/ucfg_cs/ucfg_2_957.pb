@@ -1,32 +1,37 @@
 
-KMaterialDesignThemes.Wpf.PopupBox.OnLayoutUpdated(object, System.EventArgs)[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csø À(sender	eventArgs"0*
-0*
+5MaterialDesignThemes.Wpf.PaletteHelper.QueryPalette()`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csÉ ß("0*ﬂ
+0ß
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csî" î(?%07MaterialDesignThemes.Wpf.PaletteHelper.GetBrush(string)"
+""ß
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csï ï(=%17MaterialDesignThemes.Wpf.PaletteHelper.GetBrush(string)"
+""*
 1
-2*
-1*
-2*
+2*Ω
+1≤
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csô ô(f%0BSystem.InvalidOperationException.InvalidOperationException(string)"
+""*
+3*
 2*
-3
-4*†
-3í
-[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs¬ ¬(%0/MaterialDesignThemes.Wpf.PopupBox.PopupMode.get*
-5
-6*ù
-6í
-[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs¬= ¬(E%0/MaterialDesignThemes.Wpf.PopupBox.PopupMode.get*
-5*
-5*
-4*
-4*
-7
-8*
-7*
-9
-8*
-9*
-8*
-8"
+4
+5*Ω
+4≤
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csú ú(h%0BSystem.InvalidOperationException.InvalidOperationException(string)"
+""*
+3*ƒ
+5ß
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csû$ û(C%07MaterialDesignThemes.Wpf.PaletteHelper.GetBrush(string)"
+""ß
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csü# ü(A%17MaterialDesignThemes.Wpf.PaletteHelper.GetBrush(string)"
+"""k
+a
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.cs¶ ¶(ä
+""*
+3"
 ""

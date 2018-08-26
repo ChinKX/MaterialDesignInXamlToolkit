@@ -1,10 +1,7 @@
 
-ùMaterialDesignThemes.Wpf.Converters.CircularProgressBar.RotateTransformCentreConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)è
-ÑD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\RotateTransformCentreConverter.cs	 (value
-targetType	parameterculture"0*†
-0"ö
-è
-ÑD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\RotateTransformCentreConverter.cs (#
-""*
+ÄMaterialDesignThemes.Wpf.ClockItemButton.ThumbOnDragCompleted(object, System.Windows.Controls.Primitives.DragCompletedEventArgs)b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs¨ Ø(senderdragCompletedEventArgs"0*
+0*
+1*
 1"
 ""

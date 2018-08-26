@@ -1,7 +1,9 @@
 
-{MaterialDesignThemes.Wpf.TreeViewAssist.SetAdditionalTemplate(System.Windows.DependencyObject, System.Windows.DataTemplate)_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.cs! $(elementvalue"0*
-0*
-1*
+'MaterialDesignThemes.Wpf.Clock.Time.getV
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csO O(3"0*e
+0"`
+V
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csO	 O(1
+""*
 1"
 ""

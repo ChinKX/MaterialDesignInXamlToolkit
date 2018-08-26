@@ -1,10 +1,13 @@
 
-bMaterialDesignColors.WpfExample.Buttons.ButtonBase_OnClick(object, System.Windows.RoutedEventArgs)Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs& )(sendere"0*å
-0Å
-Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs( ((O%0 System.Console.WriteLine(string)"
-""*
-1*
+lMaterialDesignDemo.Domain.SimpleDataTemplateSelector.SelectTemplate(object, System.Windows.DependencyObject)f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SimpleDataTemplateSelector.cs
+ (item	container"0*¨
+0¥
+f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SimpleDataTemplateSelector.cs (%0FMaterialDesignDemo.Domain.SimpleDataTemplateSelector.FixedTemplate.get"p
+f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SimpleDataTemplateSelector.cs ( 
+
+%0*
 1"
 ""

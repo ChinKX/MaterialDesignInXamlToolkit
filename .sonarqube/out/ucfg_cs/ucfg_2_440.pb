@@ -1,6 +1,6 @@
 
-6MaterialDesignThemes.Wpf.ListBoxAssist.ListBoxAssist()^
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListBoxAssist.cs ("0*
+\MaterialDesignThemes.Wpf.RippleAssist.SetClipToBounds(System.Windows.DependencyObject, bool)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.cs (elementvalue"0*
 0*
 1*
 1"

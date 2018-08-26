@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="52" visitedSequencePoints="0" numBranchPoints="14" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" visitedClasses="0" numClasses="4" visitedMethods="0" numMethods="14" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="47-4F-7D-35-73-BF-74-9F-66-10-A9-01-D4-C8-14-7C-0F-BC-78-49">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:03.7302244Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D4-01-BA-72-31-4F-92-69-57-4C-E8-24-55-2F-1B-35-88-62-4F-64">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.console.x86.exe</ModulePath>
+      <ModuleTime>2018-07-16T20:18:10Z</ModuleTime>
+      <ModuleName>xunit.console.x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CD-4E-89-34-E9-B6-C3-BF-CB-96-5C-1E-A2-99-84-F1-90-C3-2A-EE">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B0-0E-47-E4-4C-7A-51-93-BF-D7-D8-34-D1-3E-D6-49-0C-C0-99-48">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.reporters.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.reporters.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="19-6F-A5-C6-C2-4E-32-27-A2-D0-61-D8-30-02-1D-0F-63-C0-78-46">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.1697369Z</ModuleTime>
+      <ModuleName>System.Net.Http</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="56-19-E4-7F-9D-08-2A-5D-25-92-FC-AC-8E-40-FB-0D-95-AA-95-71">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:41.6624236Z</ModuleTime>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="EE-87-E3-8B-35-D7-7B-51-75-59-60-AC-9C-42-7D-75-33-40-43-72">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.3885028Z</ModuleTime>
+      <ModuleName>System.Xml.Linq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F2-26-5B-FA-55-E9-5B-BC-DD-3A-32-56-2C-38-71-11-1A-8E-6D-32">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0290261Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-F4-1C-14-5D-7A-74-B3-03-8B-1D-2A-59-DC-B6-BE-1D-C8-EF-54">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.9508953Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\f004c0da-f2db-4422-8f01-b1d270cf87a5\f004c0da-f2db-4422-8f01-b1d270cf87a5\assembly\dl3\7d98e44f\009aa81e_421dd401\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:36.736403Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="CC-19-8D-FA-3F-C0-A6-76-9B-2F-A3-36-C4-00-AA-CA-62-14-CB-49">
+      <Summary numSequencePoints="36" visitedSequencePoints="0" numBranchPoints="10" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" visitedClasses="0" numClasses="2" visitedMethods="0" numMethods="10" />
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\MaterialDesignColors.Wpf.Fixture.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:51:16.3205014Z</ModuleTime>
+      <ModuleName>MaterialDesignColors.Wpf.Fixture</ModuleName>
+      <Files>
+        <File uid="1" fullPath="D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf.Tests\ResourceProviderFixture.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="31" visitedSequencePoints="0" numBranchPoints="5" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="5" />
+          <FullName>MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="2" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="5" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture::ExcludesBlack()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="1" ordinal="0" offset="0" sl="15" sc="9" el="15" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="2" ordinal="1" offset="1" sl="16" sc="13" el="16" ec="59" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="3" ordinal="2" offset="7" sl="18" sc="13" el="19" ec="115" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="4" ordinal="3" offset="50" sl="21" sc="13" el="21" ec="43" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="5" ordinal="4" offset="58" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="1" ordinal="0" offset="0" sl="15" sc="9" el="15" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="2" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="5" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture::IncludesGrey()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="8" ordinal="0" offset="0" sl="26" sc="9" el="26" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="9" ordinal="1" offset="1" sl="27" sc="13" el="27" ec="59" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="10" ordinal="2" offset="7" sl="29" sc="13" el="30" ec="114" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="11" ordinal="3" offset="50" sl="32" sc="13" el="32" ec="42" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="12" ordinal="4" offset="58" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="8" ordinal="0" offset="0" sl="26" sc="9" el="26" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="2" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="7" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture::BrownHasNoAccents()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="15" ordinal="0" offset="0" sl="37" sc="9" el="37" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="16" ordinal="1" offset="1" sl="38" sc="13" el="38" ec="59" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="17" ordinal="2" offset="7" sl="40" sc="13" el="41" ec="51" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="18" ordinal="3" offset="50" sl="43" sc="13" el="43" ec="52" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="19" ordinal="4" offset="63" sl="44" sc="13" el="44" ec="54" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="20" ordinal="5" offset="76" sl="45" sc="13" el="45" ec="56" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="21" ordinal="6" offset="94" sl="46" sc="9" el="46" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="15" ordinal="0" offset="0" sl="37" sc="9" el="37" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="2" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="7" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture::BrownHasPrimaries()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="24" ordinal="0" offset="0" sl="50" sc="9" el="50" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="25" ordinal="1" offset="1" sl="51" sc="13" el="51" ec="59" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="26" ordinal="2" offset="7" sl="53" sc="13" el="54" ec="51" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="27" ordinal="3" offset="50" sl="56" sc="13" el="56" ec="52" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="28" ordinal="4" offset="63" sl="57" sc="13" el="57" ec="55" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="29" ordinal="5" offset="76" sl="58" sc="13" el="58" ec="58" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="30" ordinal="6" offset="95" sl="59" sc="9" el="59" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="24" ordinal="0" offset="0" sl="50" sc="9" el="50" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="2" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="7" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture::IndigoHasAccents()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="33" ordinal="0" offset="0" sl="63" sc="9" el="63" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="34" ordinal="1" offset="1" sl="64" sc="13" el="64" ec="59" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="35" ordinal="2" offset="7" sl="66" sc="13" el="67" ec="52" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="36" ordinal="3" offset="50" sl="69" sc="13" el="69" ec="51" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="37" ordinal="4" offset="63" sl="70" sc="13" el="70" ec="54" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="38" ordinal="5" offset="76" sl="71" sc="13" el="71" ec="56" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="39" ordinal="6" offset="94" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="33" ordinal="0" offset="0" sl="63" sc="9" el="63" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="42" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="5" visitedSequencePoints="0" numBranchPoints="5" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="5" />
+          <FullName>MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture/&lt;&gt;c</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture/&lt;&gt;c::.cctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="43" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663304</MetadataToken>
+              <Name>System.Void MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture/&lt;&gt;c::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="44" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663305</MetadataToken>
+              <Name>System.Boolean MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture/&lt;&gt;c::&lt;ExcludesBlack&gt;b__0_0(MaterialDesignColors.Swatch)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="45" ordinal="0" offset="0" sl="19" sc="27" el="19" ec="113" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="45" ordinal="0" offset="0" sl="19" sc="27" el="19" ec="113" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663306</MetadataToken>
+              <Name>System.Boolean MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture/&lt;&gt;c::&lt;IncludesGrey&gt;b__1_0(MaterialDesignColors.Swatch)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="46" ordinal="0" offset="0" sl="30" sc="27" el="30" ec="112" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="46" ordinal="0" offset="0" sl="30" sc="27" el="30" ec="112" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663307</MetadataToken>
+              <Name>System.Boolean MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture/&lt;&gt;c::&lt;BrownHasNoAccents&gt;b__2_0(MaterialDesignColors.Swatch)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="47" ordinal="0" offset="0" sl="41" sc="27" el="41" ec="49" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="47" ordinal="0" offset="0" sl="41" sc="27" el="41" ec="49" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663308</MetadataToken>
+              <Name>System.Boolean MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture/&lt;&gt;c::&lt;BrownHasPrimaries&gt;b__3_0(MaterialDesignColors.Swatch)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="48" ordinal="0" offset="0" sl="54" sc="27" el="54" ec="49" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="48" ordinal="0" offset="0" sl="54" sc="27" el="54" ec="49" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663309</MetadataToken>
+              <Name>System.Boolean MaterialDesignColors.Wpf.Fixture.ResourceProviderFixture/&lt;&gt;c::&lt;IndigoHasAccents&gt;b__4_0(MaterialDesignColors.Swatch)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="49" ordinal="0" offset="0" sl="67" sc="27" el="67" ec="50" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="49" ordinal="0" offset="0" sl="67" sc="27" el="67" ec="50" bec="0" bev="0" fileid="1" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9E-A9-5D-7F-86-82-4D-02-7D-07-AD-C0-17-06-5D-73-8F-1F-28-44">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\d7017c1a-7154-43e9-9403-3710b07ce2c4\d7017c1a-7154-43e9-9403-3710b07ce2c4\assembly\dl3\97885537\00379646_d6f1d101\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:37.0276295Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="61-48-84-C2-D1-D5-99-D6-62-AF-99-DC-EE-36-8C-D2-C9-20-16-EB">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\d7017c1a-7154-43e9-9403-3710b07ce2c4\d7017c1a-7154-43e9-9403-3710b07ce2c4\assembly\dl3\c9e0bbae\00f20f3d_a24ed301\xunit.execution.desktop.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:37.0373348Z</ModuleTime>
+      <ModuleName>xunit.execution.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="CC-19-8D-FA-3F-C0-A6-76-9B-2F-A3-36-C4-00-AA-CA-62-14-CB-49">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\d7017c1a-7154-43e9-9403-3710b07ce2c4\d7017c1a-7154-43e9-9403-3710b07ce2c4\assembly\dl3\4ad1945e\96313005_403cd401\MaterialDesignColors.Wpf.Fixture.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:37.0632659Z</ModuleTime>
+      <ModuleName>MaterialDesignColors.Wpf.Fixture</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D4-01-BA-72-31-4F-92-69-57-4C-E8-24-55-2F-1B-35-88-62-4F-64">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.console.x86.exe</ModulePath>
+      <ModuleTime>2018-07-16T20:18:10Z</ModuleTime>
+      <ModuleName>xunit.console.x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A9-2D-37-71-85-86-25-78-29-7F-26-79-55-A6-E5-61-80-28-93-5F">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\d7017c1a-7154-43e9-9403-3710b07ce2c4\d7017c1a-7154-43e9-9403-3710b07ce2c4\assembly\dl3\040985a9\0098ad3a_a24ed301\xunit.core.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:37.0767736Z</ModuleTime>
+      <ModuleName>xunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F1-67-10-FE-CA-06-2B-45-18-C0-DB-E8-DB-07-A4-7E-5B-25-BD-51">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.1697369Z</ModuleTime>
+      <ModuleName>System.Runtime</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F4-54-C7-59-FD-61-E7-47-4E-0A-64-35-96-3E-28-5D-B6-8C-21-86">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.8102601Z</ModuleTime>
+      <ModuleName>System.Threading.Tasks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="61-48-84-C2-D1-D5-99-D6-62-AF-99-DC-EE-36-8C-D2-C9-20-16-EB">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\xunit.execution.desktop.dll</ModulePath>
+      <ModuleTime>2017-10-26T21:34:44Z</ModuleTime>
+      <ModuleName>xunit.execution.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A9-2D-37-71-85-86-25-78-29-7F-26-79-55-A6-E5-61-80-28-93-5F">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\xunit.core.dll</ModulePath>
+      <ModuleTime>2017-10-26T21:34:40Z</ModuleTime>
+      <ModuleName>xunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F1-67-10-FE-CA-06-2B-45-18-C0-DB-E8-DB-07-A4-7E-5B-25-BD-51">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.1697369Z</ModuleTime>
+      <ModuleName>System.Runtime</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F4-54-C7-59-FD-61-E7-47-4E-0A-64-35-96-3E-28-5D-B6-8C-21-86">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.8102601Z</ModuleTime>
+      <ModuleName>System.Threading.Tasks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="26-E0-34-D3-A9-C4-33-7A-2B-12-1B-03-1E-48-23-95-AB-44-04-80">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:19.74798Z</ModuleTime>
+      <ModuleName>System.Collections</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="6E-31-1B-9A-CE-1B-D7-7D-29-F3-C6-16-82-52-0C-9D-81-96-C0-83">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\d7017c1a-7154-43e9-9403-3710b07ce2c4\d7017c1a-7154-43e9-9403-3710b07ce2c4\assembly\dl3\7cbb2bb1\e498ecff_3f3cd401\MaterialDesignColors.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:37.4098583Z</ModuleTime>
+      <ModuleName>MaterialDesignColors</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A2-EF-99-29-27-F3-3D-B6-99-16-2E-41-26-9B-DF-F2-54-8D-BA-81">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\d7017c1a-7154-43e9-9403-3710b07ce2c4\d7017c1a-7154-43e9-9403-3710b07ce2c4\assembly\dl3\af913b63\00066589_41afd201\Shouldly.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:37.4189816Z</ModuleTime>
+      <ModuleName>Shouldly</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E1-A5-74-F7-98-93-A4-DA-F2-BD-1B-A0-45-A8-F0-B5-EE-E1-73-74">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.4563727Z</ModuleTime>
+      <ModuleName>System.Xaml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="EA-82-BF-FC-F5-1B-BB-73-EF-61-51-EF-34-34-A7-7B-EB-02-D8-84">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.6751399Z</ModuleTime>
+      <ModuleName>PresentationFramework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="1F-75-AA-50-5E-1C-E6-FC-0A-EF-0E-2C-40-4C-0C-95-EC-1B-09-63">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.5657563Z</ModuleTime>
+      <ModuleName>WindowsBase</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="5F-56-FB-3D-86-8B-0B-3F-CD-54-41-7D-62-DD-7F-11-5C-FC-AA-F3">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.8157768Z</ModuleTime>
+      <ModuleName>PresentationCore</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-F4-1C-14-5D-7A-74-B3-03-8B-1D-2A-59-DC-B6-BE-1D-C8-EF-54">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.9508953Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F2-26-5B-FA-55-E9-5B-BC-DD-3A-32-56-2C-38-71-11-1A-8E-6D-32">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0290261Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\23bf61d9-0f0b-4cd0-a299-5e19e273c185\23bf61d9-0f0b-4cd0-a299-5e19e273c185\assembly\dl3\b3424843\009aa81e_421dd401\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.053402Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="57-E5-4F-A7-AE-D5-32-8B-65-BA-2C-24-AB-27-88-1A-8A-51-91-7F">
+      <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="4" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" visitedClasses="0" numClasses="2" visitedMethods="0" numMethods="4" />
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:51:17.3963738Z</ModuleTime>
+      <ModuleName>MaterialDesignThemes.Wpf.Tests</ModuleName>
+      <Files>
+        <File uid="5" fullPath="D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\PaletteHelperFixture.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="15" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="3" />
+          <FullName>MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="2" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="5" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture::IsMockableWithRhino()</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="50" ordinal="0" offset="0" sl="20" sc="9" el="20" ec="10" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="51" ordinal="1" offset="1" sl="21" sc="13" el="21" ec="78" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="52" ordinal="2" offset="13" sl="23" sc="13" el="23" ec="46" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="53" ordinal="3" offset="21" sl="25" sc="13" el="25" ec="72" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="54" ordinal="4" offset="59" sl="26" sc="9" el="26" ec="10" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="50" ordinal="0" offset="0" sl="20" sc="9" el="20" ec="10" bec="0" bev="0" fileid="5" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="5" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture::IsMockableWithMoq()</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="57" ordinal="0" offset="0" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="58" ordinal="1" offset="1" sl="31" sc="13" el="31" ec="50" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="59" ordinal="2" offset="7" sl="33" sc="13" el="33" ec="44" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="60" ordinal="3" offset="20" sl="35" sc="13" el="35" ec="54" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="61" ordinal="4" offset="114" sl="36" sc="9" el="36" ec="10" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="57" ordinal="0" offset="0" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="5" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="5" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture::IsMockableWithNSubstitute()</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="62" ordinal="0" offset="0" sl="40" sc="9" el="40" ec="10" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="63" ordinal="1" offset="1" sl="41" sc="13" el="41" ec="56" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="64" ordinal="2" offset="13" sl="43" sc="13" el="43" ec="37" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="65" ordinal="3" offset="21" sl="45" sc="13" el="45" ec="49" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="66" ordinal="4" offset="35" sl="46" sc="9" el="46" ec="10" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="62" ordinal="0" offset="0" sl="40" sc="9" el="40" ec="10" bec="0" bev="0" fileid="5" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="67" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="1" />
+          <FullName>MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture/&lt;&gt;c</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture/&lt;&gt;c::.cctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="68" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture/&lt;&gt;c::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="69" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void MaterialDesignThemes.Wpf.Tests.PaletteHelperFixture/&lt;&gt;c::&lt;IsMockableWithRhino&gt;b__0_0(MaterialDesignThemes.Wpf.PaletteHelper)</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="70" ordinal="0" offset="0" sl="25" sc="49" el="25" ec="70" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="70" ordinal="0" offset="0" sl="25" sc="49" el="25" ec="70" bec="0" bev="0" fileid="5" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9E-A9-5D-7F-86-82-4D-02-7D-07-AD-C0-17-06-5D-73-8F-1F-28-44">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\b40425e8\00379646_d6f1d101\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.1415931Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="61-48-84-C2-D1-D5-99-D6-62-AF-99-DC-EE-36-8C-D2-C9-20-16-EB">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\95ab9c15\00f20f3d_a24ed301\xunit.execution.desktop.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.1505781Z</ModuleTime>
+      <ModuleName>xunit.execution.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="57-E5-4F-A7-AE-D5-32-8B-65-BA-2C-24-AB-27-88-1A-8A-51-91-7F">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\0f87b8ae\da5bd405_403cd401\MaterialDesignThemes.Wpf.Tests.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.1731103Z</ModuleTime>
+      <ModuleName>MaterialDesignThemes.Wpf.Tests</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D4-01-BA-72-31-4F-92-69-57-4C-E8-24-55-2F-1B-35-88-62-4F-64">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.console.x86.exe</ModulePath>
+      <ModuleTime>2018-07-16T20:18:10Z</ModuleTime>
+      <ModuleName>xunit.console.x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A9-2D-37-71-85-86-25-78-29-7F-26-79-55-A6-E5-61-80-28-93-5F">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\df1c1af0\0098ad3a_a24ed301\xunit.core.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.1804981Z</ModuleTime>
+      <ModuleName>xunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F1-67-10-FE-CA-06-2B-45-18-C0-DB-E8-DB-07-A4-7E-5B-25-BD-51">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.1697369Z</ModuleTime>
+      <ModuleName>System.Runtime</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F4-54-C7-59-FD-61-E7-47-4E-0A-64-35-96-3E-28-5D-B6-8C-21-86">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.8102601Z</ModuleTime>
+      <ModuleName>System.Threading.Tasks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="26-E0-34-D3-A9-C4-33-7A-2B-12-1B-03-1E-48-23-95-AB-44-04-80">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:19.74798Z</ModuleTime>
+      <ModuleName>System.Collections</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CE-9D-7A-CC-CC-3E-40-16-4B-9E-3C-FB-D3-E8-2E-09-B9-75-8E-C7">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\17b0a21b\00928dc9_a456d301\Moq.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.312308Z</ModuleTime>
+      <ModuleName>Moq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="69-EC-52-7F-03-3A-9D-DF-CD-00-B2-74-2C-05-01-55-07-C9-3B-78">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\3e1fa1a7\54622701_403cd401\MaterialDesignThemes.Wpf.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.351815Z</ModuleTime>
+      <ModuleName>MaterialDesignThemes.Wpf</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3E-A7-0F-F2-06-A9-B7-6F-3B-F8-C5-CC-E6-A3-F4-B4-06-A4-F6-97">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\be8c5e4a\006017a7_5c41d301\Castle.Core.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.3908967Z</ModuleTime>
+      <ModuleName>Castle.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-F4-1C-14-5D-7A-74-B3-03-8B-1D-2A-59-DC-B6-BE-1D-C8-EF-54">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.9508953Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F2-26-5B-FA-55-E9-5B-BC-DD-3A-32-56-2C-38-71-11-1A-8E-6D-32">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0290261Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="6E-31-1B-9A-CE-1B-D7-7D-29-F3-C6-16-82-52-0C-9D-81-96-C0-83">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\d3e68240\e498ecff_3f3cd401\MaterialDesignColors.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.5055903Z</ModuleTime>
+      <ModuleName>MaterialDesignColors</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="7E-26-06-1C-18-6F-39-1D-B7-4A-76-B1-03-FE-F5-66-25-02-53-84">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\21f2a8e8\00c0767e_d104cd01\Rhino.Mocks.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.6467094Z</ModuleTime>
+      <ModuleName>Rhino.Mocks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2F-16-12-29-47-C9-48-70-BA-CF-B6-6A-6E-D1-EF-8B-61-D9-6A-E4">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\4187f209-b22a-4514-b9ca-f8a0f7764e31\4187f209-b22a-4514-b9ca-f8a0f7764e31\assembly\dl3\c9bfdaa2\0052b43f_6ebdd201\NSubstitute.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:56:38.7328983Z</ModuleTime>
+      <ModuleName>NSubstitute</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DD-65-F0-39-CB-AB-85-8A-61-D4-A3-C0-3E-CA-2F-AA-84-54-C5-84">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.6438879Z</ModuleTime>
+      <ModuleName>System.ServiceModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

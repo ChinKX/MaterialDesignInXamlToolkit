@@ -1,9 +1,7 @@
 
-*ControlzEx.BadgedEx.BadgePlacementMode.getŽ
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs9 9(T"0*Ÿ
-0"™
-Ž
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs9 9(R
-""*
+.MaterialDesignThemes.Wpf.Underline.Underline()Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.cs ("0*
+0*
+1*
 1"
 ""

@@ -1,9 +1,7 @@
 
-5MaterialDesignThemes.Wpf.DialogHost.DialogContent.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csº º(B"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csº º(@
-""*
+EMaterialDesignThemes.Wpf.DialogHost.DialogContentTemplateSelector.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÍ Í(Jvalue"0*
+0*
+1*
 1"
 ""

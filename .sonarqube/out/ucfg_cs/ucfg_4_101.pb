@@ -1,6 +1,6 @@
 
->MaterialDesignDemo.TransitionsDemo.Slide3_Intro.Slide3_Intro()f
-\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\TransitionsDemo\Slide3_Intro.xaml.cs ("0*
+PMaterialDesignColors.WpfExample.Domain.SampleMessageDialog.SampleMessageDialog()d
+ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SampleMessageDialog.xaml.cs ("0*
 0*
 1*
 1"

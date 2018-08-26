@@ -1,7 +1,9 @@
 
-8MaterialDesignThemes.Wpf.DrawerHost.IsLeftDrawerOpen.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csÍ Í(=value"0*
-0*
-1*
+2MaterialDesignThemes.Wpf.DialogHost.Identifier.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csè è(7"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csè è(5
+""*
 1"
 ""

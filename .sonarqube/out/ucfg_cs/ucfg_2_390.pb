@@ -1,9 +1,14 @@
 
-—MaterialDesignThemes.Wpf.DialogHost.Show(object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler, MaterialDesignThemes.Wpf.DialogClosingEventHandler)[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs{ ~(contentopenedEventHandlerclosingEventHandler"0*j
-0"e
+rMaterialDesignThemes.Wpf.Extensions.IsAncestorOf(System.Windows.DependencyObject, System.Windows.DependencyObject)[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Extensions.cs0 3(parentnode"0*
+0*
+1
+2*
+1*
+2*j
+2"e
 [
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs} }(U
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Extensions.cs2 2(T
 ""*
-1"
+3"
 ""

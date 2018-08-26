@@ -1,6 +1,6 @@
 
-7MaterialDesignThemes.Wpf.DrawerHost.IsTopDrawerOpen.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs† †(<value"0*
+‡MaterialDesignThemes.Wpf.Flipper.OnIsFlippedChanged(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs‡ (de"0*
 0*
 1*
 1"

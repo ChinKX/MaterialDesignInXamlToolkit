@@ -1,7 +1,9 @@
 
-4MaterialDesignThemes.Wpf.SmartHint.FloatingScale.setZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csu u(:value"0*
-0*
-1*
+AMaterialDesignThemes.Wpf.PopupBox.ToggleCheckedContentCommand.get[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csµ µ(S"0*j
+0"e
+[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csµ µ(Q
+""*
 1"
 ""

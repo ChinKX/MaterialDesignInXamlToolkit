@@ -1,17 +1,7 @@
 
-KControlzEx.PopupEx.PopupEx_Unloaded(object, System.Windows.RoutedEventArgs)ç
-ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csd v(sendere"0*
-0*
-1
-2*
-1*
-2*
-2*
-3
-4*
-3*
-4*
-4*
-5*
-5"
+eMaterialDesignThemes.Wpf.ClockItemButton.OnDragDelta(System.Windows.DependencyObject, double, double)`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csZ e(dhorizontalChangeverticalChange"0*
+0*
+1*
+1"
 ""

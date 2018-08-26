@@ -1,19 +1,21 @@
 
-üMaterialDesignThemes.Wpf.DialogHost.ShowInternal(object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler, MaterialDesignThemes.Wpf.DialogClosingEventHandler)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csº ”(contentopenedEventHandlerclosingEventHandler"0*°
-0ì
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csæ æ(%0.MaterialDesignThemes.Wpf.DialogHost.IsOpen.get*
+9MaterialDesignThemes.Wpf.Flipper.UpdateVisualStates(bool)Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs± µ(useTransitions"0*û
+0ê
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs≥/ ≥(7%0.MaterialDesignThemes.Wpf.Flipper.IsFlipped.get*
 1
-2*∫
-1Ø
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csø ø(Q%0BSystem.InvalidOperationException.InvalidOperationException(string)"
+2*
+1*
+3*
+2*
+3*ﬂ
+3‘
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs≥ ¥(%0ZSystem.Windows.VisualStateManager.GoToState(System.Windows.FrameworkElement, string, bool)"
+"""
+"""
 ""*
-3*l
-2"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs“ “(1
-""*
-3"
+4*
+4"
 ""

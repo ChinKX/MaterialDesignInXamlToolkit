@@ -1,9 +1,7 @@
 
-7MaterialDesignThemes.Wpf.DrawerHost.TopDrawerZIndex.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs’ ’(A"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs’ ’(?
-""*
+fMaterialDesignThemes.Wpf.RippleAssist.SetRippleSizeMultiplier(System.Windows.DependencyObject, double)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.cs[ ^(elementvalue"0*
+0*
+1*
 1"
 ""

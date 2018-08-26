@@ -1,57 +1,36 @@
 
-ÄMaterialDesignThemes.Wpf.Converters.PointValueConverter.Convert(object[], System.Type, object, System.Globalization.CultureInfo)o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs
- (values
-targetType	parameterculture"0*
-0*
+&ControlzEx.PopupEx.RECT.Equals(object)è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs  ÿ(obj"0*
+0*	
 1
-2*ô
-2é
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs (%0System.Array.Length.get*
-1*
-1*
+2
+3*
+2*
+4
+5*
+4*
+5*
+5*
+6
+7*
+6*
+7*
+7*
+8
+9*
+8*
+9*†
+9"ö
+è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csœ “(*
+""*
+10*	
+1
 3
-4*
-3*
-4*
-4*
-5
-6*
-5*
-6*
-6*
-7
-8*ƒ
-7à
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs$ (7%0object.ToString()™
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs (?%1#double.TryParse(string, out double)"
-
-%0"
-""*
-9
-10*¡
-9à
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs$ (7%0object.ToString()™
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs (?%1#double.TryParse(string, out double)"
-
-%0"
-""*
-10*
-10*
-11
-8*
-11"y
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs (*
-""*~
-8"y
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs (
-""*
-12"
+3*†
+1"ö
+è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs÷ ÷( 
+""*
+3"
 ""

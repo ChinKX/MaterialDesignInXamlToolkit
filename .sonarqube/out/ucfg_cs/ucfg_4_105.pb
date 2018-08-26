@@ -1,8 +1,9 @@
 
-¤VirtualCollection.VirtualCollection.VirtualizingWrapPanel.EnsureScrollOffsetIsWithinConstrains(VirtualCollection.VirtualCollection.VirtualizingWrapPanel.ExtentInfo)®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs° ³(
-extentInfo"0*
-0*
-1*
+ZMaterialDesignColors.WpfExample.Domain.DemoItem.VerticalScrollBarVisibilityRequirement.getT
+JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs0 0(B"0*c
+0"^
+T
+JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs0 0(@
+""*
 1"
 ""

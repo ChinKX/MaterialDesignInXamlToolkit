@@ -1,9 +1,9 @@
 
-FMaterialDesignDemo.Domain.SampleDialogViewModel.RaisePropertyChanged()a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SampleDialogViewModel.cs ("0*p
-0"k
-a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SampleDialogViewModel.cs (>
+FMaterialDesignColors.WpfExample.Domain.SelectableViewModel.Numeric.get_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs? ?(#"0*n
+0"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs? ?(!
 ""*
 1"
 ""

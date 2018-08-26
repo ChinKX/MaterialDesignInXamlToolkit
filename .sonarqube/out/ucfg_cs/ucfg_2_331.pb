@@ -1,17 +1,23 @@
 
-4MaterialDesignThemes.Wpf.DialogSession.Close(object)^
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogSession.cs? D(	parameter"0*¦
-0˜
-^
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogSession.csA A(%02MaterialDesignThemes.Wpf.DialogSession.IsEnded.get*
+ZMaterialDesignThemes.Wpf.DpiHelper.TransformToDeviceX(System.Windows.Media.Visual, double)Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DpiHelper.cs  &(visualx"0*
+0*
 1
-2*»
-1°
-^
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogSession.csA A(X%0BSystem.InvalidOperationException.InvalidOperationException(string)"
-""*
-3*
-2*
-3*
-3"
+2*¤
+2™
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DpiHelper.cs# #((%07System.Windows.PresentationSource.CompositionTarget.get*
+1*
+1*
+3
+4*i
+3"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DpiHelper.cs#3 #(l
+""*i
+4"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DpiHelper.cs% %((
+""*
+5"
 ""

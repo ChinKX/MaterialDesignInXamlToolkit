@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="47-4F-7D-35-73-BF-74-9F-66-10-A9-01-D4-C8-14-7C-0F-BC-78-49">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:03.7302244Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D4-01-BA-72-31-4F-92-69-57-4C-E8-24-55-2F-1B-35-88-62-4F-64">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.console.x86.exe</ModulePath>
+      <ModuleTime>2018-07-16T20:18:10Z</ModuleTime>
+      <ModuleName>xunit.console.x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CD-4E-89-34-E9-B6-C3-BF-CB-96-5C-1E-A2-99-84-F1-90-C3-2A-EE">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B0-0E-47-E4-4C-7A-51-93-BF-D7-D8-34-D1-3E-D6-49-0C-C0-99-48">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.reporters.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.reporters.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="19-6F-A5-C6-C2-4E-32-27-A2-D0-61-D8-30-02-1D-0F-63-C0-78-46">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.1697369Z</ModuleTime>
+      <ModuleName>System.Net.Http</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="56-19-E4-7F-9D-08-2A-5D-25-92-FC-AC-8E-40-FB-0D-95-AA-95-71">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:41.6624236Z</ModuleTime>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="EE-87-E3-8B-35-D7-7B-51-75-59-60-AC-9C-42-7D-75-33-40-43-72">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.3885028Z</ModuleTime>
+      <ModuleName>System.Xml.Linq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F2-26-5B-FA-55-E9-5B-BC-DD-3A-32-56-2C-38-71-11-1A-8E-6D-32">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0290261Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-F4-1C-14-5D-7A-74-B3-03-8B-1D-2A-59-DC-B6-BE-1D-C8-EF-54">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.9508953Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\6f785978-0689-414b-b21e-e56834226fa9\6f785978-0689-414b-b21e-e56834226fa9\assembly\dl3\32c3f34f\009aa81e_421dd401\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:54.0077143Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A8-56-5B-AD-C8-60-74-45-C8-DF-F6-AE-65-0C-0D-C9-EF-9D-7C-16">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\MaterialDesignColors.Wpf.Fixture.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:37:20.854259Z</ModuleTime>
+      <ModuleName>MaterialDesignColors.Wpf.Fixture</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9E-A9-5D-7F-86-82-4D-02-7D-07-AD-C0-17-06-5D-73-8F-1F-28-44">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\15582270-2133-42cb-8d80-e3ffe7a50841\15582270-2133-42cb-8d80-e3ffe7a50841\assembly\dl3\c05c1289\00379646_d6f1d101\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:54.149914Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="61-48-84-C2-D1-D5-99-D6-62-AF-99-DC-EE-36-8C-D2-C9-20-16-EB">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\15582270-2133-42cb-8d80-e3ffe7a50841\15582270-2133-42cb-8d80-e3ffe7a50841\assembly\dl3\41f56af8\00f20f3d_a24ed301\xunit.execution.desktop.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:54.1651956Z</ModuleTime>
+      <ModuleName>xunit.execution.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A8-56-5B-AD-C8-60-74-45-C8-DF-F6-AE-65-0C-0D-C9-EF-9D-7C-16">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\15582270-2133-42cb-8d80-e3ffe7a50841\15582270-2133-42cb-8d80-e3ffe7a50841\assembly\dl3\f342953c\7e293613_3e3cd401\MaterialDesignColors.Wpf.Fixture.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:54.2025508Z</ModuleTime>
+      <ModuleName>MaterialDesignColors.Wpf.Fixture</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D4-01-BA-72-31-4F-92-69-57-4C-E8-24-55-2F-1B-35-88-62-4F-64">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.console.x86.exe</ModulePath>
+      <ModuleTime>2018-07-16T20:18:10Z</ModuleTime>
+      <ModuleName>xunit.console.x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A9-2D-37-71-85-86-25-78-29-7F-26-79-55-A6-E5-61-80-28-93-5F">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\15582270-2133-42cb-8d80-e3ffe7a50841\15582270-2133-42cb-8d80-e3ffe7a50841\assembly\dl3\3f9a7588\0098ad3a_a24ed301\xunit.core.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:54.2344715Z</ModuleTime>
+      <ModuleName>xunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F1-67-10-FE-CA-06-2B-45-18-C0-DB-E8-DB-07-A4-7E-5B-25-BD-51">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.1697369Z</ModuleTime>
+      <ModuleName>System.Runtime</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F4-54-C7-59-FD-61-E7-47-4E-0A-64-35-96-3E-28-5D-B6-8C-21-86">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.8102601Z</ModuleTime>
+      <ModuleName>System.Threading.Tasks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="61-48-84-C2-D1-D5-99-D6-62-AF-99-DC-EE-36-8C-D2-C9-20-16-EB">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\xunit.execution.desktop.dll</ModulePath>
+      <ModuleTime>2017-10-26T21:34:44Z</ModuleTime>
+      <ModuleName>xunit.execution.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A9-2D-37-71-85-86-25-78-29-7F-26-79-55-A6-E5-61-80-28-93-5F">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf.Tests\bin\Debug\xunit.core.dll</ModulePath>
+      <ModuleTime>2017-10-26T21:34:40Z</ModuleTime>
+      <ModuleName>xunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F1-67-10-FE-CA-06-2B-45-18-C0-DB-E8-DB-07-A4-7E-5B-25-BD-51">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.1697369Z</ModuleTime>
+      <ModuleName>System.Runtime</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F4-54-C7-59-FD-61-E7-47-4E-0A-64-35-96-3E-28-5D-B6-8C-21-86">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.8102601Z</ModuleTime>
+      <ModuleName>System.Threading.Tasks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="26-E0-34-D3-A9-C4-33-7A-2B-12-1B-03-1E-48-23-95-AB-44-04-80">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:19.74798Z</ModuleTime>
+      <ModuleName>System.Collections</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="DB-87-61-46-D9-FB-00-CD-88-78-53-9E-D2-97-60-6C-38-03-9E-E7">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\15582270-2133-42cb-8d80-e3ffe7a50841\15582270-2133-42cb-8d80-e3ffe7a50841\assembly\dl3\ab3f7957\18116d08_3e3cd401\MaterialDesignColors.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:54.6197246Z</ModuleTime>
+      <ModuleName>MaterialDesignColors</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A2-EF-99-29-27-F3-3D-B6-99-16-2E-41-26-9B-DF-F2-54-8D-BA-81">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\15582270-2133-42cb-8d80-e3ffe7a50841\15582270-2133-42cb-8d80-e3ffe7a50841\assembly\dl3\3fec6cc8\00066589_41afd201\Shouldly.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:54.6332508Z</ModuleTime>
+      <ModuleName>Shouldly</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E1-A5-74-F7-98-93-A4-DA-F2-BD-1B-A0-45-A8-F0-B5-EE-E1-73-74">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.4563727Z</ModuleTime>
+      <ModuleName>System.Xaml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="EA-82-BF-FC-F5-1B-BB-73-EF-61-51-EF-34-34-A7-7B-EB-02-D8-84">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.6751399Z</ModuleTime>
+      <ModuleName>PresentationFramework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="1F-75-AA-50-5E-1C-E6-FC-0A-EF-0E-2C-40-4C-0C-95-EC-1B-09-63">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.5657563Z</ModuleTime>
+      <ModuleName>WindowsBase</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="5F-56-FB-3D-86-8B-0B-3F-CD-54-41-7D-62-DD-7F-11-5C-FC-AA-F3">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.8157768Z</ModuleTime>
+      <ModuleName>PresentationCore</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-F4-1C-14-5D-7A-74-B3-03-8B-1D-2A-59-DC-B6-BE-1D-C8-EF-54">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.9508953Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F2-26-5B-FA-55-E9-5B-BC-DD-3A-32-56-2C-38-71-11-1A-8E-6D-32">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0290261Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\33a4d4e2-4a5f-4d5e-b638-0c012eb11efc\33a4d4e2-4a5f-4d5e-b638-0c012eb11efc\assembly\dl3\1067ec50\009aa81e_421dd401\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.2810579Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="7B-70-14-3B-52-CA-9F-CF-64-1C-08-B7-24-C8-79-0C-C0-45-D1-DB">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:37:22.4350488Z</ModuleTime>
+      <ModuleName>MaterialDesignThemes.Wpf.Tests</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9E-A9-5D-7F-86-82-4D-02-7D-07-AD-C0-17-06-5D-73-8F-1F-28-44">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\e415b4d0\00379646_d6f1d101\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.3787548Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="61-48-84-C2-D1-D5-99-D6-62-AF-99-DC-EE-36-8C-D2-C9-20-16-EB">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\c4bf4038\00f20f3d_a24ed301\xunit.execution.desktop.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.3881183Z</ModuleTime>
+      <ModuleName>xunit.execution.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="7B-70-14-3B-52-CA-9F-CF-64-1C-08-B7-24-C8-79-0C-C0-45-D1-DB">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\41234b48\185f2714_3e3cd401\MaterialDesignThemes.Wpf.Tests.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.4110558Z</ModuleTime>
+      <ModuleName>MaterialDesignThemes.Wpf.Tests</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D4-01-BA-72-31-4F-92-69-57-4C-E8-24-55-2F-1B-35-88-62-4F-64">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.console.x86.exe</ModulePath>
+      <ModuleTime>2018-07-16T20:18:10Z</ModuleTime>
+      <ModuleName>xunit.console.x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A9-2D-37-71-85-86-25-78-29-7F-26-79-55-A6-E5-61-80-28-93-5F">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\7bde9d00\0098ad3a_a24ed301\xunit.core.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.418368Z</ModuleTime>
+      <ModuleName>xunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F1-67-10-FE-CA-06-2B-45-18-C0-DB-E8-DB-07-A4-7E-5B-25-BD-51">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:18.1697369Z</ModuleTime>
+      <ModuleName>System.Runtime</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F4-54-C7-59-FD-61-E7-47-4E-0A-64-35-96-3E-28-5D-B6-8C-21-86">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.8102601Z</ModuleTime>
+      <ModuleName>System.Threading.Tasks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="26-E0-34-D3-A9-C4-33-7A-2B-12-1B-03-1E-48-23-95-AB-44-04-80">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:19.74798Z</ModuleTime>
+      <ModuleName>System.Collections</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CE-9D-7A-CC-CC-3E-40-16-4B-9E-3C-FB-D3-E8-2E-09-B9-75-8E-C7">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\757f4742\00928dc9_a456d301\Moq.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.567008Z</ModuleTime>
+      <ModuleName>Moq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="7E-27-5E-CE-26-16-E9-85-E0-BF-67-D2-36-EC-0A-D5-7F-75-7D-D0">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\94ca919b\ac03280c_3e3cd401\MaterialDesignThemes.Wpf.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.605178Z</ModuleTime>
+      <ModuleName>MaterialDesignThemes.Wpf</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3E-A7-0F-F2-06-A9-B7-6F-3B-F8-C5-CC-E6-A3-F4-B4-06-A4-F6-97">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\16b99886\006017a7_5c41d301\Castle.Core.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.6479773Z</ModuleTime>
+      <ModuleName>Castle.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-F4-1C-14-5D-7A-74-B3-03-8B-1D-2A-59-DC-B6-BE-1D-C8-EF-54">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.9508953Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F2-26-5B-FA-55-E9-5B-BC-DD-3A-32-56-2C-38-71-11-1A-8E-6D-32">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0290261Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="DB-87-61-46-D9-FB-00-CD-88-78-53-9E-D2-97-60-6C-38-03-9E-E7">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\e2dbec69\18116d08_3e3cd401\MaterialDesignColors.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.769191Z</ModuleTime>
+      <ModuleName>MaterialDesignColors</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="7E-26-06-1C-18-6F-39-1D-B7-4A-76-B1-03-FE-F5-66-25-02-53-84">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\2479f173\00c0767e_d104cd01\Rhino.Mocks.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:55.9138686Z</ModuleTime>
+      <ModuleName>Rhino.Mocks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2F-16-12-29-47-C9-48-70-BA-CF-B6-6A-6E-D1-EF-8B-61-D9-6A-E4">
+      <ModulePath>C:\Users\Asus\AppData\Local\Temp\35faad73-3852-4ee5-9930-b498f3942e76\35faad73-3852-4ee5-9930-b498f3942e76\assembly\dl3\61bfb2d3\0052b43f_6ebdd201\NSubstitute.dll</ModulePath>
+      <ModuleTime>2018-08-25T06:44:56.0057957Z</ModuleTime>
+      <ModuleName>NSubstitute</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DD-65-F0-39-CB-AB-85-8A-61-D4-A3-C0-3E-CA-2F-AA-84-54-C5-84">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.6438879Z</ModuleTime>
+      <ModuleName>System.ServiceModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

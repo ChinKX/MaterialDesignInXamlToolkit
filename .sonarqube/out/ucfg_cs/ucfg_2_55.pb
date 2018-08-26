@@ -1,9 +1,9 @@
 
-'ControlzEx.PackIconBase<TKind>.Kind.getí
-áD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PackIconBase.cs5 5(8"0*£
-0"ù
-í
-áD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PackIconBase.cs5 5(6
+YMaterialDesignThemes.Wpf.ButtonProgressAssist.GetMaximum(System.Windows.DependencyObject)e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs# &(element"0*t
+0"o
+e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs% %(<
 ""*
 1"
 ""

@@ -1,9 +1,9 @@
 
-:MaterialDesignThemes.Wpf.DrawerHost.RightDrawerContent.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csæ æ(G"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csæ æ(E
+YMaterialDesignThemes.Wpf.ToggleButtonAssist.GetOnContent(System.Windows.DependencyObject)c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.cs7 :(element"0*r
+0"m
+c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.cs9 9(?
 ""*
 1"
 ""

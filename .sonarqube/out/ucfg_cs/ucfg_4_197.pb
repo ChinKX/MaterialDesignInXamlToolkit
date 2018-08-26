@@ -1,13 +1,9 @@
 
-:MaterialDesignDemo.Domain.ListsAndGridsViewModel.Foods.getb
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.csW ]("0*
-0*
-1*
-1*
-2*
-2*
-3*
-3*
-4*
-4"
+=MaterialDesignDemo.Domain.DialogsViewModel.Sample4Content.get\
+RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.csm m(*"0*k
+0"f
+\
+RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.csm m((
+""*
+1"
 ""

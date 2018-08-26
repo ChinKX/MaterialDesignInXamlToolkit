@@ -1,9 +1,10 @@
 
-FMaterialDesignColors.WpfExample.Domain.DemoItem.RaisePropertyChanged()T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs> A("0*c
-0"^
-T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs@ @(>
-""*
-1"
+WMaterialDesignDemo.IconPack.Search_OnKeyDown(object, System.Windows.Input.KeyEventArgs)R
+HD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPack.xaml.cs" '(sendere"0*
+0*
+1
+2*
+1*
+2*
+2"
 ""

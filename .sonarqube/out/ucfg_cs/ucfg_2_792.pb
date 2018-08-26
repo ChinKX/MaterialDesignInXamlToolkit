@@ -1,7 +1,9 @@
 
-.MaterialDesignThemes.Wpf.RatingBar.RatingBar()Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs ("0*
-0*
-1*
+WMaterialDesignThemes.Wpf.Transitions.Transitioner.IsItemItsOwnContainerOverride(object)i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csM P(item"0*x
+0"s
+i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csO O(,
+""*
 1"
 ""

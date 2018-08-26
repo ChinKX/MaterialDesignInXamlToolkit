@@ -1,15 +1,9 @@
 
-wMaterialDesignThemes.Wpf.HintProxyFabric.PasswordBoxHintProxy.PasswordBoxHintProxy(System.Windows.Controls.PasswordBox)l
-bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.PasswordBox.cs $(passwordBox"0*
-0*
-1
-2*Á
-1¶
-l
-bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.PasswordBox.cs/ (\%0:System.ArgumentNullException.ArgumentNullException(string)"
-""*
-3*
-2*
-3*
-3"
+}MaterialDesignThemes.Wpf.ComboBoxPopup.CreateTemplatePropertyChangedCallback(MaterialDesignThemes.Wpf.ComboBoxPopupPlacement)`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs¯ ¾(popupPlacement"0*o
+0"j
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs± ½(
+""*
+1"
 ""

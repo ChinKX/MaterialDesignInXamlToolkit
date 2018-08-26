@@ -1,13 +1,9 @@
 
-^MaterialDesignThemes.Wpf.DialogHost.WatchWindowActivation(MaterialDesignThemes.Wpf.DialogHost)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs¯ À(
-dialogHost"0*
-0*
-1
-2*
-1*
-3*
-2*
-3*
-3"
+8MaterialDesignThemes.Wpf.RatingBar.ValueItemTemplate.getZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs] ](M"0*i
+0"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs] ](K
+""*
+1"
 ""

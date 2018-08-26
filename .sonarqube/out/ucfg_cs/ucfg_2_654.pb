@@ -1,6 +1,6 @@
 
-:MaterialDesignThemes.Wpf.TimePicker.SelectedTimeFormat.set[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs[ [(6value"0*
+6MaterialDesignThemes.Wpf.TimePicker.IsDropDownOpen.set[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cse e(2value"0*
 0*
 1*
 1"

@@ -1,9 +1,7 @@
 
-]MaterialDesignThemes.Wpf.DialogHost.GetDialogClosingAttached(System.Windows.DependencyObject)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csç ê(element"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csè è(]
-""*
+ÅMaterialDesignThemes.Wpf.Transitions.TransitionEffect.TransitionEffect(MaterialDesignThemes.Wpf.Transitions.TransitionEffectKind)m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.cs (kind"0*
+0*
+1*
 1"
 ""

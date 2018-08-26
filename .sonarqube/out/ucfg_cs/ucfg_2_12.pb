@@ -1,6 +1,6 @@
 
-KMaterialDesignThemes.Wpf.HintProxyFabric.PasswordBoxHintProxy.IsVisible.getl
-bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.PasswordBox.cs (;"0*
+4MaterialDesignThemes.Wpf.RatingBar.RatingButtons.getZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.csM M(\"0*
 0*
 1*
 1"

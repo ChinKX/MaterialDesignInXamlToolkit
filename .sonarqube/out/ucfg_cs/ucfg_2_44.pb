@@ -1,7 +1,9 @@
 
-ControlzEx.BadgedEx.Badge.setŽ
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs (2value"0*
-0*
-1*
+YMaterialDesignThemes.Wpf.ButtonProgressAssist.GetMinimum(System.Windows.DependencyObject)e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs (element"0*t
+0"o
+e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs (<
+""*
 1"
 ""

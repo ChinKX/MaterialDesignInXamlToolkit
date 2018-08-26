@@ -1,7 +1,23 @@
 
-MControlzEx.PopupEx.hostWindow_SizeOrLocationChanged(object, System.EventArgs)è
-ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csä ç(sendere"0*
-0*
-1*
-1"
+§MaterialDesignThemes.Wpf.Converters.SnackbarMessageTypeConverter.ConvertFrom(System.ComponentModel.ITypeDescriptorContext, System.Globalization.CultureInfo, object)x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SnackbarMessageTypeConverter.cs (contextculturevalue"0*ô
+0ã
+x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SnackbarMessageTypeConverter.cs ("s__id"
+""*
+1
+2*ƒ
+1π
+x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SnackbarMessageTypeConverter.cs (%02System.Windows.Controls.ContentControl.Content.set"
+
+s"Ç
+x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SnackbarMessageTypeConverter.cs (
+""*à
+2"Ç
+x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SnackbarMessageTypeConverter.cs (<
+""*
+3"
 ""

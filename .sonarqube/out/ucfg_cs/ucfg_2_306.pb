@@ -1,12 +1,12 @@
 
-vMaterialDesignThemes.Wpf.DialogClosingEventArgs.DialogClosingEventArgs(MaterialDesignThemes.Wpf.DialogSession, object)g
-]D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogClosingEventArgs.cs (session	parameter"0*
+ˆMaterialDesignThemes.Wpf.DialogOpenedEventArgs.DialogOpenedEventArgs(MaterialDesignThemes.Wpf.DialogSession, System.Windows.RoutedEvent)f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogOpenedEventArgs.cs (sessionroutedEvent"0*
 0*
 1
-2*¼
-1±
-g
-]D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogClosingEventArgs.cs
+2*»
+1°
+f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogOpenedEventArgs.cs
 ' 
 (P%0:System.ArgumentNullException.ArgumentNullException(string)"
 ""*

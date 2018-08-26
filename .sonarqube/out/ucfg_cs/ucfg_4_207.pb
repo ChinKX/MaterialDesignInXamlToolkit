@@ -1,13 +1,7 @@
 
-ZMaterialDesignColors.WpfExample.Domain.DemoItem.VerticalScrollBarVisibilityRequirement.setT
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs1 1(rvalue"0*ì
-0á
-T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs1 1(o%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
-"""
-"""
-"""
-""*
+FMaterialDesignDemo.Domain.DialogsViewModel.CancelSample4Dialog(object)\
+RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.cs| (obj"0*
+0*
 1*
 1"
 ""

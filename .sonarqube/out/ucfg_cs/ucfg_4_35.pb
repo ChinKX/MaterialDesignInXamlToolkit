@@ -1,7 +1,9 @@
 
-BMaterialDesignDemo.TransitionsDemo.Slide8_Details.Slide8_Details()h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\TransitionsDemo\Slide8_Details.xaml.cs ("0*
-0*
-1*
+FMaterialDesignColors.WpfExample.Domain.TreesViewModel.SelectedItem.getZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.csS S(("0*i
+0"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.csS S(&
+""*
 1"
 ""

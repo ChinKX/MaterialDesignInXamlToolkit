@@ -1,9 +1,9 @@
 
-eMaterialDesignThemes.Wpf.ButtonProgressAssist.GetIndicatorBackground(System.Windows.DependencyObject)e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.csW Z(element"0*t
-0"o
-e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.csY Y(G
+/MaterialDesignThemes.Wpf.Chip.DeleteCommand.getU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csG G(E"0*d
+0"_
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csG G(C
 ""*
 1"
 ""

@@ -1,9 +1,7 @@
 
-EMaterialDesignThemes.Wpf.DrawerHost.LeftDrawerContentStringFormat.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csº º(S"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csº º(Q
-""*
+2MaterialDesignThemes.Wpf.DialogHost.Identifier.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csé é(7value"0*
+0*
+1*
 1"
 ""

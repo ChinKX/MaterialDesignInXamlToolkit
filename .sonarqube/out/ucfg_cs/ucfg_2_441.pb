@@ -1,7 +1,9 @@
 
-&MaterialDesignThemes.Wpf.Icon.Type.setU
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Icon.cs (1value"0*
-0*
-1*
+TMaterialDesignThemes.Wpf.MessageQueueExtension.ProvideValue(System.IServiceProvider)f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MessageQueueExtension.cs (serviceProvider"0*u
+0"p
+f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MessageQueueExtension.cs (-
+""*
 1"
 ""

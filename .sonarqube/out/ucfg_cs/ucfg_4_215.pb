@@ -1,16 +1,16 @@
 
-DVirtualCollection.VirtualCollection.VirtualizingWrapPanel.LineLeft()®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs© ¬("0*ù
-0…
+DVirtualCollection.VirtualCollection.VirtualizingWrapPanel.LineDown()®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¤ §("0*õ
+0ƒ
 ®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs«  «(/%0NVirtualCollection.VirtualCollection.VirtualizingWrapPanel.HorizontalOffset.getÏ
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¦ ¦(+%0LVirtualCollection.VirtualCollection.VirtualizingWrapPanel.VerticalOffset.getÏ
 ®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs«  «(B%1__concat"
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¦ ¦(>%1__concat"
 """
 
-%0”
+%0’
 ®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs« «(C%2UVirtualCollection.VirtualCollection.VirtualizingWrapPanel.SetHorizontalOffset(double)"
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¦ ¦(?%2SVirtualCollection.VirtualCollection.VirtualizingWrapPanel.SetVerticalOffset(double)"
 
 %1*
 1*

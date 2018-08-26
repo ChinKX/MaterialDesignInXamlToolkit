@@ -1,6 +1,6 @@
 
-<MaterialDesignThemes.Wpf.TimePicker.IsInvalidTextAllowed.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs²	 ²(>value"0*
+AMaterialDesignThemes.Wpf.ListSortDirectionIndicator.IsNeutral.setk
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListSortDirectionIndicator.cs; ;(Avalue"0*
 0*
 1*
 1"

@@ -1,9 +1,11 @@
 
-HMaterialDesignThemes.Wpf.DrawerHost.TopDrawerContentTemplateSelector.get[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csj j(c"0*j
-0"e
+0MaterialDesignThemes.Wpf.DrawerHost.DrawerHost()[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csK O("0*¨
+0è
 [
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csj j(a
-""*
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csM M(%0,System.Windows.UIElement.CommandBindings.getè
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csN N(%1,System.Windows.UIElement.CommandBindings.get*
+1*
 1"
 ""

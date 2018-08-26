@@ -1,9 +1,10 @@
 
-NMaterialDesignColors.WpfExample.Domain.TextFieldsViewModel.SelectedTextTwo.get_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TextFieldsViewModel.cs/ /(+"0*n
-0"i
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TextFieldsViewModel.cs/ /()
-""*
+}MaterialDesignDemo.Domain.DialogsViewModel.ExtendedOpenedEventHandler(object, MaterialDesignThemes.Wpf.DialogOpenedEventArgs)\
+RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.cs> A(sender	eventargs"0*—
+0Œ
+\
+RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.cs@ @(k%0 System.Console.WriteLine(string)"
+""*
+1*
 1"
 ""

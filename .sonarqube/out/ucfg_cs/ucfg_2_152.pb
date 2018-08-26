@@ -1,17 +1,22 @@
 
-éMaterialDesignThemes.Wpf.Converters.BrushToRadialGradientBrushConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)
-uD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BrushToRadialGradientBrushConverter.cs (value
+ÑMaterialDesignThemes.Wpf.Converters.TimeToVisibilityConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)u
+kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\TimeToVisibilityConverter.cs (value
 targetType	parameterculture"0*
 0*
 1
-2*è
-1"â
-
-uD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BrushToRadialGradientBrushConverter.cs  (8
-""*è
-2"â
-
-uD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BrushToRadialGradientBrushConverter.cs (
+2*
+2*
+1*
+1*
+3
+4*
+3*
+5*
+4*
+5*Ñ
+5"
+u
+kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\TimeToVisibilityConverter.cs (C
 ""*
-3"
+6"
 ""

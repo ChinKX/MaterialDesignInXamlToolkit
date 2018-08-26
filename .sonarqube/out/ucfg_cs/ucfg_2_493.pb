@@ -1,12 +1,7 @@
 
-EMaterialDesignThemes.Wpf.DrawerHost.LeftDrawerContentStringFormat.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs» »(Jvalue"0*Ö
-0Ë
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs» »(G%0SSystem.Windows.DependencyObject.SetValue(System.Windows.DependencyProperty, object)"
-"""	
-
-value*
+AMaterialDesignThemes.Wpf.DrawerHost.LeftDrawerContentTemplate.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs© ©(Fvalue"0*
+0*
 1*
 1"
 ""

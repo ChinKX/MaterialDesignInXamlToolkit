@@ -1,39 +1,33 @@
 
-ÅMaterialDesignThemes.Wpf.SnackbarMessageQueue.Enqueue<TArgument>(object, object, System.Action<TArgument>, TArgument, bool, bool)g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs‡ Ô(contentactionContentactionHandleractionArgumentpromoteneverConsiderToBeDuplicate"0*
+MaterialDesignThemes.Wpf.Transitions.FadeWipe.Wipe(MaterialDesignThemes.Wpf.Transitions.TransitionerSlide, MaterialDesignThemes.Wpf.Transitions.TransitionerSlide, System.Windows.Point, MaterialDesignThemes.Wpf.Transitions.IZIndexController)e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\FadeWipe.cs 9(	fromSlidetoSlideoriginzIndexController"0*
 0*
 1
-2*º
-1±
-g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs„' „(P%0:System.ArgumentNullException.ArgumentNullException(string)"
+2*∫
+1Ø
+e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\FadeWipe.cs) (T%0:System.ArgumentNullException.ArgumentNullException(string)"
 ""*
 3*
 2*
 4
-5*
-4*
-6
-7*
-6*
-8*
-7*
-8*ƒ
-8π
-g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csÁ Ë(Y%0:System.ArgumentException.ArgumentException(string, string)"
-"""
+5*∫
+4Ø
+e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\FadeWipe.cs' (P%0:System.ArgumentNullException.ArgumentNullException(string)"
 ""*
-3*
-5*
-9
-10*	
-9*
-11*
-
-10*
-11*	
-11*
+3*
+5*
+6
+7*∫
+6Ø
+e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\FadeWipe.cs0 (b%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*≤
+7ß
+e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\FadeWipe.csG (N%0:MaterialDesignThemes.Wpf.Transitions.FadeWipe.Duration.get*
 3*
 3"
 ""

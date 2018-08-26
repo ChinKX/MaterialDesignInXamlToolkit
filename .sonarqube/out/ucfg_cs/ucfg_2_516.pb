@@ -1,6 +1,6 @@
 
-2MaterialDesignThemes.Wpf.DialogHost.Identifier.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csé é(7value"0*
+OMaterialDesignThemes.Wpf.Screen.NativeMethods.POINTSTRUCT.POINTSTRUCT(int, int)W
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csU Y(xy"0*
 0*
 1*
 1"

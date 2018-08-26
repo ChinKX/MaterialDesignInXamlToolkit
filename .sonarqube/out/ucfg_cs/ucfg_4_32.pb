@@ -1,10 +1,9 @@
 
-aMaterialDesignColors.WpfExample.Buttons.PopupBox_OnClosed(object, System.Windows.RoutedEventArgs)Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs0 3(sendere"0*Œ
-0
-Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs2 2(F%0 System.Console.WriteLine(string)"
-""*
-1*
+GVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemWidth.get¬
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs4 4(>"0*½
+0"·
+¬
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs4 4(<
+""*
 1"
 ""

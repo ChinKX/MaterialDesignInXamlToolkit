@@ -1,6 +1,6 @@
 
-]MaterialDesignThemes.Wpf.HintAssist.SetFloatingScale(System.Windows.DependencyObject, double)[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintAssist.cs( +(elementvalue"0*
+ƒMaterialDesignThemes.Wpf.Clock.MinuteReadOutPartNameOnPreviewMouseLeftButtonDown(object, System.Windows.Input.MouseButtonEventArgs)X
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs› ž(sendere"0*
 0*
 1*
 1"

@@ -1,7 +1,9 @@
 
-;MaterialDesignThemes.Wpf.DrawerHost.BottomDrawerContent.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs® ®(@value"0*
-0*
-1*
+JMaterialDesignThemes.Wpf.DrawerHost.RightDrawerContentTemplateSelector.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csø ø(e"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csø ø(c
+""*
 1"
 ""

@@ -1,9 +1,9 @@
 
-:MaterialDesignThemes.Wpf.TimePicker.SelectedTimeFormat.get[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csZ Z(I"0*j
-0"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csZ	 Z(G
+?MaterialDesignThemes.Wpf.Screen.GetBounds(System.Windows.Point)Y
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÖ Ù(pt"0*h
+0"c
+Y
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csØ Ø('
 ""*
 1"
 ""

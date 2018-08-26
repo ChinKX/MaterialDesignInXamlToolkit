@@ -1,9 +1,9 @@
 
-.MaterialDesignThemes.Wpf.Snackbar.IsActive.getY
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs@ @(<"0*h
-0"c
-Y
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs@ @(:
+FMaterialDesignThemes.Wpf.DrawerHost.RightDrawerContentStringFormat.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs (S"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs (Q
 ""*
 1"
 ""

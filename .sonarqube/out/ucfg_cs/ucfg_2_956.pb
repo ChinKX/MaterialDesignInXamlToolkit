@@ -1,16 +1,14 @@
 
-SMaterialDesignThemes.Wpf.PopupBox.OnMouseLeave(System.Windows.Input.MouseEventArgs)[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csÕ ’(e"0*†
-0í
-[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csœ œ(%0/MaterialDesignThemes.Wpf.PopupBox.PopupMode.get*
+•MaterialDesignThemes.Wpf.TextFieldAssist.TextBoxViewMarginPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csÉ ó(dependencyObject"dependencyPropertyChangedEventArgs"0*
+0*
 1
-2*ù
-2í
-[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs– –(%0/MaterialDesignThemes.Wpf.PopupBox.PopupMode.get*
-1*
-1*
+2*q
+1"l
+b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csä ä(
+""*
+2*
 3
 4*
 3*

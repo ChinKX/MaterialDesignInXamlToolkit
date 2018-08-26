@@ -1,7 +1,5 @@
 
--MaterialDesignColors.WpfExample.Grids.Grids()O
-ED:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Grids.xaml.cs ("0*
-0*
-1*
-1"
+wMaterialDesignColors.WpfExample.Domain.AnotherCommandImplementation.AnotherCommandImplementation(System.Action<object>)h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\AnotherCommandImplementation.cs (execute"0*
+0"
 ""

@@ -1,9 +1,7 @@
 
-.MaterialDesignThemes.Wpf.Plane3D.RotationX.getX
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs) )(>"0*g
-0"b
-X
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs) )(<
-""*
+~MaterialDesignThemes.Wpf.ToggleButtonAssist.SetOnContentTemplate(System.Windows.DependencyObject, System.Windows.DataTemplate)c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.csE H(elementvalue"0*
+0*
+1*
 1"
 ""

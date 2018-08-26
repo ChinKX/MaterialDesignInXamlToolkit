@@ -1,9 +1,7 @@
 
-CMaterialDesignThemes.Wpf.Screen.GetWorkingArea(System.Windows.Rect)Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÎ Ñ(rect"0*h
-0"c
-Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÐ Ð(-
-""*
+>MaterialDesignThemes.Wpf.DrawerHost.BottomDrawerBackground.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csÒ Ò(Cvalue"0*
+0*
+1*
 1"
 ""

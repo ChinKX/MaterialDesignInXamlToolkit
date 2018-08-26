@@ -1,33 +1,34 @@
 
-dMaterialDesignThemes.Wpf.Transitions.TransitionEffectExtension.ProvideValue(System.IServiceProvider)v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs "(serviceProvider"0*×
-0É
-v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs! !(%0KMaterialDesignThemes.Wpf.Transitions.TransitionEffectExtension.Duration.get*
+5MaterialDesignThemes.Wpf.DialogHost.OnApplyTemplate()]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csª ¹("0*
+0*
 1
-2*À
-1Å
-v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs!< !(?%0GMaterialDesignThemes.Wpf.Transitions.TransitionEffectExtension.Kind.getÉ
-v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs!B !(I%1KMaterialDesignThemes.Wpf.Transitions.TransitionEffectExtension.Duration.get¡
-v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs!' !(P%2’MaterialDesignThemes.Wpf.Transitions.TransitionEffect.TransitionEffect(MaterialDesignThemes.Wpf.Transitions.TransitionEffectKind, System.TimeSpan)"
+2*
+1*
+2*ƒ
+2¥
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs¯ ¯(3%08System.Windows.FrameworkElement.GetTemplateChild(string)"
+""¥
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs°# °(H%18System.Windows.FrameworkElement.GetTemplateChild(string)"
+""¥
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs±  ±(E%28System.Windows.FrameworkElement.GetTemplateChild(string)"
+""*
+3
+4*
+3*
+4*û
+4–
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs¶/ ¶(;%01MaterialDesignThemes.Wpf.DialogHost.SelectState()×
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs¶ ¶(C%1ZSystem.Windows.VisualStateManager.GoToState(System.Windows.FrameworkElement, string, bool)"
+"""
 
 %0"
 ""*
-3*Û
-2Å
-v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs!i !(l%0GMaterialDesignThemes.Wpf.Transitions.TransitionEffectExtension.Kind.getˆ
-v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs!T !(m%1MaterialDesignThemes.Wpf.Transitions.TransitionEffect.TransitionEffect(MaterialDesignThemes.Wpf.Transitions.TransitionEffectKind)"
-
-%0*
-3*†
-3"€
-v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs! !(n
-""*
-4"
+5*
+5"
 ""

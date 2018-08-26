@@ -1,26 +1,31 @@
 
-RMaterialDesignColors.SwatchesProvider.SwatchesProvider(System.Reflection.Assembly)a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.cs /(assembly"0*ë
-0Å
+:MaterialDesignColors.SwatchesProvider.Read(string, string)a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.csa i(assemblyNamepath"0*
+0*
+1
+2*
+2*
+1*
+1*
+3
+4*p
+3"k
 a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.cs  (=%0__concat"
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.csd d(
+""*∂
+4°
+a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.csg- g(J%0string.Replace(string, string)"
+
+path"
 """
-""Ä
+""ü
 a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.cs (=resourcesName__id"
-
-%0ÿ
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.csfA h(*%1&System.Uri.Uri(string, System.UriKind)"
+"""
+"""k
 a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.cs (E%1TSystem.Resources.ResourceManager.ResourceManager(string, System.Reflection.Assembly)"
-
-resourcesName"
-""
-a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.cs (5assemblyName__id"
-""£
-a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.cs   (r%22System.Text.RegularExpressions.Regex.Regex(string)"
-""*
-1*
-1"
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignColors.Wpf\SwatchesProvider.csf h(,
+""*
+5"
 ""

@@ -1,6 +1,6 @@
 
-}MaterialDesignThemes.Wpf.Transitions.IZIndexController.Stack(params MaterialDesignThemes.Wpf.Transitions.TransitionerSlide[])k
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csô ÷(highestToLowest"0*
+‘MaterialDesignThemes.Wpf.RatingBar.MinPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.csx {(dependencyObject"dependencyPropertyChangedEventArgs"0*
 0*
 1*
 1"

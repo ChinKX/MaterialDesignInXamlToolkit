@@ -1,9 +1,9 @@
 
-+MaterialDesignThemes.Wpf.Ripple.RippleX.getY
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.cs› ›(<"0*h
-0"c
-Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.cs› ›(:
+—MaterialDesignThemes.Wpf.DialogHost.Show(object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler, MaterialDesignThemes.Wpf.DialogClosingEventHandler)[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs{ ~(contentopenedEventHandlerclosingEventHandler"0*j
+0"e
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs} }(U
 ""*
 1"
 ""

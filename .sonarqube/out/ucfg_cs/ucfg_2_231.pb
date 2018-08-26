@@ -1,9 +1,10 @@
 
-ControlzEx.PopupEx.LOWORD(int)è
-ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csÁ Î(i"0*†
-0"ö
-è
-ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csÍ Í(&
+ÅMaterialDesignThemes.Wpf.Converters.ClockLineConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)n
+dD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ClockLineConverter.cs (value
+targetType	parameterculture"0*}
+0"x
+n
+dD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ClockLineConverter.cs (
 ""*
 1"
 ""

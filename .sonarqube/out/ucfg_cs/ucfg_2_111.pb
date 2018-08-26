@@ -1,9 +1,9 @@
 
-8MaterialDesignThemes.Wpf.Chip.DeleteCommandParameter.getU
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csP P(L"0*d
-0"_
-U
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csP P(J
+QMaterialDesignThemes.Wpf.ColorZoneAssist.GetMode(System.Windows.DependencyObject)`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZoneAssist.cs (element"0*o
+0"j
+`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZoneAssist.cs (@
 ""*
 1"
 ""

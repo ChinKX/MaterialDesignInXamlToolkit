@@ -1,13 +1,40 @@
 
-jMaterialDesignColors.WpfExample.MainWindow.MenuPopupButton_OnClick(object, System.Windows.RoutedEventArgs)T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MainWindow.xaml.cs3 ;(sendere"0*à
-0m
-T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MainWindow.xaml.cs7" 7(I%0object.ToString()é
-T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MainWindow.xaml.cs7 7(I%1*System.Windows.Controls.TextBlock.Text.set"
+ÉMaterialDesignColors.WpfExample.Dialogs.Sample5_DialogHost_OnDialogClosing(object, MaterialDesignThemes.Wpf.DialogClosingEventArgs)Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs# .(sender	eventArgs"0*
+0*
+1
+2*
+1*
+2*Ç
+2q
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs% %(f%0__concat"
+"""
+""Å
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs% %(g%1 System.Console.WriteLine(string)"
+
+%0*
+3
+4*`
+3"[
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs*4 *(:
+""*ê
+4Ç
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs, ,(=%0!string.IsNullOrWhiteSpace(string)"
+""*
+5
+6*é
+5n
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs-( -(@%0string.Trim()"
+""ì
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs- -(A%12System.Windows.Controls.ItemCollection.Add(object)"
 
 %0*
-1*
-1"
+6*
+6"
 ""

@@ -1,9 +1,9 @@
 
-VMaterialDesignThemes.Wpf.ValidationAssist.GetSuppress(System.Windows.DependencyObject)a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ValidationAssist.csM P(element"0*p
-0"k
-a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ValidationAssist.csO O(<
+&MaterialDesignThemes.Wpf.Chip.Icon.getU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs   (:"0*d
+0"_
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs   (8
 ""*
 1"
 ""

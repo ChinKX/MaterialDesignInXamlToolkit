@@ -1,9 +1,7 @@
 
-JMaterialDesignColors.WpfExample.Domain.SelectableViewModel.Description.get_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs4 4('"0*n
-0"i
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs4 4(%
-""*
+VMaterialDesignDemo.IconPack.TextBox_OnGotFocus(object, System.Windows.RoutedEventArgs)R
+HD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPack.xaml.cs  (sendere"0*
+0*
+1*
 1"
 ""

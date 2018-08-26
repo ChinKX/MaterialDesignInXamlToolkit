@@ -1,7 +1,10 @@
 
-ŒMaterialDesignThemes.Wpf.DrawerHost.TemplateContentCoverElementOnPreviewMouseLeftButtonUp(object, System.Windows.Input.MouseButtonEventArgs)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs« ±(sendermouseButtonEventArgs"0*
-0*
-1*
-1"
+oMaterialDesignThemes.Wpf.Screen.OnUserPreferenceChanged(object, Microsoft.Win32.UserPreferenceChangedEventArgs)Y
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÿ …(sendere"0*
+0*
+1
+2*
+1*
+2*
+2"
 ""

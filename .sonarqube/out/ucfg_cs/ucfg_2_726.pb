@@ -1,6 +1,6 @@
 
-°MaterialDesignThemes.Wpf.ListSortDirectionIndicator.ListSortDirectionPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListSortDirectionIndicator.cs# ((dependencyObject"dependencyPropertyChangedEventArgs"0*
+,MaterialDesignThemes.Wpf.PackIcon.PackIcon()Y
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PackIcon.cs ("0*
 0*
 1*
 1"

@@ -1,9 +1,9 @@
 
-?MaterialDesignColors.WpfExample.ProvingGroundViewModel.Name.getW
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.cs4 4("0*f
-0"a
-W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.cs4	 4(
+\MaterialDesignColors.WpfExample.Domain.DemoItem.HorizontalScrollBarVisibilityRequirement.getT
+JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs* *(D"0*c
+0"^
+T
+JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs* *(B
 ""*
 1"
 ""

@@ -1,15 +1,9 @@
 
-’MaterialDesignThemes.Wpf.DialogClosingEventArgs.DialogClosingEventArgs(MaterialDesignThemes.Wpf.DialogSession, object, System.Windows.RoutedEvent)g
-]D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogClosingEventArgs.cs (session	parameterroutedEvent"0*
-0*
-1
-2*¼
-1±
-g
-]D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogClosingEventArgs.cs' (P%0:System.ArgumentNullException.ArgumentNullException(string)"
-""*
-3*
-2*
-3*
-3"
+ŠMaterialDesignThemes.Wpf.ComboBoxPopup.SetupVisiblePlacementWidth(System.Collections.Generic.IEnumerable<System.Windows.DependencyObject>)`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csÜ à(visualAncestry"0*¯
+0¤
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csßQ ß(_%0<System.Windows.Controls.Primitives.Popup.PlacementTarget.get*
+1*
+1"
 ""

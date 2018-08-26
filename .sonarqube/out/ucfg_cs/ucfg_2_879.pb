@@ -1,9 +1,7 @@
 
-:MaterialDesignThemes.Wpf.PopupBox.PopupContentTemplate.get[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csÙ Ù(P"0*j
-0"e
-[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csÙ Ù(N
-""*
+JMaterialDesignThemes.Wpf.PopupBox.ToggleCheckedContentCommandParameter.set[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csÂ Â(Qvalue"0*
+0*
+1*
 1"
 ""

@@ -1,6 +1,6 @@
 
-1MaterialDesignThemes.Wpf.Badged.OnApplyTemplate()W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Badged.cs# *("0*
+aMaterialDesignThemes.Wpf.ButtonProgressAssist.SetMaximum(System.Windows.DependencyObject, double)e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs !(elementvalue"0*
 0*
 1*
 1"

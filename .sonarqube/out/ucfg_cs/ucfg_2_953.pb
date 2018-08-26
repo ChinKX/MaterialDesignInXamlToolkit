@@ -1,37 +1,21 @@
 
-5MaterialDesignThemes.Wpf.PaletteHelper.QueryPalette()`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csÉ ß("0*ﬂ
-0ß
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csî" î(?%07MaterialDesignThemes.Wpf.PaletteHelper.GetBrush(string)"
-""ß
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csï ï(=%17MaterialDesignThemes.Wpf.PaletteHelper.GetBrush(string)"
-""*
+SMaterialDesignThemes.Wpf.PopupBox.OnMouseLeave(System.Windows.Input.MouseEventArgs)[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csÕ ’(e"0*†
+0í
+[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csœ œ(%0/MaterialDesignThemes.Wpf.PopupBox.PopupMode.get*
 1
-2*Ω
-1≤
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csô ô(f%0BSystem.InvalidOperationException.InvalidOperationException(string)"
-""*
-3*
-2*
-4
-5*Ω
-4≤
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csú ú(h%0BSystem.InvalidOperationException.InvalidOperationException(string)"
-""*
-3*ƒ
-5ß
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csû$ û(C%07MaterialDesignThemes.Wpf.PaletteHelper.GetBrush(string)"
-""ß
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csü# ü(A%17MaterialDesignThemes.Wpf.PaletteHelper.GetBrush(string)"
-"""k
-a
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.cs¶ ¶(ä
-""*
-3"
+2*ù
+2í
+[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs– –(%0/MaterialDesignThemes.Wpf.PopupBox.PopupMode.get*
+1*
+1*
+3
+4*
+3*
+4*
+4*
+5*
+5"
 ""

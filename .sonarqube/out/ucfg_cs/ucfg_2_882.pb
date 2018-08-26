@@ -1,6 +1,6 @@
 
-‘MaterialDesignThemes.Wpf.RatingBar.MaxPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.css v(dependencyObject"dependencyPropertyChangedEventArgs"0*
+2MaterialDesignThemes.Wpf.SmartHint.HintOpacity.set\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.cs‹ ‹(8value"0*
 0*
 1*
 1"

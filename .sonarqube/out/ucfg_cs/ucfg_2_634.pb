@@ -1,9 +1,7 @@
 
-DMaterialDesignThemes.Wpf.Screen.GetWorkingArea(System.Windows.Point)Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÆ É(pt"0*h
-0"c
-Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÈ È(,
-""*
+{MaterialDesignThemes.Wpf.SnackbarMessageQueue.Enqueue<TArgument>(object, object, System.Action<TArgument>, TArgument, bool)g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csÜ Þ(\contentactionContentactionHandleractionArgumentpromote"0*
+0*
+1*
 1"
 ""

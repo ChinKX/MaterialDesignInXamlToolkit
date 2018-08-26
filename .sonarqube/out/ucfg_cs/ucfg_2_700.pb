@@ -1,9 +1,9 @@
 
-<MaterialDesignThemes.Wpf.DialogHost.SnackbarMessageQueue.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs (W"0*l
+<MaterialDesignThemes.Wpf.TimePicker.IsInvalidTextAllowed.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs±	 ±(E"0*l
 0"g
 ]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs (U
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs± ±(C
 ""*
 1"
 ""

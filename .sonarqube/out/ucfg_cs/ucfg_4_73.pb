@@ -1,9 +1,12 @@
 
-9MaterialDesignColors.WpfExample.PickersViewModel.Time.getU
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.cs$ $( "0*d
-0"_
-U
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.cs$ $(
+RMaterialDesignColors.WpfExample.Domain.DocumentationLink.DemoPageLink<TDemoPage>()]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs: =("0*´
+0Å
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs< <(/%0XMaterialDesignColors.WpfExample.Domain.DocumentationLink.DemoPageLink<TDemoPage>(string)"
+"""g
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs< <(0
 ""*
 1"
 ""

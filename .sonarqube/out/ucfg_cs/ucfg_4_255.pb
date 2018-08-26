@@ -1,14 +1,9 @@
 
-PVirtualCollection.VirtualCollection.VirtualizingWrapPanel.InvalidateScrollInfo()®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¶ ¼("0*Ž
-0€
+KVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ViewportWidth.get®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csž ž(."0*¿
+0"¹
 ®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¸ ¸(%0IVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ScrollOwner.get*
-1
-2*‹
-1€
-®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csº º(%0IVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ScrollOwner.get*
-2*
-2"
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csž ž(,
+""*
+1"
 ""

@@ -1,7 +1,9 @@
 
-(MaterialDesignThemes.Wpf.Badged.Badged()W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Badged.cs ("0*
-0*
-1*
+]MaterialDesignThemes.Wpf.ValidationAssist.GetOnlyShowOnFocus(System.Windows.DependencyObject)a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ValidationAssist.cs (element"0*p
+0"k
+a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ValidationAssist.cs (B
+""*
 1"
 ""

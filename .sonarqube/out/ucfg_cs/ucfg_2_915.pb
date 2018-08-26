@@ -1,6 +1,6 @@
 
-|MaterialDesignThemes.Wpf.TextFieldAssist.SetIncludeSpellingSuggestions(System.Windows.Controls.Primitives.TextBoxBase, bool)`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csl o(elementvalue"0*
+ÀMaterialDesignThemes.Wpf.SnackbarMessageQueue.WaitForCompletionAsync(MaterialDesignThemes.Wpf.SnackbarMessageQueue.MouseNotOverManagedWaitHandle, System.Threading.WaitHandle, System.Threading.WaitHandle)g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csè ù(mouseNotOverManagedWaitHandledurationPassedWaitHandleactionClickWaitHandle"0*
 0*
 1*
 1"

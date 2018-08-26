@@ -1,9 +1,7 @@
 
-VMaterialDesignColors.WpfExample.Domain.AnotherCommandImplementation.CanExecute(object)h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\AnotherCommandImplementation.cs !(	parameter"0*w
-0"r
-h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\AnotherCommandImplementation.cs   ()
-""*
+AMaterialDesignColors.WpfExample.PaletteSelector.PaletteSelector()Y
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PaletteSelector.xaml.cs ("0*
+0*
+1*
 1"
 ""

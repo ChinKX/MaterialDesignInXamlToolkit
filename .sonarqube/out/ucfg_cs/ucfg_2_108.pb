@@ -1,7 +1,9 @@
 
-;ControlzEx.PopupEx.PopupEx_Opened(object, System.EventArgs)ç
-ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csU X(sendere"0*
-0*
-1*
+8MaterialDesignThemes.Wpf.Chip.DeleteCommandParameter.getU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csP P(L"0*d
+0"_
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csP P(J
+""*
 1"
 ""

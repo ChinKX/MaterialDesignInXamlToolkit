@@ -1,19 +1,18 @@
 
-1MaterialDesignThemes.Wpf.TimePicker.TogglePopup()]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs¶ Ä("0*©
-0›
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs¸ ¸(%06MaterialDesignThemes.Wpf.TimePicker.IsDropDownOpen.get*
+VMaterialDesignThemes.Wpf.SmartHint.OnHintProxyContentChanged(object, System.EventArgs)\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.cs¾ Æ(sendere"0*¹
+0”
+\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csÀ# À(+%00MaterialDesignThemes.Wpf.SmartHint.HintProxy.get”
+\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csÂ Â(%10MaterialDesignThemes.Wpf.SmartHint.HintProxy.get*
 1
 2*
 1*
-3*
-2*
-4
-5*
-4*
-3*
-5*
+3*Ÿ
+2”
+\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csÅ Å(%00MaterialDesignThemes.Wpf.SmartHint.HintProxy.get*
 3*
 3"
 ""

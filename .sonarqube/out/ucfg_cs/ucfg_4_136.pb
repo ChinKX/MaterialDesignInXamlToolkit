@@ -1,7 +1,16 @@
 
-VMaterialDesignDemo.IconPack.TextBox_OnGotFocus(object, System.Windows.RoutedEventArgs)R
-HD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPack.xaml.cs  (sendere"0*
-0*
-1*
-1"
+CMaterialDesignColors.WpfExample.Domain.SelectableViewModel.Name.set_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs* /(value"0*
+0*
+1
+2*n
+1"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs,$ ,(*
+""*Æ
+2»
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs. .("%0TMaterialDesignColors.WpfExample.Domain.SelectableViewModel.OnPropertyChanged(string)*
+3*
+3"
 ""

@@ -1,13 +1,28 @@
 
-FMaterialDesignColors.WpfExample.ButtonsViewModel.ShowDismissButton.setU
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cst t(]value"0*í
-0â
-U
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cst t(Z%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
-"""
-"""
-"""
-""*
-1*
-1"
+HMaterialDesignDemo.Domain.ListsAndGridsViewModel.IsAllItems3Selected.setb
+XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.cs $(value"0*
+0*
+1
+2*q
+1"l
+b
+XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.cs3 (9
+""*
+2*
+3
+4*Ò
+3¥
+b
+XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.cs!: !(?%0;MaterialDesignDemo.Domain.ListsAndGridsViewModel.Items3.getŸ
+b
+XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.cs! !(@%1¤MaterialDesignDemo.Domain.ListsAndGridsViewModel.SelectAll(bool, System.Collections.Generic.IEnumerable<MaterialDesignColors.WpfExample.Domain.SelectableViewModel>)"
+"""
+
+%0*
+4*¿
+4´
+b
+XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.cs# #("%0JMaterialDesignDemo.Domain.ListsAndGridsViewModel.OnPropertyChanged(string)*
+5*
+5"
 ""

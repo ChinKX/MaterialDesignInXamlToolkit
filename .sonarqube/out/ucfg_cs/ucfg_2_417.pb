@@ -1,10 +1,7 @@
 
-2MaterialDesignThemes.Wpf.Flipper.OnApplyTemplate()Z
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs’ ™("0*­
-0¢
-Z
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs˜ ˜(7%08System.Windows.FrameworkElement.GetTemplateChild(string)"
-""*
+•MaterialDesignThemes.Wpf.Flipper.IsFlippedPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)X
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.csl r(dependencyObject"dependencyPropertyChangedEventArgs"0*
+0*
 1*
 1"
 ""

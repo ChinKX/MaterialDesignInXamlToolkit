@@ -1,16 +1,25 @@
 
-8MahMaterialDragablzMashUp.DialogsViewModel.InputDialog()b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\DialogsViewModel.cs# -("0*·
-0ª
-b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\DialogsViewModel.cs( ((,%0IMahApps.Metro.Controls.Dialogs.MetroDialogSettings.NegativeButtonText.set"
-""ò
-c
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\DialogsViewModel.cs, ,(Å%1åMahApps.Metro.Controls.Dialogs.IDialogCoordinator.ShowInputAsync(object, string, string, MahApps.Metro.Controls.Dialogs.MetroDialogSettings)"
-"""
-"""
-"""
+CMahMaterialDragablzMashUp.PaletteSelectorViewModel.ApplyStyle(bool)j
+`D:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\PaletteSelectorViewModel.cs )(	alternate"0*û
+0ê
+j
+`D:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\PaletteSelectorViewModel.cs (h%0System.Uri.Uri(string)"
+""*
+1
+2*
+1*
+3*
+2*
+3*è
+3Ñ
+j
+`D:\GitHub_Proj\MaterialDesignInXamlToolkit\MahMaterialDragablzMashUp\PaletteSelectorViewModel.cs" "(xstyleKey__id"
 ""*
-1*
-1"
+4*
+4*
+5
+6*
+5*
+4*
+6"
 ""

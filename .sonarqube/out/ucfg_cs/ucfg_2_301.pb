@@ -1,9 +1,19 @@
 
-OMaterialDesignThemes.Wpf.DialogHostEx.ShowDialog(System.Windows.Window, object)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHostEx.cs (windowcontent"0*l
-0"g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHostEx.cs (U
-""*
-1"
+§MaterialDesignThemes.Wpf.DataGridAssist.EnableCheckBoxAssistPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)a
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.csŽ ˜(dependencyObject"dependencyPropertyChangedEventArgs"0*
+0*
+1
+2*p
+1"k
+a
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.cs’" ’((
+""*
+2*
+3
+4*
+3*
+5*
+4*
+5*
+5"
 ""

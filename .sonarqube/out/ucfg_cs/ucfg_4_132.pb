@@ -1,7 +1,9 @@
 
-AMaterialDesignDemo.Domain.DocumentationLinks.DocumentationLinks()c
-YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLinks.xaml.cs ("0*
-0*
-1*
+CMaterialDesignColors.WpfExample.Domain.TextFieldsViewModel.Name.get_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TextFieldsViewModel.cs ( "0*n
+0"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TextFieldsViewModel.cs (
+""*
 1"
 ""

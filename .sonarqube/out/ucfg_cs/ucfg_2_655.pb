@@ -1,6 +1,6 @@
 
-nMaterialDesignThemes.Wpf.DrawerHost.DrawerElement_MouseDown(object, System.Windows.Input.MouseButtonEventArgs)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs• ˜(sendere"0*
+:MaterialDesignThemes.Wpf.DrawerHost.BottomDrawerZIndex.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csè è(Jvalue"0*
 0*
 1*
 1"

@@ -1,9 +1,9 @@
 
-5MaterialDesignThemes.Wpf.Card.UniformCornerRadius.getU
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Card.cs8 8(I"0*d
+0MaterialDesignThemes.Wpf.Chip.IconForeground.getU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs2 2(C"0*d
 0"_
 U
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Card.cs8 8(G
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs2 2(A
 ""*
 1"
 ""

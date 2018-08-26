@@ -1,9 +1,7 @@
 
-UMaterialDesignThemes.Wpf.ShadowAssist.GetShadowEdges(System.Windows.DependencyObject)_
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.cs„ ‡(element"0*n
-0"i
-_
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.cs† †(F
-""*
+2MaterialDesignThemes.Wpf.PopupBox.PopupContent.set[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csÎ Î(9value"0*
+0*
+1*
 1"
 ""

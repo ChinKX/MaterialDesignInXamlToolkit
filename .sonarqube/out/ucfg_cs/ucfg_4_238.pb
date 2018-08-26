@@ -1,9 +1,9 @@
 
-tVirtualCollection.VirtualCollection.VirtualizingWrapPanel.MakeVisible(System.Windows.UIElement, System.Windows.Rect)®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csü ÿ(visual	rectangle"0*¿
-0"¹
-®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csþ þ(
-""*
+.MaterialDesignDemo.IconPackViewModel.Kinds.setV
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.cs+ /(value"0*§
+0œ
+V
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.cs. .("%0>MaterialDesignDemo.IconPackViewModel.OnPropertyChanged(string)*
+1*
 1"
 ""

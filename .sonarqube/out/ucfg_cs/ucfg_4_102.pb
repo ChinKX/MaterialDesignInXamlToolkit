@@ -1,9 +1,9 @@
 
-GMaterialDesignColors.WpfExample.ProvingGroundViewModel.SelectedTime.getW
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.cs@ @(("0*f
+=MaterialDesignColors.WpfExample.ButtonsViewModel.IsSaving.getW
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csž ž($"0*f
 0"a
 W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.cs@ @(&
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csž ž("
 ""*
 1"
 ""

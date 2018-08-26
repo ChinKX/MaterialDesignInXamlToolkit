@@ -1,6 +1,6 @@
 
-ùMaterialDesignThemes.Wpf.ScrollViewerAssist.OnSyncHorizontalOffsetChanged(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)c
-YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ScrollViewerAssist.cs (de"0*
+qMaterialDesignThemes.Wpf.HintProxyFabric.ComboBoxHintProxy.ComboBoxLoaded(object, System.Windows.RoutedEventArgs)i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.ComboBox.csI L(sendere"0*
 0*
 1
 2*

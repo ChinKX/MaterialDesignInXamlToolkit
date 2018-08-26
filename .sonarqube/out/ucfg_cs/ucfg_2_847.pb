@@ -1,9 +1,9 @@
 
-BMaterialDesignThemes.Wpf.PopupBox.ToggleCheckedContentTemplate.get[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs© ©(X"0*j
-0"e
-[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs© ©(V
+?MaterialDesignThemes.Wpf.SmartHint.IsHintInFloatingPosition.getZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csZ Z(K"0*i
+0"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csZ Z(I
 ""*
 1"
 ""

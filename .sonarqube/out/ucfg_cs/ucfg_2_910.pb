@@ -1,9 +1,16 @@
 
-[MaterialDesignThemes.Wpf.TextFieldAssist.GetHasTextAreaBox(System.Windows.DependencyObject)`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csa d(element"0*o
-0"j
-`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csc c(A
-""*
-1"
+VMaterialDesignThemes.Wpf.SmartHint.OnHintProxyFocusedChanged(object, System.EventArgs)\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.cs¶ ¼(sendere"0*¢
+0”
+\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.cs¸ ¸(%00MaterialDesignThemes.Wpf.SmartHint.HintProxy.get*
+1
+2*
+1*
+3*Ÿ
+2”
+\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.cs» »(%00MaterialDesignThemes.Wpf.SmartHint.HintProxy.get*
+3*
+3"
 ""

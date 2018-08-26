@@ -1,9 +1,7 @@
 
-.MaterialDesignThemes.Wpf.Clock.ButtonStyle.getX
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csß ß(7"0*g
-0"b
-X
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csß	 ß(5
-""*
+(ControlzEx.PopupEx.RECT.Offset(int, int)è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csÉ ä(dxdy"0*
+0*
+1*
 1"
 ""

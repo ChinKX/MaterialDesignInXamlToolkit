@@ -1,7 +1,5 @@
 
-BMaterialDesignThemes.Wpf.DrawerHost.RightDrawerContentTemplate.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csð ð(Gvalue"0*
-0*
-1*
-1"
+DMaterialDesignThemes.Wpf.SnackbarMessageQueue.SnackbarMessageQueue()g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs™ ›("0*
+0"
 ""

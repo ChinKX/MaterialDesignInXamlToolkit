@@ -1,9 +1,7 @@
 
-.MaterialDesignThemes.Wpf.Ripple.RippleSize.getY
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.csç ç(?"0*h
-0"c
-Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.csç ç(=
-""*
+.MaterialDesignThemes.Wpf.Ripple.RippleSize.setY
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.csé é(Bvalue"0*
+0*
+1*
 1"
 ""

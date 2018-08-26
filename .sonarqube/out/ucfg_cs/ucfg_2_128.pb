@@ -1,15 +1,7 @@
 
-8MaterialDesignThemes.Wpf.Underline.GotoVisualState(bool)Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.cs< ?(useTransitions"0*¯
-0ñ
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.cs>/ >(?%04MaterialDesignThemes.Wpf.Underline.SelectStateName()‘
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.cs> >(P%1ZSystem.Windows.VisualStateManager.GoToState(System.Windows.FrameworkElement, string, bool)"
-"""
-
-%0"
-""*
+ÅMaterialDesignThemes.Wpf.ButtonProgressAssist.SetIndicatorBackground(System.Windows.DependencyObject, System.Windows.Media.Brush)e
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.csR U(elementindicatorBackground"0*
+0*
 1*
 1"
 ""

@@ -1,9 +1,7 @@
 
->MaterialDesignThemes.Wpf.ComboBoxPopup.DownContentTemplate.get^
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs0 0(Q"0*m
-0"h
-^
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs0 0(O
-""*
+>MaterialDesignThemes.Wpf.ComboBoxPopup.DownContentTemplate.set^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs1 1(@value"0*
+0*
+1*
 1"
 ""

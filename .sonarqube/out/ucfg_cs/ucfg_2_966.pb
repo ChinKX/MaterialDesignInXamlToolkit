@@ -1,6 +1,6 @@
 
-fMaterialDesignThemes.Wpf.PaletteHelper.ReplaceEntry(object, object, System.Windows.ResourceDictionary)`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelper.csú ’(	entryNamenewValueparentDictionary"0*
+fMaterialDesignThemes.Wpf.PopupBox.OnMouseButtonDown(object, System.Windows.Input.MouseButtonEventArgs)[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs» Ê(sendere"0*
 0*
 1
 2*
@@ -8,25 +8,13 @@ TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PaletteHelp
 2*
 2*
 3
+4*
+3*
 4*
-3*
+4*
 5
 6*
 5*
-6*
-6*
-7
-8*
-7*
-4*
-8*
-4*
-4*
-9*
-9*
-10
-11*	
-10*
-9*
-11"
+6*
+6"
 ""

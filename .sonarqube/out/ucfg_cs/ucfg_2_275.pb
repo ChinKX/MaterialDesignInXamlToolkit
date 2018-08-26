@@ -1,8 +1,9 @@
 
-„MaterialDesignThemes.Wpf.Converters.DrawerOffsetConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)q
-gD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\DrawerOffsetConverter.cs# &(value
-targetType	parameterculture"0*
-0*
-1*
+$ControlzEx.PopupEx.RECT.Position.get
+‚D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs· ·(@"0* 
+0"š
+
+‚D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs· ·(>
+""*
 1"
 ""

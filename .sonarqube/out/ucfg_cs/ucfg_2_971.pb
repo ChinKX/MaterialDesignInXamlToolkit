@@ -1,16 +1,12 @@
 
-aMaterialDesignThemes.Wpf.PopupBox.CoerceToolTipIsEnabled(System.Windows.DependencyObject, object)[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csô ø(dependencyObjectvalue"0*
-0*
+WMaterialDesignThemes.Wpf.PopupBox.PopupOnLoaded(object, System.Windows.RoutedEventArgs)[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csÙ Ý(senderroutedEventArgs"0* 
+0’
+[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csÛ Û(%0/MaterialDesignThemes.Wpf.PopupBox.PopupMode.get*
 1
 2*
 1*
-3*
-2*
-3*j
-3"e
-[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs÷ ÷(7
-""*
-4"
+2*
+2"
 ""

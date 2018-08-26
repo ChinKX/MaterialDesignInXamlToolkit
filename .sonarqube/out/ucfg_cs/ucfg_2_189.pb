@@ -1,9 +1,38 @@
 
-vMaterialDesignThemes.Wpf.Converters.CircularProgressBar.LocalEx.AnyNan(System.Collections.Generic.IEnumerable<double>)w
-mD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\LocalEx.cs (vals"0*á
-0"Å
-w
-mD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\LocalEx.cs ()
-""*
-1"
+òMaterialDesignThemes.Wpf.Clock.IsPostMeridiemPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)V
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csr y(dependencyObject"dependencyPropertyChangedEventArgs"0*
+0*
+1
+2*
+1*
+2*
+2*
+3
+4*»
+3v
+V
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csvQ v(d%0__concat"
+"""
+""≈
+W
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csv v(ã%16System.DateTime.DateTime(int, int, int, int, int, int)"
+"""
+"""
+"""
+
+%0"
+"""
+""*
+5*
+4*
+6
+7*
+6*
+7*
+7*
+8
+5*
+8*
+5*
+5"
 ""

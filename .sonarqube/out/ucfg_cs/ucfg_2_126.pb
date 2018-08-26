@@ -1,20 +1,18 @@
 
-vControlzEx.BadgedEx.OnBadgeChanged(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)Ž
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.csX b(de"0*Î
-0À
-Ž
-ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs\# \(Q%0!string.IsNullOrWhiteSpace(string)"
-""*
+4MaterialDesignThemes.Wpf.Underline.SelectStateName()Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.csA D("0*Ÿ
+0‘
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.csC C(%0/MaterialDesignThemes.Wpf.Underline.IsActive.get*
 1
-2*
-2*
-3
-4*
-3*
-4*
-4*
-1*
+2*
 1*
-5*
-5"
+3*
+2*
+3*i
+3"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.csC C(A
+""*
+4"
 ""

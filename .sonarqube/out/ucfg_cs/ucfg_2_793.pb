@@ -1,6 +1,6 @@
 
-FMaterialDesignThemes.Wpf.MaterialDateDisplay.IsDayInFirstComponent.setd
-ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDateDisplay.csb b(Gvalue"0*
+qMaterialDesignThemes.Wpf.DialogHost.CloseDialogCanExecute(object, System.Windows.Input.CanExecuteRoutedEventArgs)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs‘ ”(sendercanExecuteRoutedEventArgs"0*
 0*
 1*
 1"

@@ -1,15 +1,7 @@
 
-CMaterialDesignThemes.Wpf.SnackbarMessageQueue.Enqueue(object, bool)g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csÁ Æ(contentneverConsiderToBeDuplicate"0*
-0*
-1
-2*¼
-1±
-g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csÃ' Ã(P%0:System.ArgumentNullException.ArgumentNullException(string)"
-""*
-3*
-2*
-3*
-3"
+‰MaterialDesignThemes.Wpf.Snackbar.OnDeactivateStoryboardCompleted(System.Windows.IInputElement, MaterialDesignThemes.Wpf.SnackbarMessage)Y
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.csh m(snackbarmessage"0*
+0*
+1*
+1"
 ""

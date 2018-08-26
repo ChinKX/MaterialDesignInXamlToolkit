@@ -1,11 +1,9 @@
 
-MMaterialDesignThemes.Wpf.ClockItemButton.ArrangeOverride(System.Windows.Size)b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs± º(	finalSize"0*–
-0¢
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs³ ³(%08System.Windows.Threading.DispatcherObject.Dispatcher.get"l
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs¹ ¹()
+‚MaterialDesignThemes.Wpf.Converters.CardClipConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo)o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SizeToRectConverter.cs( +(valuetargetTypes	parameterculture"0*~
+0"y
+o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SizeToRectConverter.cs* *(
 ""*
 1"
 ""

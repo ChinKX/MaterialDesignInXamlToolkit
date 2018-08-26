@@ -1,6 +1,6 @@
 
-4MaterialDesignThemes.Wpf.Clock.DisplayAutomation.setX
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csü ü(5value"0*
+@MaterialDesignThemes.Wpf.ComboBoxPopup.VisiblePlacementWidth.set`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csù ù(Bvalue"0*
 0*
 1*
 1"

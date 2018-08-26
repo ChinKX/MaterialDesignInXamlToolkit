@@ -1,6 +1,6 @@
 
-HVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemHeight.set¬
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs/ /(7value"0*
+LMaterialDesignDemo.TransitionsDemo.TransitionsDemoHome.TransitionsDemoHome()m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\TransitionsDemo\TransitionsDemoHome.xaml.cs ("0*
 0*
 1*
 1"

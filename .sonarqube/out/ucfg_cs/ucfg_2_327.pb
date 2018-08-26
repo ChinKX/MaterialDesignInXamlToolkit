@@ -1,44 +1,22 @@
 
-jMaterialDesignThemes.Wpf.Ripple.MouseButtonEventHandler(object, System.Windows.Input.MouseButtonEventArgs)W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.cs' A(sendere"0*
-0*
-1*
-1*
-2
-3*œ
-2¡
-W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.cs,! ,(R%0RSystem.Windows.FrameworkTemplate.FindName(string, System.Windows.FrameworkElement)"
-"""
-""*
-4
-5*œ
-4¡
-W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.cs3) 3(n%0RSystem.Windows.FrameworkTemplate.FindName(string, System.Windows.FrameworkElement)"
-"""
-""*
-6
-7*
-6*
-7*œ
-7¡
-W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.cs8) 8(n%0RSystem.Windows.FrameworkTemplate.FindName(string, System.Windows.FrameworkElement)"
-"""
-""*
-8
-5*
-8*
-5*‹
-5—
-W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.cs> >(N%0ZSystem.Windows.VisualStateManager.GoToState(System.Windows.FrameworkElement, string, bool)"
-"""
-"""
-""*
-1*
-3*
-9*
-9"
+wMaterialDesignThemes.Wpf.Converters.NotConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotConverter.cs
+ (value
+targetType	parameterculture"0*
+0*
+1
+2*ô
+1Å
+h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotConverter.cs4 (C%0object.ToString()ä
+h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotConverter.cs) (D%1bool.Parse(string)"
+
+%0*
+2*w
+2"r
+h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotConverter.cs (E
+""*
+3"
 ""

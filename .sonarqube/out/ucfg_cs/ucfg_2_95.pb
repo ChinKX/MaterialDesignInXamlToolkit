@@ -1,7 +1,9 @@
 
-.MaterialDesignThemes.Wpf.ColorZone.ColorZone()Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs# &("0*
-0*
-1*
+-MaterialDesignThemes.Wpf.Chip.IsDeletable.getU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs> >(?"0*d
+0"_
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs> >(=
+""*
 1"
 ""

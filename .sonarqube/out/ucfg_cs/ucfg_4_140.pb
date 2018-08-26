@@ -1,8 +1,9 @@
 
-¥VirtualCollection.VirtualCollection.VirtualizingWrapPanel.UpdateScrollInfo(System.Windows.Size, VirtualCollection.VirtualCollection.VirtualizingWrapPanel.ExtentInfo)®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csÒ Ø(availableSize
-extentInfo"0*
-0*
-1*
+JMaterialDesignColors.WpfExample.Domain.SelectableViewModel.Description.get_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs4 4('"0*n
+0"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs4 4(%
+""*
 1"
 ""

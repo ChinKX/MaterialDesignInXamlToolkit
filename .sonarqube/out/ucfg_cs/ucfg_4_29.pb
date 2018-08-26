@@ -1,9 +1,9 @@
 
-HVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemHeight.get¬
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs. .(?"0*½
-0"·
-¬
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs. .(=
+8MaterialDesignDemo.Domain.SampleDialogViewModel.Name.geta
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SampleDialogViewModel.cs ( "0*p
+0"k
+a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SampleDialogViewModel.cs (
 ""*
 1"
 ""

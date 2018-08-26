@@ -1,9 +1,7 @@
 
-BVirtualCollection.VirtualCollection.VirtualizingWrapPanel.LineUp()®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csŸ ¢("0*Ž
-0ƒ
-®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¡ ¡(+%0LVirtualCollection.VirtualCollection.VirtualizingWrapPanel.VerticalOffset.get*
+&MaterialDesignDemo.IconPack.IconPack()R
+HD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPack.xaml.cs ("0*
+0*
 1*
 1"
 ""

@@ -1,9 +1,9 @@
 
-ŽMaterialDesignThemes.Wpf.Converters.CalendarDateCoalesceConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo)y
-oD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CalendarDateCoalesceConverter.cs (valuetargetTypes	parameterculture"0*‰
-0"ƒ
-y
-oD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CalendarDateCoalesceConverter.cs (
+AMaterialDesignThemes.Wpf.ComboBoxPopup.ClassicContentTemplate.get^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs@ @(T"0*m
+0"h
+^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs@ @(R
 ""*
 1"
 ""

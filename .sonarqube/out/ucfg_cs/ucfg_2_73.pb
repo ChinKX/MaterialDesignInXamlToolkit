@@ -1,9 +1,9 @@
 
-'ControlzEx.PackIconBase<TKind>.Data.getí
-áD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PackIconBase.csR R(9"0*£
-0"ù
-í
-áD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PackIconBase.csR R(7
+*ControlzEx.BadgedEx.BadgePlacementMode.geté
+ÉD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs9 9(T"0*ü
+0"ô
+é
+ÉD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs9 9(R
 ""*
 1"
 ""

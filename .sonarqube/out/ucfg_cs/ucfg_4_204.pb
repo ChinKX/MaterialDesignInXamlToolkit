@@ -1,13 +1,7 @@
 
-EMaterialDesignColors.WpfExample.Domain.DemoItem.MarginRequirement.setT
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs7 7(]value"0*ì
-0á
-T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs7 7(Z%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
-"""
-"""
-"""
-""*
+aMaterialDesignColors.WpfExample.PaletteSelectorViewModel.ApplyAccent(MaterialDesignColors.Swatch)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PaletteSelectorViewModel.cs( +(swatch"0*
+0*
 1*
 1"
 ""

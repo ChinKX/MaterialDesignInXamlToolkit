@@ -1,7 +1,15 @@
 
-oMaterialDesignThemes.Wpf.ClockItemButton.OnDragCompleted(System.Windows.DependencyObject, double, double, bool)b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csÅ ã(dhorizontalChangeverticalChangecanceled"0*
-0*
-1*
-1"
+äMaterialDesignThemes.Wpf.Converters.SnackbarMessageTypeConverter.CanConvertFrom(System.ComponentModel.ITypeDescriptorContext, System.Type)x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SnackbarMessageTypeConverter.cs (context
+sourceType"0*
+0*
+1
+2*
+2*
+1*à
+1"Ç
+x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\SnackbarMessageTypeConverter.cs ([
+""*
+3"
 ""

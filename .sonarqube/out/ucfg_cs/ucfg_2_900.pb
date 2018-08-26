@@ -1,9 +1,7 @@
 
-\MaterialDesignThemes.Wpf.TextFieldAssist.GetHasTextFieldBox(System.Windows.DependencyObject)`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csQ T(element"0*o
-0"j
-`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csS S(B
-""*
+|MaterialDesignThemes.Wpf.TextFieldAssist.SetIncludeSpellingSuggestions(System.Windows.Controls.Primitives.TextBoxBase, bool)`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csl o(elementvalue"0*
+0*
+1*
 1"
 ""

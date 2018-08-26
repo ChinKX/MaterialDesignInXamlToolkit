@@ -1,9 +1,7 @@
 
-SMaterialDesignThemes.Wpf.ShadowAssist.GetCacheMode(System.Windows.DependencyObject)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.csw z(element"0*l
-0"g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.csy y(A
-""*
+çMaterialDesignThemes.Wpf.SnackbarMessageQueue.ShowAsync(MaterialDesignThemes.Wpf.Snackbar, MaterialDesignThemes.Wpf.SnackbarMessageQueueItem)g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs– ˝(snackbarmessageQueueItem"0*
+0*
+1*
 1"
 ""

@@ -1,9 +1,10 @@
 
-DMaterialDesignThemes.Wpf.DrawerHost.TopDrawerContentStringFormat.get[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.css s(Q"0*j
-0"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.css s(O
-""*
+oMaterialDesignThemes.Wpf.HintProxyFabric.TextBoxHintProxy.TextBoxLoaded(object, System.Windows.RoutedEventArgs)h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.TextBox.cs1 4(sendere"0*
+0*
+1
+2*
+2*
+1*
 1"
 ""

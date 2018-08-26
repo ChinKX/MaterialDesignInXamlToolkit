@@ -1,7 +1,9 @@
 
-ZMaterialDesignThemes.Wpf.RippleAssist.SetIsCentered(System.Windows.DependencyObject, bool)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.cs( +(elementvalue"0*
-0*
-1*
+DMaterialDesignThemes.Wpf.DrawerHost.TopDrawerContentStringFormat.get[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.css s(Q"0*j
+0"e
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.css s(O
+""*
 1"
 ""

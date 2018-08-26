@@ -1,6 +1,6 @@
 
-OMaterialDesignThemes.Wpf.Screen.NativeMethods.POINTSTRUCT.POINTSTRUCT(int, int)W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csU Y(xy"0*
+,MaterialDesignThemes.Wpf.Snackbar.Snackbar()Y
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs ("0*
 0*
 1*
 1"

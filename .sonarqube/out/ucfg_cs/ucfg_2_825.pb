@@ -1,9 +1,9 @@
 
-;MaterialDesignThemes.Wpf.PopupBox.ToggleContentTemplate.get[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs‘ ‘(Q"0*j
-0"e
-[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs‘ ‘(O
+*MaterialDesignThemes.Wpf.RatingBar.Max.getZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs: :(6"0*i
+0"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs: :(4
 ""*
 1"
 ""

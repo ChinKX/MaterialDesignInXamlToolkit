@@ -1,6 +1,6 @@
 
-+MaterialDesignThemes.Wpf.Ripple.RippleY.setY
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.csª ª(?value"0*
+IMaterialDesignThemes.Wpf.HintProxyFabric.PasswordBoxHintProxy.IsFocused()l
+bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.PasswordBox.cs (E"0*
 0*
 1*
 1"

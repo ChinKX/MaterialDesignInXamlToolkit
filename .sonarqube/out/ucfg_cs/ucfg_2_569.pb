@@ -1,9 +1,9 @@
 
-2MaterialDesignThemes.Wpf.Snackbar.MessageQueue.getY
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs7 7(P"0*h
-0"c
-Y
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs7 7(N
+JMaterialDesignThemes.Wpf.SnackbarMessage.ActionContentTemplateSelector.get`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.csO O(a"0*o
+0"j
+`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.csO O(_
 ""*
 1"
 ""

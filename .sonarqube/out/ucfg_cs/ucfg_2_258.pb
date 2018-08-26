@@ -1,10 +1,16 @@
 
-ƒMaterialDesignThemes.Wpf.Converters.HintProxyFabricConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)t
-jD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\HintProxyFabricConverter.cs (value
-targetType	parameterculture"0*ƒ
-0"~
-t
-jD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\HintProxyFabricConverter.cs (8
+SMaterialDesignThemes.Wpf.TreeHelper.FindMainTreeVisual(System.Windows.Media.Visual)[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeHelper.csZ f(visual"0*
+0*
+1*
+1*
+2
+3*
+2*
+1*j
+3"e
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeHelper.cse e(!
 ""*
-1"
+4"
 ""

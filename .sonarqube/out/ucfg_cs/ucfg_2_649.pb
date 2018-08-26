@@ -1,7 +1,9 @@
 
-EMaterialDesignThemes.Wpf.DialogHost.DialogContentTemplateSelector.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÍ Í(Jvalue"0*
-0*
-1*
+:MaterialDesignThemes.Wpf.DrawerHost.BottomDrawerZIndex.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csç ç(D"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csç ç(B
+""*
 1"
 ""

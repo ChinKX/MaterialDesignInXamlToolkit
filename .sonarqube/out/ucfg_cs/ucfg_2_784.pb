@@ -1,9 +1,10 @@
 
-FMaterialDesignThemes.Wpf.MaterialDateDisplay.IsDayInFirstComponent.getd
-ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDateDisplay.csa a(C"0*s
-0"n
-d
-ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDateDisplay.csa a(A
+_MaterialDesignThemes.Wpf.SnackbarMessageQueue.FindSnackbar(System.Windows.Threading.Dispatcher)g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csÃ Î(
+dispatcher"0*v
+0"q
+g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csÅ Í(
 ""*
 1"
 ""

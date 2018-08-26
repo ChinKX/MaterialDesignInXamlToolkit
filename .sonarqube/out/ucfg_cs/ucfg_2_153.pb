@@ -1,7 +1,9 @@
 
-”MaterialDesignThemes.Wpf.TreeViewAssist.SetAdditionalTemplateSelector(System.Windows.DependencyObject, System.Windows.Controls.DataTemplateSelector)_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.csD G(elementvalue"0*
-0*
-1*
+/MaterialDesignThemes.Wpf.Clock.IsMiddayHour.getV
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csk	 k(="0*e
+0"`
+V
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csk k(;
+""*
 1"
 ""

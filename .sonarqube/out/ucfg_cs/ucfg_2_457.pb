@@ -1,7 +1,9 @@
 
-cMaterialDesignThemes.Wpf.PackIconExtension.PackIconExtension(MaterialDesignThemes.Wpf.PackIconKind)b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PackIconExtension.cs (kind"0*
-0*
-1*
+TMaterialDesignThemes.Wpf.RippleAssist.GetIsDisabled(System.Windows.DependencyObject)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.csO R(element"0*l
+0"g
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.csQ Q(=
+""*
 1"
 ""

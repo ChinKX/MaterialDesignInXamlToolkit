@@ -1,10 +1,9 @@
 
-åMaterialDesignThemes.Wpf.Converters.NullableToVisibilityConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullToVisibilityConverter.cs (value
-targetType	parameterculture"0*Ñ
-0"
-u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NullToVisibilityConverter.cs ($
+OControlzEx.PopupEx.RECT.Union(ControlzEx.PopupEx.RECT, ControlzEx.PopupEx.RECT)è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs¿ »(rect1rect2"0*†
+0"ö
+è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs¬ «(
 ""*
 1"
 ""

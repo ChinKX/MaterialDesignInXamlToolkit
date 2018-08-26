@@ -1,7 +1,9 @@
 
-3MaterialDesignThemes.Wpf.ColorZone.CornerRadius.setZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs7 7(9value"0*
-0*
-1*
+WMaterialDesignThemes.Wpf.ComboBoxAssist.GetClassicMode(System.Windows.DependencyObject)_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxAssist.cs (element"0*n
+0"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxAssist.cs (>
+""*
 1"
 ""

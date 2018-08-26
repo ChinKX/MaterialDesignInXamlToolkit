@@ -1,9 +1,7 @@
 
-.MaterialDesignThemes.Wpf.RatingBar.RatingBar()Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs  $("0*™
-0Ž
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs" "(%0,System.Windows.UIElement.CommandBindings.get*
+TMaterialDesignThemes.Wpf.DialogHost.OnLoaded(object, System.Windows.RoutedEventArgs)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csª ­(senderroutedEventArgs"0*
+0*
 1*
 1"
 ""

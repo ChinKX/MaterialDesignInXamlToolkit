@@ -1,9 +1,9 @@
 
-4MaterialDesignThemes.Wpf.Plane3D.CreateVisualChild()Z
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csè ∫("0*i
-0"d
-Z
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csπ π(
+-MaterialDesignThemes.Wpf.Screen.GetHashCode()Y
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÊ È("0*h
+0"c
+Y
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csË Ë(!
 ""*
 1"
 ""

@@ -1,7 +1,9 @@
 
-6MaterialDesignThemes.Wpf.ComboBoxPopup.ClassicMode.set`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs´ ´(8value"0*
-0*
-1*
+6MaterialDesignThemes.Wpf.ComboBoxPopup.ClassicMode.get`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs³ ³(>"0*o
+0"j
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs³ ³(<
+""*
 1"
 ""

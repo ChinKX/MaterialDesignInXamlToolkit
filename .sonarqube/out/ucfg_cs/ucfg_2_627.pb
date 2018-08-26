@@ -1,12 +1,9 @@
 
-,MaterialDesignThemes.Wpf.TimePicker.Text.set[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs@ @((value"0*Ô
-0É
+4MaterialDesignThemes.Wpf.TimePicker.SelectedTime.get[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csQ Q(<"0*j
+0"e
 [
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs@	 @(%%0SSystem.Windows.DependencyObject.SetValue(System.Windows.DependencyProperty, object)"
-"""	
-
-value*
-1*
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csQ	 Q(:
+""*
 1"
 ""

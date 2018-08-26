@@ -1,27 +1,49 @@
 
-9MaterialDesignThemes.Wpf.TimePicker.SetSelectedTime(bool)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csπ «(
-beCautious"0*
-0*
-1
-2*ò
-2ç
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csª0 ª(3%0(System.Windows.Controls.TextBox.Text.get*
-1*ó
-1â
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csª ª(4%0string.IsNullOrEmpty(string)"
-""*
-3
-4*’
-3 
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csΩ ¡(%0UMaterialDesignThemes.Wpf.TimePicker.ParseTime(string, System.Action<System.DateTime>)"
+ÉMaterialDesignThemes.Wpf.Transitions.TransitionEffect.CreateExpandIn(MaterialDesignThemes.Wpf.Transitions.ITransitionEffectSubject)m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csh (effectSubject"0*≥
+0π
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.cslS l(\%0DMaterialDesignThemes.Wpf.Transitions.TransitionEffect.OffsetTime.getç
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csl< l(\%1__concat"
+
+%0"
+""Å
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csl l(]%2|System.Windows.Media.Animation.DiscreteDoubleKeyFrame.DiscreteDoubleKeyFrame(double, System.Windows.Media.Animation.KeyTime)"
+"""
+
+%1π
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csmN m(W%3DMaterialDesignThemes.Wpf.Transitions.TransitionEffect.OffsetTime.getç
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csm7 m(W%4__concat"
+
+%3"
+""∑
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csm[ m(b%5BMaterialDesignThemes.Wpf.Transitions.TransitionEffect.Duration.getç
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csm7 m(b%6__concat"
+
+%5"
+
+%4˛
+n
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csm m(á%7xSystem.Windows.Media.Animation.EasingDoubleKeyFrame.EasingDoubleKeyFrame(double, System.Windows.Media.Animation.KeyTime)"
+"""
+
+%6Â
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csr r(V%8`System.Windows.Media.Animation.Storyboard.SetTargetName(System.Windows.DependencyObject, string)"
 """
-""*
-5*
-4*
-5*
-5"
+""Â
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.csw w(V%9`System.Windows.Media.Animation.Storyboard.SetTargetName(System.Windows.DependencyObject, string)"
+"""
+"""w
+m
+cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.cs~ ~(#
+""*
+1"
 ""

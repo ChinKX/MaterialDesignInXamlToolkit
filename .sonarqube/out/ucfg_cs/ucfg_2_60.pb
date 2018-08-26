@@ -1,7 +1,9 @@
 
-'ControlzEx.PackIconBase<TKind>.Kind.set’
-‡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PackIconBase.cs6 6(1value"0*
-0*
-1*
+VMaterialDesignThemes.Wpf.ValidationAssist.GetSuppress(System.Windows.DependencyObject)a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ValidationAssist.csM P(element"0*p
+0"k
+a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ValidationAssist.csO O(<
+""*
 1"
 ""

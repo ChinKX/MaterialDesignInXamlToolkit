@@ -1,9 +1,16 @@
 
-,MaterialDesignThemes.Wpf.Ripple.Feedback.getW
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.csY Y(<"0*f
-0"a
-W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.csY Y(:
+„MaterialDesignThemes.Wpf.Converters.PointValueConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo)o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs !(valuetargetTypes	parameterculture"0*
+0*
+1
+2*~
+1"y
+o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs (8
+""*~
+2"y
+o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs   ( 
 ""*
-1"
+3"
 ""

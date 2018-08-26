@@ -1,9 +1,9 @@
 
-FMaterialDesignColors.WpfExample.Domain.TreesViewModel.SelectedItem.getZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.csS S(("0*i
-0"d
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.csS S(&
+nVirtualCollection.VirtualCollection.VirtualizingWrapPanel.GetVirtualItemIndex(System.Windows.DependencyObject)¬
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs" %(obj"0*½
+0"·
+¬
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs$ $(>
 ""*
 1"
 ""

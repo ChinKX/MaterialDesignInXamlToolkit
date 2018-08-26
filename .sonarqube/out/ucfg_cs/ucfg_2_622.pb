@@ -1,6 +1,6 @@
 
-MaterialDesignThemes.Wpf.Transitions.IndexedItemOffsetMultiplierExtension.IndexedItemOffsetMultiplierExtension(System.TimeSpan)Å
-wD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\IndexedItemOffsetMultiplierExtension.cs (unit"0*
+uMaterialDesignThemes.Wpf.SnackbarMessageQueue.Enqueue<TArgument>(object, object, System.Action<TArgument>, TArgument)g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs÷ ⁄(contentactionContentactionHandleractionArgument"0*
 0*
 1*
 1"

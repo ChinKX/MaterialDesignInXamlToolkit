@@ -1,9 +1,9 @@
 
-BMaterialDesignThemes.Wpf.DrawerHost.RightDrawerContentTemplate.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csï ï(U"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csï ï(S
+:MaterialDesignThemes.Wpf.SnackbarMessage.ActionCommand.get`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cs" "(E"0*o
+0"j
+`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cs" "(C
 ""*
 1"
 ""

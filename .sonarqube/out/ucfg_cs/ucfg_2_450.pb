@@ -1,9 +1,10 @@
 
-7MaterialDesignThemes.Wpf.DrawerHost.IsTopDrawerOpen.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs… …(B"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs… …(@
-""*
+2MaterialDesignThemes.Wpf.Flipper.OnApplyTemplate()Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs’ ™("0*­
+0¢
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.cs˜ ˜(7%08System.Windows.FrameworkElement.GetTemplateChild(string)"
+""*
+1*
 1"
 ""

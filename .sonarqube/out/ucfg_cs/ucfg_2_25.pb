@@ -1,9 +1,9 @@
 
-1ControlzEx.PopupEx.CloseOnMouseLeftButtonDown.getç
-ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs! !(M"0*û
-0"ò
-ç
-ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs! !(K
+:MaterialDesignThemes.Wpf.Badged.BadgeChangedStoryboard.getW
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Badged.cs (T"0*f
+0"a
+W
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Badged.cs (R
 ""*
 1"
 ""

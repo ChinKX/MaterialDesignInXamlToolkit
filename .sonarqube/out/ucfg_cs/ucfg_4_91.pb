@@ -1,14 +1,7 @@
 
-JMaterialDesignColors.WpfExample.PickersViewModel.OnPropertyChanged(string)U
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.csB E(propertyName"0*
-0*
-1
-2*É
-2¾
-U
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.csD* D(S%0OSystem.ComponentModel.PropertyChangedEventArgs.PropertyChangedEventArgs(string)"
-
-propertyName*
+BMaterialDesignColors.WpfExample.Domain.SampleDialog.SampleDialog()]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SampleDialog.xaml.cs ("0*
+0*
 1*
 1"
 ""

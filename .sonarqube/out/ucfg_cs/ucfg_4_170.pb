@@ -1,15 +1,16 @@
 
-JMaterialDesignColors.WpfExample.Domain.DocumentationLink.StyleLink(string)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs #(	nameChunk"0*å
-0ù
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs "(%0òMaterialDesignColors.WpfExample.Domain.DocumentationLink.DocumentationLink(MaterialDesignColors.WpfExample.Domain.DocumentationLinkType, string, string)"
-"""
-"""
-
-	nameChunk"g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs "(
-""*
-1"
+CMaterialDesignColors.WpfExample.Domain.SelectableViewModel.Food.set_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.csK P(value"0*
+0*
+1
+2*n
+1"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.csM$ M(*
+""*∆
+2ª
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.csO O("%0TMaterialDesignColors.WpfExample.Domain.SelectableViewModel.OnPropertyChanged(string)*
+3*
+3"
 ""

@@ -1,6 +1,6 @@
 
-çMaterialDesignThemes.Wpf.SnackbarMessageQueue.ShowAsync(MaterialDesignThemes.Wpf.Snackbar, MaterialDesignThemes.Wpf.SnackbarMessageQueueItem)g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs– ˝(snackbarmessageQueueItem"0*
+aMaterialDesignThemes.Wpf.TextFieldAssist.SetHasTextAreaBox(System.Windows.DependencyObject, bool)`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.cs\ _(elementvalue"0*
 0*
 1*
 1"

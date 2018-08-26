@@ -1,6 +1,6 @@
 
--MaterialDesignColors.WpfExample.Chips.Chips()O
-ED:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Chips.xaml.cs ("0*
+7MaterialDesignColors.WpfExample.ColorZones.ColorZones()T
+JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ColorZones.xaml.cs ("0*
 0*
 1*
 1"

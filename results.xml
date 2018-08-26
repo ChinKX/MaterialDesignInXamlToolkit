@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="47-4F-7D-35-73-BF-74-9F-66-10-A9-01-D4-C8-14-7C-0F-BC-78-49">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:03.7302244Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D4-01-BA-72-31-4F-92-69-57-4C-E8-24-55-2F-1B-35-88-62-4F-64">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.console.x86.exe</ModulePath>
+      <ModuleTime>2018-07-16T20:18:10Z</ModuleTime>
+      <ModuleName>xunit.console.x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-A3-7C-51-36-22-C7-D2-9D-0E-92-82-67-4D-3C-F3-60-CF-41-6A">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:40.3313641Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CD-4E-89-34-E9-B6-C3-BF-CB-96-5C-1E-A2-99-84-F1-90-C3-2A-EE">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-A6-8B-2E-4B-F6-8C-A4-ED-72-61-CD-23-44-04-6D-58-D9-67-17">
+      <ModulePath>D:\GitHub_Proj\MaterialDesignInXamlToolkit\packages\xunit.runner.console.2.4.0\tools\net472\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-07-16T20:18:12Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-DE-EA-E1-0B-80-32-F5-3F-FB-C0-A6-E1-61-D8-B3-5E-75-1A-C4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-07-25T03:18:11.8724221Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

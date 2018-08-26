@@ -1,6 +1,6 @@
 
- MaterialDesignThemes.Wpf.ToggleButtonAssist.OnContentPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)c
-YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.cs% ((dependencyObject"dependencyPropertyChangedEventArgs"0*
+LMaterialDesignThemes.Wpf.Screen.NativeMethods.RECT.RECT(System.Windows.Rect)W
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.cs> D(r"0*
 0*
 1*
 1"

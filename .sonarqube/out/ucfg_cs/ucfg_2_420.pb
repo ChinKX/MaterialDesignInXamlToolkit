@@ -1,9 +1,10 @@
 
-kMaterialDesignThemes.Wpf.DialogHost.Show(object, object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs’ •(contentdialogIdentifieropenedEventHandler"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs” ”(L
-""*
+wMaterialDesignThemes.Wpf.HintProxyFabric.PasswordBoxHintProxy.PasswordBoxLoaded(object, System.Windows.RoutedEventArgs)l
+bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.PasswordBox.cs0 3(sendere"0*
+0*
+1
+2*
+2*
+1*
 1"
 ""

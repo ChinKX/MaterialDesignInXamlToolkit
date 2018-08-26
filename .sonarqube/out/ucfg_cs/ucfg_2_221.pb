@@ -1,6 +1,6 @@
 
-™MaterialDesignThemes.Wpf.Converters.CircularProgressBar.ArcEndPointConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo)„
-zD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\ArcEndPointConverter.cs* -(valuetargetTypes	parameterculture"0*
+@MaterialDesignThemes.Wpf.ComboBoxPopup.DefaultVerticalOffset.set`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs“ “(Bvalue"0*
 0*
 1*
 1"

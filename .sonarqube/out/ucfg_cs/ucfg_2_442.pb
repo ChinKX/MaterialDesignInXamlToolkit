@@ -1,6 +1,6 @@
 
-;MaterialDesignThemes.Wpf.DrawerHost.TopDrawerBackground.set[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs} }(@value"0*
+CMaterialDesignThemes.Wpf.HintProxyFabric.TextBoxHintProxy.Dispose()h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.TextBox.cs; A("0*
 0*
 1*
 1"

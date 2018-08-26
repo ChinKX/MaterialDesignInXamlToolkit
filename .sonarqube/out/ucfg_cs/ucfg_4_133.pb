@@ -1,7 +1,9 @@
 
-IMaterialDesignDemo.ProvingGroundStuff.MeasuringTextBox.MeasuringTextBox()h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGroundStuff\MeasuringTextBox.cs ("0*
-0*
-1*
+GMaterialDesignColors.WpfExample.ButtonsViewModel.RaisePropertyChanged()W
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs´ ·("0*f
+0"a
+W
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs¶ ¶(>
+""*
 1"
 ""

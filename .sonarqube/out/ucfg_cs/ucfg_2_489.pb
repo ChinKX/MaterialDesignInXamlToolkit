@@ -1,9 +1,9 @@
 
-,MaterialDesignThemes.Wpf.ScaleHost.Scale.getZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ScaleHost.cs (;"0*i
-0"d
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ScaleHost.cs (9
+dMaterialDesignThemes.Wpf.ScrollViewerAssist.GetSyncHorizontalOffset(System.Windows.DependencyObject)c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ScrollViewerAssist.cs (element"0*r
+0"m
+c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ScrollViewerAssist.cs (F
 ""*
 1"
 ""

@@ -1,21 +1,14 @@
 
-‚MaterialDesignColors.WpfExample.MainWindow.UIElement_OnPreviewMouseLeftButtonUp(object, System.Windows.Input.MouseButtonEventArgs)T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MainWindow.xaml.cs& 1(sendere"0*
-0*
-1*
-1*
-2
-3*
-2*
-4
-5*c
-4"^
-T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MainWindow.xaml.cs,3 ,(9
-""*
-5*
-1*
-3*
-6*
-6"
+˜MaterialDesignColors.WpfExample.Domain.DocumentationLink.DocumentationLink(MaterialDesignColors.WpfExample.Domain.DocumentationLinkType, string, string)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs (typeurllabel"0*
+0*
+1
+2*…
+1{
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs (+%0System.Enum.ToString()*
+2*
+2*
+3*
+3"
 ""

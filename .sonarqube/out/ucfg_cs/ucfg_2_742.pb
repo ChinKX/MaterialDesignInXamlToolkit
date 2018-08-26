@@ -1,20 +1,12 @@
 
-‡MaterialDesignThemes.Wpf.MaterialDataGridTextColumn.PrepareCellForEdit(System.Windows.FrameworkElement, System.Windows.RoutedEventArgs)k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridTextColumn.cs	 (editingElementeditingEventArgs"0*
-0*
-1
-2*ê
-1´
-k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridTextColumn.cs$ (,%0AMaterialDesignThemes.Wpf.MaterialDataGridTextColumn.MaxLength.get¨
-k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridTextColumn.cs (,%1-System.Windows.Controls.TextBox.MaxLength.set"
-
-%0*
-2*z
-2"u
-k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridTextColumn.cs (
-""*
-3"
+FMaterialDesignThemes.Wpf.MaterialDateDisplay.ComponentThreeContent.setd
+ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDateDisplay.csT T(Mvalue"0*à
+0Õ
+d
+ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDateDisplay.csT T(J%0VSystem.Windows.DependencyObject.SetValue(System.Windows.DependencyPropertyKey, object)"
+"""	
+
+value*
+1*
+1"
 ""

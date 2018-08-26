@@ -1,9 +1,7 @@
 
-8MaterialDesignThemes.Wpf.DrawerHost.IsLeftDrawerOpen.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csÌ Ì(D"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csÌ Ì(B
-""*
+dMaterialDesignThemes.Wpf.ToggleButtonAssist.SetHasOnContent(System.Windows.DependencyObject, object)c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.cs (elementvalue"0*
+0*
+1*
 1"
 ""

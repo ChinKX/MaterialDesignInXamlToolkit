@@ -1,9 +1,16 @@
 
-*MaterialDesignThemes.Wpf.Plane3D.Child.getX
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csT W("0*g
-0"b
+EMaterialDesignThemes.Wpf.Plane3D.MeasureOverride(System.Windows.Size)X
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csm |(availableSize"0*
+0*
+1
+2*
+1*
+3*
+2*
+3*g
+3"b
 X
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csV V(%
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs{ {(
 ""*
-1"
+4"
 ""

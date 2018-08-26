@@ -1,12 +1,20 @@
 
-ãMaterialDesignThemes.Wpf.Converters.BooleanToVisibilityConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)x
-nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BooleanToVisibilityConverter.cs (value
-targetType	parameterculture"0*Ÿ
-0Œ
-x
-nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BooleanToVisibilityConverter.cs+ (3%0NMaterialDesignThemes.Wpf.Converters.BooleanToVisibilityConverter.TrueValue.get"Ç
-x
-nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BooleanToVisibilityConverter.cs (4
-""*
-1"
+/MaterialDesignThemes.Wpf.Chip.OnApplyTemplate()U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csh r("0*
+0*
+1
+2*
+1*
+2*´
+2ù
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.csm m(A%08System.Windows.FrameworkElement.GetTemplateChild(string)"
+""*
+3
+4*
+3*
+4*
+4*
+5*
+5"
 ""

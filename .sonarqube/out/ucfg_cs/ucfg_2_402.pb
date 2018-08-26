@@ -1,6 +1,6 @@
 
-•MaterialDesignThemes.Wpf.Flipper.IsFlippedPropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)X
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Flipper.csl r(dependencyObject"dependencyPropertyChangedEventArgs"0*
+7MaterialDesignThemes.Wpf.Ripple.RecognizesAccessKey.setY
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Ripple.cs¼ ¼(@value"0*
 0*
 1*
 1"

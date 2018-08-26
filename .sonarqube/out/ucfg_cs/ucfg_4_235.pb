@@ -1,16 +1,12 @@
 
-FMaterialDesignColors.WpfExample.Domain.SelectableViewModel.Numeric.set_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs@ E(value"0*
+MaterialDesignColors.WpfExample.Pickers.ClockDialogClosingEventHandler(object, MaterialDesignThemes.Wpf.DialogClosingEventArgs)Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Pickers.xaml.csH L(sender	eventArgs"0*
 0*
 1
-2*n
-1"i
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.csB' B(-
-""*Æ
-2»
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.csD D("%0TMaterialDesignColors.WpfExample.Domain.SelectableViewModel.OnPropertyChanged(string)*
-3*
-3"
+2*“
+1ˆ
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Pickers.xaml.csK# K(-%0/System.Windows.FrameworkElement.DataContext.get*
+2*
+2"
 ""

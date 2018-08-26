@@ -1,9 +1,20 @@
 
-<MaterialDesignThemes.Wpf.DrawerHost.LeftDrawerBackground.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csÃ Ã(I"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csÃ Ã(G
+‡MaterialDesignThemes.Wpf.ToolTipAssist.CustomPopupPlacementCallbackImpl(System.Windows.Size, System.Windows.Size, System.Windows.Point)^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToolTipAssist.cs
+ (	popupSize
+targetSizeoffset"0*
+0~
+^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToolTipAssist.cs[ (p%0__concat"
+"""
+"" 
+^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToolTipAssist.cs) (q%1*System.Windows.Point.Point(double, double)"
+"""
+
+%0"h
+^
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToolTipAssist.cs (
 ""*
 1"
 ""

@@ -1,9 +1,9 @@
 
-=MaterialDesignThemes.Wpf.DrawerHost.RightDrawerBackground.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csŠ Š(I"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csŠ Š(G
+,MaterialDesignThemes.Wpf.Plane3D.ZFactor.getX
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csN N(="0*g
+0"b
+X
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csN N(;
 ""*
 1"
 ""

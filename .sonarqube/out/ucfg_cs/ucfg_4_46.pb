@@ -1,10 +1,20 @@
 
-bMaterialDesignColors.WpfExample.Home.TwitterButton_OnClick(object, System.Windows.RoutedEventArgs)N
-DD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Home.xaml.cs# &(sendere"0*ë
-0Ü
-N
-DD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Home.xaml.cs% %(=%0(System.Diagnostics.Process.Start(string)"
-""*
-1*
-1"
+ÉMaterialDesignColors.WpfExample.Dialogs.Sample2_DialogHost_OnDialogClosing(object, MaterialDesignThemes.Wpf.DialogClosingEventArgs)Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs !(sender	eventArgs"0*
+0*
+1
+2*
+1*
+2*ˇ
+2q
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs   (f%0__concat"
+"""
+""Å
+Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs   (g%1 System.Console.WriteLine(string)"
+
+%0*
+3*
+3"
 ""

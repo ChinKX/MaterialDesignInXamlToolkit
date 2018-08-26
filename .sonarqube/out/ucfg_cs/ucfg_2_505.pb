@@ -1,9 +1,8 @@
 
-dMaterialDesignThemes.Wpf.ScrollViewerAssist.GetSyncHorizontalOffset(System.Windows.DependencyObject)c
-YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ScrollViewerAssist.cs (element"0*r
-0"m
-c
-YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ScrollViewerAssist.cs (F
-""*
+tMaterialDesignThemes.Wpf.SnackbarMessageEventArgs.SnackbarMessageEventArgs(MaterialDesignThemes.Wpf.SnackbarMessage)i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageEventArgs.cs 
+(message"0*
+0*
+1*
 1"
 ""

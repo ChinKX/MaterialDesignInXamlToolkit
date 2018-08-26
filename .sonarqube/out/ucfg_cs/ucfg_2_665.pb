@@ -1,9 +1,16 @@
 
-1MaterialDesignThemes.Wpf.TimePicker.Is24Hours.get[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csm	 m(:"0*j
-0"e
+cMaterialDesignThemes.Wpf.TimePicker.OnCoerceIsDropDownOpen(System.Windows.DependencyObject, object)[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csq {(d	baseValue"0*
+0*
+1
+2*j
+1"e
 [
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csm m(8
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csw w(
+""*j
+2"e
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csz z(
 ""*
-1"
+3"
 ""

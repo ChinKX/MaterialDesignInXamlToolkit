@@ -1,9 +1,12 @@
 
-HVirtualCollection.VirtualCollection.VirtualizingWrapPanel.MouseWheelUp()®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csÇ Ê("0*Ž
-0ƒ
-®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csÉ É(+%0LVirtualCollection.VirtualCollection.VirtualizingWrapPanel.VerticalOffset.get*
-1*
+[MaterialDesignDemo.ProvingGroundStuff.MeasuringTextBox.ArrangeOverride(System.Windows.Size)h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGroundStuff\MeasuringTextBox.cs (arrangeBounds"0*œ
+0¢
+h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGroundStuff\MeasuringTextBox.cs (v%0*System.Diagnostics.Debug.WriteLine(string)"
+"""r
+h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGroundStuff\MeasuringTextBox.cs (
+""*
 1"
 ""

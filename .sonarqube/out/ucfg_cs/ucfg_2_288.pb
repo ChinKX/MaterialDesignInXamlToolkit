@@ -1,6 +1,6 @@
 
-†MaterialDesignThemes.Wpf.Converters.MathMultipleConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo)q
-gD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\MathMultipleConverter.cs& )(valuetargetTypes	parameterculture"0*
+|MaterialDesignThemes.Wpf.Clock.OnClockChoiceMade(System.Windows.DependencyObject, MaterialDesignThemes.Wpf.ClockDisplayMode)X
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csÛ ä(ddisplayMode"0*
 0*
 1*
 1"

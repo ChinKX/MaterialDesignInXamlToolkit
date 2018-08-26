@@ -1,7 +1,9 @@
 
-FMaterialDesignDemo.Domain.DialogsViewModel.AcceptSample4Dialog(object)^
-RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.csÅ à(obj"0*
-0*
-1*
+WVirtualCollection.VirtualCollection.VirtualizingWrapPanel.Clamp(double, double, double)Æ
+°D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs∆ …(valueminmax"0*ø
+0"π
+Æ
+°D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs» »(6
+""*
 1"
 ""

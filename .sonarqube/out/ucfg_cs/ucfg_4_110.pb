@@ -1,7 +1,13 @@
 
-ÅMaterialDesignColors.WpfExample.Domain.MovieCategory.MovieCategory(string, params MaterialDesignColors.WpfExample.Domain.Movie[])Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.cs< @(namemovies"0*
-0*
+=MaterialDesignColors.WpfExample.ButtonsViewModel.IsSaving.setW
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csü ü(\value"0*Ô
+0‰
+W
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csü ü(Y%0‰MaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
+"""
+"""
+"""
+""*
 1*
 1"
 ""

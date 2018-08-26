@@ -1,9 +1,7 @@
 
-4MaterialDesignThemes.Wpf.ClockItemButton.CentreX.get`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs (4"0*o
-0"j
-`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs	 (2
-""*
+0MaterialDesignThemes.Wpf.Chip.IconBackground.setU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs* *(;value"0*
+0*
+1*
 1"
 ""

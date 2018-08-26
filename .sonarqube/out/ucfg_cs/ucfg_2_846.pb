@@ -1,9 +1,9 @@
 
-;MaterialDesignThemes.Wpf.SmartHint.IsContentNullOrEmpty.getZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csH H(H"0*i
-0"d
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csH H(F
+:MaterialDesignThemes.Wpf.PopupBox.ToggleCheckedContent.get[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csù ù(J"0*j
+0"e
+[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csù ù(H
 ""*
 1"
 ""

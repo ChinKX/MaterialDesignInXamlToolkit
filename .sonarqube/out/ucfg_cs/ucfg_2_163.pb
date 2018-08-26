@@ -1,9 +1,30 @@
 
-fMaterialDesignThemes.Wpf.TreeViewAssist.GetAdditionalTemplateSelector(System.Windows.DependencyObject)_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.csP S(element"0*n
-0"i
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.csR R(]
-""*
-1"
+DControlzEx.PopupEx.hostWindow_StateChanged(object, System.EventArgs)Ž
+‚D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csx ˆ(sendere"0*
+0*
+1
+2*
+1*
+2*
+2*
+3
+4*
+3*
+5
+6*
+5*
+7*
+6*
+7*
+7*
+8
+9*
+8*
+9*
+9*
+10
+4*	
+10*
+4*
+4"
 ""

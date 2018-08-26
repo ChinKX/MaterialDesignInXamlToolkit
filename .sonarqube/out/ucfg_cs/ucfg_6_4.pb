@@ -1,7 +1,9 @@
 
-…MaterialDesignThemes.MahApps.FlyoutAssist.SetHeaderShadowDepth(System.Windows.DependencyObject, MaterialDesignThemes.Wpf.ShadowDepth)a
-WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.MahApps\FlyoutAssist.cs  (elementvalue"0*
-0*
-1*
+_MaterialDesignThemes.MahApps.FlyoutAssist.GetHeaderShadowDepth(System.Windows.DependencyObject)a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.MahApps\FlyoutAssist.cs" %(element"0*p
+0"k
+a
+WD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.MahApps\FlyoutAssist.cs$ $(L
+""*
 1"
 ""

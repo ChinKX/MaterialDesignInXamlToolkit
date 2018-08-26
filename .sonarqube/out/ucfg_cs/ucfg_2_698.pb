@@ -1,6 +1,6 @@
 
-“MaterialDesignThemes.Wpf.Transitions.TransitionEffectExtension.TransitionEffectExtension(MaterialDesignThemes.Wpf.Transitions.TransitionEffectKind)v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs (kind"0*
+2MaterialDesignThemes.Wpf.DialogHost.PopupStyle.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs§ §(7value"0*
 0*
 1*
 1"

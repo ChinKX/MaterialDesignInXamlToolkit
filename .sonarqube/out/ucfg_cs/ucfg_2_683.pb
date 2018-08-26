@@ -1,6 +1,6 @@
 
-AMaterialDesignThemes.Wpf.DialogHost.CloseOnClickAwayParameter.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs„ „(Fvalue"0*
+PMaterialDesignThemes.Wpf.ListSortDirectionIndicator.ListSortDirectionIndicator()k
+aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListSortDirectionIndicator.cs ("0*
 0*
 1*
 1"

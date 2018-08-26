@@ -1,6 +1,6 @@
 
-aMaterialDesignThemes.Wpf.TextFieldAssist.SetHasTextAreaBox(System.Windows.DependencyObject, bool)`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.cs\ _(elementvalue"0*
+4MaterialDesignThemes.Wpf.RatingBar.OnApplyTemplate()\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.csŽ “("0*
 0*
 1*
 1"

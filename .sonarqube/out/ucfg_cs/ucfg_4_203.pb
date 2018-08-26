@@ -1,21 +1,9 @@
 
-dVirtualCollection.VirtualCollection.VirtualizingWrapPanel.GetExtentInfo(System.Windows.Size, double)®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs‹ (viewPortSize
-itemHeight"0*
-0*
-1
-2*¿
-1"¹
-®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs ('
-""*Â
-2þ
-®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs’M ’(U%0GVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemWidth.getÿ
-®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs”5 ”(>%1HVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemHeight.get"¹
-®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs– œ(
-""*
-3"
+?MaterialDesignColors.WpfExample.ProvingGroundViewModel.Name.setW
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.cs5 9(value"0*º
+0¯
+W
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.cs8 8(%0PMaterialDesignColors.WpfExample.ProvingGroundViewModel.OnPropertyChanged(string)*
+1*
+1"
 ""

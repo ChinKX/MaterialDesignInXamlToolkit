@@ -1,6 +1,6 @@
 
-,MaterialDesignThemes.Wpf.Snackbar.Snackbar()Y
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs ("0*
+SMaterialDesignThemes.Wpf.SnackbarMessageQueue.SnackbarMessageQueue(System.TimeSpan)g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csù °(messageDuration"0*
 0*
 1*
 1"

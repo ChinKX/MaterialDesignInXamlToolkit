@@ -1,7 +1,9 @@
 
-VMaterialDesignThemes.Wpf.ShadowAssist.SetDarken(System.Windows.DependencyObject, bool)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.cse h(elementvalue"0*
-0*
-1*
+BMaterialDesignThemes.Wpf.PopupBox.ToggleCheckedContentTemplate.get[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs© ©(X"0*j
+0"e
+[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs© ©(V
+""*
 1"
 ""

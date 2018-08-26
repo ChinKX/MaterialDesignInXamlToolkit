@@ -1,9 +1,7 @@
 
-^MaterialDesignThemes.Wpf.TreeViewAssist.GetAdditionalTemplate(System.Windows.DependencyObject)_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.cs- 0(element"0*n
-0"i
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.cs/ /(M
-""*
+oMaterialDesignThemes.Wpf.ClockItemButton.OnDragCompleted(System.Windows.DependencyObject, double, double, bool)b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csÅ ã(dhorizontalChangeverticalChangecanceled"0*
+0*
+1*
 1"
 ""

@@ -1,14 +1,9 @@
 
-yMaterialDesignThemes.Wpf.Transitions.Transitioner.OnPreviewMouseLeftButtonDown(System.Windows.Input.MouseButtonEventArgs)i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csW \(e"0*œ
-0¡
-i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csY Y()%0PMaterialDesignThemes.Wpf.Transitions.Transitioner.AutoApplyTransitionOrigins.get*
-1
-2*
-1*
-2*
-2*
-3*
-3"
+]MaterialDesignThemes.Wpf.DialogHost.GetDialogClosingAttached(System.Windows.DependencyObject)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csç ê(element"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csè è(]
+""*
+1"
 ""

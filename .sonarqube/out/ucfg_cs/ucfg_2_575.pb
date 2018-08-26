@@ -1,21 +1,10 @@
 
-5MaterialDesignThemes.Wpf.SnackbarMessageQueue.Pause()g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs® º("0*
+‡MaterialDesignThemes.Wpf.Snackbar.OnIsActiveChanged(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)Y
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.csQ Y(de"0*
 0*
 1
-2*v
-1"q
-g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs° °(-
-""*
-2*
-3
-4*
-3*
-4*v
-4"q
-g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csµ ¹(
-""*
-5"
+2*
+2*
+1*
+1"
 ""

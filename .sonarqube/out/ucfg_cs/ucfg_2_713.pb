@@ -1,7 +1,9 @@
 
-PMaterialDesignThemes.Wpf.Transitions.TransitioningContent.TransitioningContent()q
-gD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitioningContent.cs ("0*
-0*
-1*
+VMaterialDesignThemes.Wpf.MaterialDataGridComboBoxColumn.DefaultEditingElementStyle.geto
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridComboBoxColumn.cs6 >("0*~
+0"y
+o
+eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDataGridComboBoxColumn.cs= =(
+""*
 1"
 ""

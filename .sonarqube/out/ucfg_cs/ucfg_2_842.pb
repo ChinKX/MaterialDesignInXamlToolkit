@@ -1,6 +1,6 @@
 
-+MaterialDesignThemes.Wpf.SmartHint.Hint.setZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.cs7 7(1value"0*
+;MaterialDesignThemes.Wpf.PopupBox.ToggleContentTemplate.set[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs’ ’(Bvalue"0*
 0*
 1*
 1"

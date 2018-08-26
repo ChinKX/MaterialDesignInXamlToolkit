@@ -1,7 +1,10 @@
 
-ÀMaterialDesignThemes.Wpf.SnackbarMessageQueue.WaitForCompletionAsync(MaterialDesignThemes.Wpf.SnackbarMessageQueue.MouseNotOverManagedWaitHandle, System.Threading.WaitHandle, System.Threading.WaitHandle)g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csè ù(mouseNotOverManagedWaitHandledurationPassedWaitHandleactionClickWaitHandle"0*
-0*
+öMaterialDesignThemes.Wpf.PopupBox.PlacementModePropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csè í(dependencyObject"dependencyPropertyChangedEventArgs"0*
+0*
+1
+2*
+2*
 1*
 1"
 ""

@@ -1,6 +1,6 @@
 
-‰MaterialDesignThemes.Wpf.Snackbar.OnDeactivateStoryboardCompleted(System.Windows.IInputElement, MaterialDesignThemes.Wpf.SnackbarMessage)Y
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.csh m(snackbarmessage"0*
+.MaterialDesignThemes.Wpf.DialogHost.IsOpen.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs² ²(3value"0*
 0*
 1*
 1"

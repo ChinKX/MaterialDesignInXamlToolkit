@@ -1,6 +1,6 @@
 
-¤MaterialDesignThemes.Wpf.Transitions.TransitionEffectExtension.TransitionEffectExtension(MaterialDesignThemes.Wpf.Transitions.TransitionEffectKind, System.TimeSpan)v
-lD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffectExtension.cs (kindduration"0*
+ŒMaterialDesignThemes.Wpf.DrawerHost.TemplateContentCoverElementOnPreviewMouseLeftButtonUp(object, System.Windows.Input.MouseButtonEventArgs)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs« ±(sendermouseButtonEventArgs"0*
 0*
 1*
 1"

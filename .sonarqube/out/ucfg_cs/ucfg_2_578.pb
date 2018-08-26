@@ -1,9 +1,7 @@
 
-JMaterialDesignThemes.Wpf.SnackbarMessage.ActionContentTemplateSelector.get`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.csO O(a"0*o
-0"j
-`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.csO O(_
-""*
+JMaterialDesignThemes.Wpf.DrawerHost.RightDrawerContentTemplateSelector.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csù ù(Ovalue"0*
+0*
+1*
 1"
 ""

@@ -1,10 +1,15 @@
 
-”MaterialDesignThemes.Wpf.HintProxyFabric.PasswordBoxHintProxy.PasswordBoxIsVisibleChanged(object, System.Windows.DependencyPropertyChangedEventArgs)l
-bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.PasswordBox.cs+ .(sendere"0*
+wMaterialDesignThemes.Wpf.HintProxyFabric.PasswordBoxHintProxy.PasswordBoxHintProxy(System.Windows.Controls.PasswordBox)l
+bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.PasswordBox.cs $(passwordBox"0*
 0*
 1
-2*
+2*Á
+1¶
+l
+bD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.PasswordBox.cs/ (\%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*
 2*
-1*
-1"
+3*
+3"
 ""

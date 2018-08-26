@@ -1,17 +1,7 @@
 
-zMaterialDesignThemes.Wpf.TextFieldAssist.TextBoxOnContextMenuClosing(object, System.Windows.Controls.ContextMenuEventArgs)b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.cs÷ ›(sendere"0*
-0*
-1
-2*§
-2ô
-b
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csÿ7 ÿ(A%0/System.Windows.FrameworkElement.ContextMenu.get*
-1*
-1*
-3
-4*
-3*
-4*
-4"
+,MaterialDesignThemes.Wpf.PopupBox.OnClosed()[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs˝ Å("0*
+0*
+1*
+1"
 ""

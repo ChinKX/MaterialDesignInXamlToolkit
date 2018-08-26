@@ -1,12 +1,7 @@
 
-_MaterialDesignThemes.Wpf.TimePicker.TextBoxOnKeyDown(object, System.Windows.Input.KeyEventArgs)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csä ç(senderkeyEventArgs"0*
-0*
-1
-2*
-2*
-1*
-1*
-3*
-3"
+ßMaterialDesignThemes.Wpf.Transitions.TransitionerSlide.StatePropertyChangedCallback(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)n
+dD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionerSlide.cs) ,(de"0*
+0*
+1*
+1"
 ""

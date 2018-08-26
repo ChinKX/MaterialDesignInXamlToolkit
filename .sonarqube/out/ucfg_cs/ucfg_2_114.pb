@@ -1,9 +1,9 @@
 
-+MaterialDesignThemes.Wpf.ColorZone.Mode.getZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs- -(A"0*i
+3MaterialDesignThemes.Wpf.ColorZone.CornerRadius.getZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs6 6(H"0*i
 0"d
 Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs- -(?
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs6 6(F
 ""*
 1"
 ""

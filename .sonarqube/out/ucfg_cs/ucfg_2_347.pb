@@ -1,9 +1,10 @@
 
-RMaterialDesignThemes.Wpf.HintAssist.GetIsFloating(System.Windows.DependencyObject)[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintAssist.cs (element"0*j
-0"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintAssist.cs (>
+‹MaterialDesignThemes.Wpf.Converters.NotZeroToVisibilityConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotZeroToVisibilityConverter.cs (value
+targetType	parameterculture"0*ˆ
+0"‚
+x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\NotZeroToVisibilityConverter.cs ($
 ""*
 1"
 ""

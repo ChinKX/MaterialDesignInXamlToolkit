@@ -1,9 +1,7 @@
 
-nVirtualCollection.VirtualCollection.VirtualizingWrapPanel.GetVirtualItemIndex(System.Windows.DependencyObject)¬
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs" %(obj"0*½
-0"·
-¬
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs$ $(>
-""*
+AMaterialDesignDemo.Domain.DocumentationLinks.DocumentationLinks()c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLinks.xaml.cs ("0*
+0*
+1*
 1"
 ""

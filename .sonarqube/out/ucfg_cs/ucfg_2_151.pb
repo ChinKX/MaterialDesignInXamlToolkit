@@ -1,6 +1,6 @@
 
-1MaterialDesignThemes.Wpf.Clock.IsMidnightHour.setV
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs^ ^(Fvalue"0*
+gMaterialDesignThemes.Wpf.ClockItemButton.OnDragStarted(System.Windows.DependencyObject, double, double)`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csu (dhorizontalOffsetverticalOffset"0*
 0*
 1*
 1"

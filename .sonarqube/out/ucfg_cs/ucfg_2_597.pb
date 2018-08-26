@@ -1,7 +1,9 @@
 
-8MaterialDesignThemes.Wpf.SnackbarMessage.OnActionClick()`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cs_ c("0*
-0*
-1*
+4MaterialDesignThemes.Wpf.Plane3D.GetVisualChild(int)Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs‡ ‹(index"0*i
+0"d
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs‰ ‰(
+""*
 1"
 ""

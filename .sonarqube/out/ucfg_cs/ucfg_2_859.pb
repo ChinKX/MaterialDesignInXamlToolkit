@@ -1,6 +1,6 @@
 
-8MaterialDesignThemes.Wpf.RatingBar.ValueItemTemplate.setZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs^ ^(>value"0*
+sMaterialDesignThemes.Wpf.ShadowAssist.SetCacheMode(System.Windows.DependencyObject, System.Windows.Media.CacheMode)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.csr u(elementvalue"0*
 0*
 1*
 1"

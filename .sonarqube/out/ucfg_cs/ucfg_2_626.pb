@@ -1,9 +1,7 @@
 
-.MaterialDesignThemes.Wpf.DialogHost.IsOpen.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs± ±(9"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs± ±(7
-""*
+=MaterialDesignThemes.Wpf.DialogHost.DialogContentTemplate.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÄ Ä(Bvalue"0*
+0*
+1*
 1"
 ""

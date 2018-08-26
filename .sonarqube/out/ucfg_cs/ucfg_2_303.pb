@@ -1,16 +1,10 @@
 
-hMaterialDesignThemes.Wpf.Converters.ShadowConverter.Clone(System.Windows.Media.Effects.DropShadowEffect)k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs $(dropShadowEffect"0*
-0*
-1
-2*z
-1"u
-k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs* (5
-""*z
-2"u
-k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs #(
+‡MaterialDesignThemes.Wpf.Converters.HintProxyFabricConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)t
+jD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\HintProxyFabricConverter.cs (value
+targetType	parameterculture"0*ƒ
+0"~
+t
+jD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\HintProxyFabricConverter.cs ($
 ""*
-3"
+1"
 ""

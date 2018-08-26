@@ -1,16 +1,14 @@
 
-CMaterialDesignColors.WpfExample.Domain.SelectableViewModel.Food.set_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.csK P(value"0*
+DMaterialDesignDemo.Domain.DialogsViewModel.OnPropertyChanged(string)^
+RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.csé ë(propertyName"0*
 0*
 1
-2*n
-1"i
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.csM$ M(*
-""*∆
-2ª
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.csO O("%0TMaterialDesignColors.WpfExample.Domain.SelectableViewModel.OnPropertyChanged(string)*
-3*
-3"
+2*“
+2«
+^
+RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.csê* ê(S%0OSystem.ComponentModel.PropertyChangedEventArgs.PropertyChangedEventArgs(string)"
+
+propertyName*
+1*
+1"
 ""

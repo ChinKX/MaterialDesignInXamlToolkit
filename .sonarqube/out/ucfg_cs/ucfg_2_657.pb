@@ -1,9 +1,7 @@
 
-6MaterialDesignThemes.Wpf.TimePicker.IsDropDownOpen.get[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csd d(9"0*j
-0"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csd	 d(7
-""*
+SMaterialDesignThemes.Wpf.Screen.OnDisplaySettingsChanging(object, System.EventArgs)Y
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csð ø(sendere"0*
+0*
+1*
 1"
 ""

@@ -1,9 +1,9 @@
 
-KMaterialDesignThemes.Wpf.DrawerHost.BottomDrawerContentTemplateSelector.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs¿ ¿(f"0*l
+9MaterialDesignThemes.Wpf.DrawerHost.IsRightDrawerOpen.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs“ “(D"0*l
 0"g
 ]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs¿ ¿(d
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs“ “(B
 ""*
 1"
 ""

@@ -1,9 +1,7 @@
 
-@MaterialDesignThemes.Wpf.ComboBoxPopup.VisiblePlacementWidth.get`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csú ú(J"0*o
-0"j
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csú ú(H
-""*
+ ControlzEx.PopupEx.RECT.Left.setè
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csê ê(%value"0*
+0*
+1*
 1"
 ""

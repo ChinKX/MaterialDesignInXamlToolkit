@@ -1,7 +1,20 @@
 
-ÅMaterialDesignThemes.Wpf.Transitions.TransitionEffect.TransitionEffect(MaterialDesignThemes.Wpf.Transitions.TransitionEffectKind)m
-cD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitionEffect.cs (kind"0*
-0*
++MaterialDesignThemes.Wpf.Plane3D.Update3D()Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csÃ „("0*Ö
+0í
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csÿ ÿ()%00MaterialDesignThemes.Wpf.Plane3D.FieldOfView.geté
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csŸ: Ÿ(@%1,MaterialDesignThemes.Wpf.Plane3D.ZFactor.getí
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs›7 ›(A%20MaterialDesignThemes.Wpf.Plane3D.FieldOfView.getø
+Z
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs⁄! ›(B%3ºSystem.Windows.Media.Media3D.PerspectiveCamera.PerspectiveCamera(System.Windows.Media.Media3D.Point3D, System.Windows.Media.Media3D.Vector3D, System.Windows.Media.Media3D.Vector3D, double)"
+"""
+"""
+"""
+
+%2*
 1*
 1"
 ""

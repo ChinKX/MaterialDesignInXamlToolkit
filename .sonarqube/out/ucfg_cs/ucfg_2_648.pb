@@ -1,7 +1,9 @@
 
-SMaterialDesignThemes.Wpf.Screen.OnDisplaySettingsChanging(object, System.EventArgs)Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csð ø(sendere"0*
-0*
-1*
+4MaterialDesignThemes.Wpf.DialogHost.DialogMargin.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÞ Þ(D"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÞ Þ(B
+""*
 1"
 ""

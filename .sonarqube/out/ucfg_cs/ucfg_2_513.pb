@@ -1,9 +1,7 @@
 
-2MaterialDesignThemes.Wpf.DialogHost.Identifier.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csË Ë(7"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csË Ë(5
-""*
+êMaterialDesignThemes.Wpf.SnackbarMessageEventArgs.SnackbarMessageEventArgs(System.Windows.RoutedEvent, MaterialDesignThemes.Wpf.SnackbarMessage)i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageEventArgs.cs (routedEventmessage"0*
+0*
+1*
 1"
 ""

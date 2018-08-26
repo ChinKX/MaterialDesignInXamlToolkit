@@ -1,7 +1,9 @@
 
-yMaterialDesignThemes.Wpf.ListViewAssist.SetListViewItemPadding(System.Windows.DependencyObject, System.Windows.Thickness)_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListViewAssist.cs (elementvalue"0*
-0*
-1*
+HMaterialDesignThemes.Wpf.DrawerHost.TopDrawerContentTemplateSelector.get[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csj j(c"0*j
+0"e
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csj j(a
+""*
 1"
 ""

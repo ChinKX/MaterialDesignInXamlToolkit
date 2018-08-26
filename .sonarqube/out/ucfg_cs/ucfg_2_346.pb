@@ -1,9 +1,7 @@
 
-ŒMaterialDesignThemes.Wpf.DialogHostEx.ShowDialog(System.Windows.DependencyObject, object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHostEx.csm p(childDependencyObjectcontentopenedEventHandler"0*l
-0"g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHostEx.cso o(s
-""*
+ZMaterialDesignThemes.Wpf.DataGridAssist.ComboBoxOnDropDownClosed(object, System.EventArgs)a
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.csÌ Ñ(sender	eventArgs"0*
+0*
+1*
 1"
 ""

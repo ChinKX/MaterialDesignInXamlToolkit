@@ -1,10 +1,7 @@
 
-MaterialDesignThemes.Wpf.ComboBoxPopup.SetupBackground(System.Collections.Generic.IEnumerable<System.Windows.DependencyObject>)`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csÐ Ú(visualAncestry"0*
-0*
-1
-2*
-1*
-2*
-2"
+‡MaterialDesignThemes.Wpf.Converters.RangePositionConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo){
+qD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\RangePositionConverterConverter.cs  (valuetargetTypes	parameterculture"0*
+0*
+1*
+1"
 ""

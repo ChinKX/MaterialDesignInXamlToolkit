@@ -1,7 +1,9 @@
 
-.MaterialDesignThemes.Wpf.Plane3D.RotationZ.setX
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs< <(6value"0*
-0*
-1*
+.MaterialDesignThemes.Wpf.Snackbar.IsActive.getY
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs@ @(<"0*h
+0"c
+Y
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs@ @(:
+""*
 1"
 ""

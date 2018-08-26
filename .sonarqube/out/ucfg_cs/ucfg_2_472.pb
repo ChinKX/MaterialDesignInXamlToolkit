@@ -1,10 +1,9 @@
 
-ŽMaterialDesignThemes.Wpf.HintProxyFabric.ComboBoxHintProxy.ComboBoxIsVisibleChanged(object, System.Windows.DependencyPropertyChangedEventArgs)i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.ComboBox.csD G(sendere"0*
-0*
-1
-2*
-2*
-1*
+RMaterialDesignThemes.Wpf.RippleAssist.GetFeedback(System.Windows.DependencyObject)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.csq t(element"0*l
+0"g
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.css s(<
+""*
 1"
 ""

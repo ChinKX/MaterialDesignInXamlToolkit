@@ -1,7 +1,9 @@
 
-5MaterialDesignThemes.Wpf.SmartHint.FloatingOffset.setZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.cs~ ~(;value"0*
-0*
-1*
+\MaterialDesignThemes.Wpf.TextFieldAssist.GetHasTextFieldBox(System.Windows.DependencyObject)`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csQ T(element"0*o
+0"j
+`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TextFieldAssist.csS S(B
+""*
 1"
 ""

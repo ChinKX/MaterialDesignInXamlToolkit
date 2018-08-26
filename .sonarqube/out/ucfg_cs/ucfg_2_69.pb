@@ -1,9 +1,7 @@
 
-0MaterialDesignThemes.Wpf.Chip.IconBackground.getU
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs) )(C"0*d
-0"_
-U
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs) )(A
-""*
+4MaterialDesignThemes.Wpf.ClockItemButton.CentreX.set`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.cs (+value"0*
+0*
+1*
 1"
 ""

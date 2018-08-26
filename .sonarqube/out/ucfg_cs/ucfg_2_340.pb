@@ -1,9 +1,9 @@
 
-_MaterialDesignThemes.Wpf.DataGridAssist.GetColumnHeaderPadding(System.Windows.DependencyObject)_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.csz }(element"0*n
-0"i
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.cs| |(L
+=MaterialDesignThemes.Wpf.DpiHelper.TransformToDeviceX(double)Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DpiHelper.cs- 0(x"0*i
+0"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DpiHelper.cs/ /(*
 ""*
 1"
 ""

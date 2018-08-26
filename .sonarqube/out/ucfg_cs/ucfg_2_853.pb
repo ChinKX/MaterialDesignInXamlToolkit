@@ -1,9 +1,7 @@
 
-8MaterialDesignThemes.Wpf.RatingBar.ValueItemTemplate.getZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs] ](M"0*i
-0"d
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs] ](K
-""*
+:MaterialDesignThemes.Wpf.PopupBox.ToggleCheckedContent.set[
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csž ž(Avalue"0*
+0*
+1*
 1"
 ""

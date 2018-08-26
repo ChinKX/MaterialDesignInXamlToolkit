@@ -1,7 +1,9 @@
 
-.MaterialDesignThemes.Wpf.Clock.DisplayMode.setX
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.csñ ñ(/value"0*
-0*
-1*
+ControlzEx.PopupEx.LOWORD(int)è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csÁ Î(i"0*†
+0"ö
+è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.csÍ Í(&
+""*
 1"
 ""

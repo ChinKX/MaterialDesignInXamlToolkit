@@ -1,9 +1,41 @@
 
-rMaterialDesignThemes.Wpf.ComboBoxPopup.GetUpPopupPlacement(MaterialDesignThemes.Wpf.ComboBoxPopup.PositioningData)`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csë î(data"0*o
-0"j
-`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csí í(h
+ŸMaterialDesignThemes.Wpf.DialogHost.Show(object, object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler, MaterialDesignThemes.Wpf.DialogClosingEventHandler)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs« º(contentdialogIdentifieropenedEventHandlerclosingEventHandler"0*
+0*
+1
+2*²
+1§
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs­' ­(P%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*
+2*
+4
+5*º
+4¯
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs° °(U%0BSystem.InvalidOperationException.InvalidOperationException(string)"
+""*
+3*
+5*
+6
+7*»
+6°
+^
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csµ µ(Š%0BSystem.InvalidOperationException.InvalidOperationException(string)"
+""*
+3*
+7*
+8
+9*»
+8°
+^
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs· ·(´%0BSystem.InvalidOperationException.InvalidOperationException(string)"
+""*
+3*l
+9"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs¹ ¹(b
 ""*
-1"
+3"
 ""

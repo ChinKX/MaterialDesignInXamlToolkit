@@ -1,9 +1,10 @@
 
-RMaterialDesignThemes.Wpf.RippleAssist.GetFeedback(System.Windows.DependencyObject)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.csq t(element"0*l
-0"g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RippleAssist.css s(<
-""*
+MaterialDesignThemes.Wpf.ScrollViewerAssist.OnSyncHorizontalOffsetChanged(System.Windows.DependencyObject, System.Windows.DependencyPropertyChangedEventArgs)c
+YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ScrollViewerAssist.cs (de"0*
+0*
+1
+2*
+2*
+1*
 1"
 ""

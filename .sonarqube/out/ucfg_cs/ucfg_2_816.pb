@@ -1,7 +1,9 @@
 
-}MaterialDesignThemes.Wpf.ShadowAssist.SetLocalInfo(System.Windows.DependencyObject, MaterialDesignThemes.Wpf.ShadowLocalInfo)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.cs: =(elementvalue"0*
-0*
-1*
+*MaterialDesignThemes.Wpf.RatingBar.Min.getZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs1 1(6"0*i
+0"d
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs1 1(4
+""*
 1"
 ""

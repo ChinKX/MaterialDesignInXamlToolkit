@@ -1,9 +1,17 @@
 
-aMaterialDesignThemes.Wpf.ToggleButtonAssist.GetOnContentTemplate(System.Windows.DependencyObject)c
-YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.csM P(element"0*r
-0"m
-c
-YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.csO O(M
+UMaterialDesignThemes.Wpf.SnackbarMessageQueue.Pair(MaterialDesignThemes.Wpf.Snackbar)g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs¥ ¬(snackbar"0*
+0*
+1
+2*¼
+1±
+g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs§( §(R%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*v
+2"q
+g
+[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.cs« «(:
 ""*
-1"
+3"
 ""

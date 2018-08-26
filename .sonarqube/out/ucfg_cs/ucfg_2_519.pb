@@ -1,7 +1,9 @@
 
-LMaterialDesignThemes.Wpf.Screen.NativeMethods.RECT.RECT(System.Windows.Rect)W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.cs> D(r"0*
-0*
-1*
+EMaterialDesignThemes.Wpf.DrawerHost.LeftDrawerContentStringFormat.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csº º(S"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csº º(Q
+""*
 1"
 ""

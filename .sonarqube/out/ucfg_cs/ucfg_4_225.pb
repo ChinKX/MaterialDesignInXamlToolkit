@@ -1,11 +1,21 @@
 
-EVirtualCollection.VirtualCollection.VirtualizingWrapPanel.PageRight()®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csÂ Å("0*‘
-0…
+DVirtualCollection.VirtualCollection.VirtualizingWrapPanel.PageDown()®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs¸ »("0*û
+0ƒ
 ®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csÄ  Ä(/%0NVirtualCollection.VirtualCollection.VirtualizingWrapPanel.HorizontalOffset.getþ
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csº º(+%0LVirtualCollection.VirtualCollection.VirtualizingWrapPanel.VerticalOffset.getƒ
 ®
-¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csÄ3 Ä(;%1GVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemWidth.get*
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csº/ º(<%1LVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ViewportHeight.getÏ
+®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csº º(<%2__concat"
+
+%1"
+
+%0’
+®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csº º(=%3SVirtualCollection.VirtualCollection.VirtualizingWrapPanel.SetVerticalOffset(double)"
+
+%2*
 1*
 1"
 ""

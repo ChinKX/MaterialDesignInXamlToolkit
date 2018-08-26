@@ -1,16 +1,9 @@
 
-SMaterialDesignThemes.Wpf.TreeHelper.FindMainTreeVisual(System.Windows.Media.Visual)[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeHelper.csZ f(visual"0*
-0*
-1*
-1*
-2
-3*
-2*
-1*j
-3"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeHelper.cse e(!
+bMaterialDesignThemes.Wpf.Converters.ShadowInfo.GetDropShadow(MaterialDesignThemes.Wpf.ShadowDepth)f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowInfo.cs (depth"0*u
+0"p
+f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowInfo.cs (+
 ""*
-4"
+1"
 ""

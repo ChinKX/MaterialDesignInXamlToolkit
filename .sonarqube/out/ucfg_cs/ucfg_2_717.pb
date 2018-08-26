@@ -1,7 +1,9 @@
 
-PMaterialDesignThemes.Wpf.Transitions.TransitioningContent.TransitioningContent()q
-gD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\TransitioningContent.cs ("0*
-0*
-1*
+<MaterialDesignThemes.Wpf.MaterialDateDisplay.DisplayDate.getd
+ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDateDisplay.cs) )(C"0*s
+0"n
+d
+ZD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\MaterialDateDisplay.cs) )(A
+""*
 1"
 ""

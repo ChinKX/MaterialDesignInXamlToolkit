@@ -1,14 +1,9 @@
 
-MMaterialDesignColors.WpfExample.ButtonsViewModel.DemoRestartCountdownText.setW
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs€ €(lvalue"0*ò
-0ç
-W
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs€ €(i%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
-"""
-"""	
-
-value"
-""*
-1*
+MMaterialDesignColors.WpfExample.ButtonsViewModel.DemoRestartCountdownText.getU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs (4"0*d
+0"_
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs (2
+""*
 1"
 ""

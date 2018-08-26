@@ -1,6 +1,6 @@
 
-YMaterialDesignThemes.Wpf.ListBoxAssist.SetIsToggle(System.Windows.DependencyObject, bool)^
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ListBoxAssist.cs9 <(elementvalue"0*
+˜MaterialDesignThemes.Wpf.SnackbarMessageEventArgs.SnackbarMessageEventArgs(System.Windows.RoutedEvent, object, MaterialDesignThemes.Wpf.SnackbarMessage)i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageEventArgs.cs (routedEventsourcemessage"0*
 0*
 1*
 1"

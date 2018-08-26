@@ -1,9 +1,7 @@
 
-4MaterialDesignThemes.Wpf.Clock.ButtonRadiusRatio.getX
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs¹ ¹(>"0*g
-0"b
-X
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs¹	 ¹(<
-""*
+–MaterialDesignThemes.Wpf.Converters.CircularProgressBar.LargeArcConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo)
+wD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CircularProgressBar\LargeArcConverter.cs  #(valuetargetTypes	parameterculture"0*
+0*
+1*
 1"
 ""

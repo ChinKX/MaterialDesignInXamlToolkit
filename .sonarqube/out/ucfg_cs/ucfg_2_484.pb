@@ -1,6 +1,6 @@
 
-ŒMaterialDesignThemes.Wpf.HintProxyFabric.TextBoxHintProxy.TextBoxIsVisibleChanged(object, System.Windows.DependencyPropertyChangedEventArgs)h
-^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.TextBox.cs, /(sendere"0*
+ŽMaterialDesignThemes.Wpf.HintProxyFabric.ComboBoxHintProxy.ComboBoxIsVisibleChanged(object, System.Windows.DependencyPropertyChangedEventArgs)i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintProxyFabric.ComboBox.csD G(sendere"0*
 0*
 1
 2*

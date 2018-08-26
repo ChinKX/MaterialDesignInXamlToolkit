@@ -1,12 +1,7 @@
 
-OMaterialDesignThemes.Wpf.DialogHost.WindowOnActivated(object, System.EventArgs)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs« –(sender	eventArgs"0*
-0*
-1
-2*®
-1ù
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÀ À(%08System.Windows.Threading.DispatcherObject.Dispatcher.get*
-2*
-2"
+2MaterialDesignThemes.Wpf.RatingBar.Orientation.setZ
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.csp p(8value"0*
+0*
+1*
+1"
 ""

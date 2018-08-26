@@ -1,10 +1,7 @@
 
-WMaterialDesignDemo.IconPack.Search_OnKeyDown(object, System.Windows.Input.KeyEventArgs)R
-HD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPack.xaml.cs" '(sendere"0*
-0*
-1
-2*
-1*
-2*
-2"
+3MaterialDesignColors.WpfExample.Expander.Expander()R
+HD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Expander.xaml.cs ("0*
+0*
+1*
+1"
 ""

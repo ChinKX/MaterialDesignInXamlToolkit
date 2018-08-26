@@ -1,13 +1,7 @@
 
-OMaterialDesignColors.WpfExample.Domain.TextFieldsViewModel.SelectedValueOne.set_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TextFieldsViewModel.cs' *(value"0*÷
-0ì
-_
-UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TextFieldsViewModel.cs) )(W%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
-"""
-"""
-"""
-""*
+CMaterialDesignColors.WpfExample.MenusAndToolBars.MenusAndToolBars()Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MenusAndToolBars.xaml.cs ("0*
+0*
 1*
 1"
 ""

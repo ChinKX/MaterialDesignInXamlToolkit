@@ -1,9 +1,9 @@
 
-AMaterialDesignColors.WpfExample.ButtonsViewModel.SaveProgress.getW
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs¬ ¬(("0*f
-0"a
-W
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs¬ ¬(&
+FMaterialDesignColors.WpfExample.Domain.DemoItem.RaisePropertyChanged()T
+JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs> A("0*c
+0"^
+T
+JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs@ @(>
 ""*
 1"
 ""

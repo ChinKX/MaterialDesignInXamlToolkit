@@ -1,12 +1,11 @@
 
-8MaterialDesignThemes.Wpf.Plane3D.VisualChildrenCount.getZ
-ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.csç ç(R"0*
-0*
-1
-2*
-1*
-3*
-2*
-3*
-3"
+FMaterialDesignThemes.Wpf.ComboBoxPopup.PositioningData.RealOffsetX.get`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csˆ ˆ(S"0*Á
+0¨
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csˆ* ˆ(2%0DMaterialDesignThemes.Wpf.ComboBoxPopup.PositioningData.PopupSize.get≠
+`
+TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csˆ< ˆ(E%1EMaterialDesignThemes.Wpf.ComboBoxPopup.PositioningData.TargetSize.get*
+1*
+1"
 ""

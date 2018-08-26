@@ -1,6 +1,6 @@
 
-jMaterialDesignThemes.Wpf.ButtonProgressAssist.SetIsIndicatorVisible(System.Windows.DependencyObject, bool)e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs_ b(elementisIndicatorVisible"0*
+.MaterialDesignThemes.Wpf.ColorZone.ColorZone()Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ColorZone.cs# &("0*
 0*
 1*
 1"

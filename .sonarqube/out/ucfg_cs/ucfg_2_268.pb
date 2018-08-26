@@ -1,7 +1,9 @@
 
-ÖMaterialDesignThemes.Wpf.Converters.RangeLengthConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo)p
-fD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\RangeLengthConverter.cs (valuetargetTypes	parameterculture"0*
-0*
-1*
+!ControlzEx.PopupEx.RECT.Width.getè
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs´ ´(-"0*†
+0"ö
+è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs´ ´(+
+""*
 1"
 ""

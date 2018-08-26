@@ -1,21 +1,10 @@
 
-QMaterialDesignColors.WpfExample.Domain.DocumentationLink.WikiLink(string, string)]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs (pagelabel"0*â
-0
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs (K%0__concat"
-
-page"
-""ô
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs (S%1òMaterialDesignColors.WpfExample.Domain.DocumentationLink.DocumentationLink(MaterialDesignColors.WpfExample.Domain.DocumentationLinkType, string, string)"
-"""
-
-%0"	
-
-label"g
-]
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs (T
-""*
+nMaterialDesignColors.WpfExample.MenusAndToolBars.TwitterButton_OnClick(object, System.Windows.RoutedEventArgs)Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MenusAndToolBars.xaml.cs  (sendere"0*ù
+0í
+Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MenusAndToolBars.xaml.cs (=%0(System.Diagnostics.Process.Start(string)"
+""*
+1*
 1"
 ""

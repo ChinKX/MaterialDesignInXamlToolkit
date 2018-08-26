@@ -1,12 +1,7 @@
 
-DMaterialDesignThemes.Wpf.DrawerHost.TopDrawerContentStringFormat.set[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cst t(Ivalue"0*Ô
-0É
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cst t(F%0SSystem.Windows.DependencyObject.SetValue(System.Windows.DependencyProperty, object)"
-"""	
-
-value*
+8MaterialDesignThemes.Wpf.DrawerHost.TopDrawerContent.set[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csY Y(=value"0*
+0*
 1*
 1"
 ""

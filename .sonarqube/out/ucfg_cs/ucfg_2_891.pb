@@ -1,9 +1,7 @@
 
-2MaterialDesignThemes.Wpf.SmartHint.HintOpacity.get\
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csä ä(A"0*k
-0"f
-\
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csä ä(?
-""*
+.MaterialDesignThemes.Wpf.SmartHint.SmartHint()\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csê ì("0*
+0*
+1*
 1"
 ""

@@ -1,9 +1,9 @@
 
-cMaterialDesignThemes.Wpf.DialogHost.Show(object, MaterialDesignThemes.Wpf.DialogOpenedEventHandler)[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csd g(contentopenedEventHandler"0*j
+[MaterialDesignThemes.Wpf.HintAssist.GetHintOpacityProperty(System.Windows.DependencyObject)[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintAssist.css v(element"0*j
 0"e
 [
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csf f(F
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\HintAssist.csu u(@
 ""*
 1"
 ""

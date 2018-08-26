@@ -1,9 +1,7 @@
 
-;MaterialDesignThemes.Wpf.DrawerHost.TopDrawerBackground.get[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs| |(G"0*j
-0"e
-[
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.cs| |(E
-""*
+@MaterialDesignThemes.Wpf.DrawerHost.TopDrawerContentTemplate.set[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csb b(Evalue"0*
+0*
+1*
 1"
 ""

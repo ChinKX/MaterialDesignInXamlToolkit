@@ -1,9 +1,7 @@
 
-\MaterialDesignThemes.Wpf.DialogHost.GetDialogOpenedAttached(System.Windows.DependencyObject)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÿ €(element"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs⁄ ⁄([
-""*
+èMaterialDesignThemes.Wpf.DialogHost.SetDialogOpenedAttached(System.Windows.DependencyObject, MaterialDesignThemes.Wpf.DialogOpenedEventHandler)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs” ÷(elementvalue"0*
+0*
+1*
 1"
 ""

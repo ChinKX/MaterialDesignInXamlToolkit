@@ -1,48 +1,26 @@
 
-äMaterialDesignThemes.Wpf.Converters.CalendarDateCoalesceConverter.Convert(object[], System.Type, object, System.Globalization.CultureInfo)y
-oD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CalendarDateCoalesceConverter.cs (values
-targetType	parameterculture"0*
+pMaterialDesignThemes.Wpf.ClockItemButton.OnPreviewMouseLeftButtonDown(System.Windows.Input.MouseButtonEventArgs)b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csç ñ(e"0*
 0*
 1
-2*÷
-1À
-y
-oD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CalendarDateCoalesceConverter.cs* (V%0:System.ArgumentException.ArgumentException(string, string)"
-"""
-""*
+2*q
+1"l
+b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csè è(
+""*µ
+2ß
+b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csí í(%0=System.Windows.Controls.Primitives.ToggleButton.IsChecked.get*
+3
+4*≤
+4ß
+b
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ClockItemButton.csí í('%0=System.Windows.Controls.Primitives.ToggleButton.IsChecked.get*
 3*
-2*
-4
-5*÷
-4À
-y
-oD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CalendarDateCoalesceConverter.cs0 (\%0:System.ArgumentException.ArgumentException(string, string)"
-"""
-""*
-3*
-5*
-6
-7*
-6*
-7*
-7*
-8
-9*÷
-8À
-y
-oD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CalendarDateCoalesceConverter.csF (r%0:System.ArgumentException.ArgumentException(string, string)"
-"""
-""*
-3*
-9*
-10
-11*
-
-10*
-11*ä
-11"É
-y
-oD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\CalendarDateCoalesceConverter.cs (,
-""*
-3"
+3*
+5
+6*
+5*
+6*
+6"
 ""

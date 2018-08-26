@@ -1,9 +1,9 @@
 
-*MaterialDesignThemes.Wpf.RatingBar.Min.getZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs1 1(6"0*i
-0"d
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\RatingBar.cs1 1(4
+UMaterialDesignThemes.Wpf.ShadowAssist.GetShadowDepth(System.Windows.DependencyObject)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.cs2 5(element"0*l
+0"g
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.cs4 4(F
 ""*
 1"
 ""

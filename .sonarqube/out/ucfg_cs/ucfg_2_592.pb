@@ -1,9 +1,17 @@
 
-∞MaterialDesignThemes.Wpf.SnackbarMessageQueue.DurationMonitor.Start(System.TimeSpan, System.Threading.WaitHandle, System.Threading.EventWaitHandle, System.Threading.WaitHandle)g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csç î(minimumDurationpausedWaitHandle"signalWhenDurationPassedWaitHandleceaseWaitHandle"0*v
-0"q
-g
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csí ì($
-""*
-1"
+:MaterialDesignThemes.Wpf.SnackbarMessage.OnApplyTemplate()`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cse t("0*∂
+0®
+`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.csi i(B%08System.Windows.FrameworkElement.GetTemplateChild(string)"
+""*
+1
+2*
+1*
+3*
+2*
+3*
+3*
+4*
+4"
 ""

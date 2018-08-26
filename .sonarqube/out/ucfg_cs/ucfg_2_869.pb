@@ -1,7 +1,9 @@
 
-AMaterialDesignThemes.Wpf.PopupBox.ToggleCheckedContentCommand.set[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.cs¶ ¶(Hvalue"0*
-0*
-1*
+2MaterialDesignThemes.Wpf.SmartHint.HintOpacity.get\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csŠ Š(A"0*k
+0"f
+\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SmartHint.csŠ Š(?
+""*
 1"
 ""

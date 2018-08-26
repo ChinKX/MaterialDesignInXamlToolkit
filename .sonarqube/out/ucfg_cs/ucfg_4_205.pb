@@ -1,14 +1,9 @@
 
-JMaterialDesignDemo.Domain.ListsAndGridsViewModel.OnPropertyChanged(string)b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.csP S(propertyName"0*
-0*
-1
-2*Ö
-2Ë
-b
-XD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\ListsAndGridsViewModel.csR* R(S%0OSystem.ComponentModel.PropertyChangedEventArgs.PropertyChangedEventArgs(string)"
-
-propertyName*
+IMaterialDesignColors.WpfExample.PickersViewModel.FutureValidatingDate.setU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.cs9 =(value"0*²
+0§
+U
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\PickersViewModel.cs< <("%0JMaterialDesignColors.WpfExample.PickersViewModel.OnPropertyChanged(string)*
 1*
 1"
 ""

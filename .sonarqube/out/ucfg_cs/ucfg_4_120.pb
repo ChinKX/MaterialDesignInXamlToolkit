@@ -1,7 +1,9 @@
 
-BMaterialDesignColors.WpfExample.Domain.Movie.Movie(string, string)Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.cs$ ((namedirector"0*
-0*
-1*
+IMaterialDesignColors.WpfExample.Domain.SelectableViewModel.IsSelected.get_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs (&"0*n
+0"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\SelectableViewModel.cs ($
+""*
 1"
 ""

@@ -1,10 +1,9 @@
 
-_MaterialDesignColors.WpfExample.Home.ChatButton_OnClick(object, System.Windows.RoutedEventArgs)N
-DD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Home.xaml.cs( +(sendere"0*‘
-0†
-N
-DD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Home.xaml.cs* *(U%0(System.Diagnostics.Process.Start(string)"
-""*
+FVirtualCollection.VirtualCollection.VirtualizingWrapPanel.Initialize()¬
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs@ F("0*„
+0ù
+¬
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.csC@ C(U%0DSystem.Windows.Controls.VirtualizingPanel.ItemContainerGenerator.get*
 1*
 1"
 ""

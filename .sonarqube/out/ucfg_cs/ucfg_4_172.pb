@@ -1,9 +1,10 @@
 
-.MaterialDesignDemo.IconPackViewModel.Kinds.setV
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.cs+ /(value"0*§
-0œ
-V
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.cs. .("%0>MaterialDesignDemo.IconPackViewModel.OnPropertyChanged(string)*
+_MaterialDesignColors.WpfExample.Home.ChatButton_OnClick(object, System.Windows.RoutedEventArgs)N
+DD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Home.xaml.cs( +(sendere"0*‘
+0†
+N
+DD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Home.xaml.cs* *(U%0(System.Diagnostics.Process.Start(string)"
+""*
 1*
 1"
 ""

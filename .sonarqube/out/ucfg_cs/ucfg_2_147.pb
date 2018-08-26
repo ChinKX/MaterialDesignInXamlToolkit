@@ -1,22 +1,7 @@
 
-„MaterialDesignThemes.Wpf.Converters.TimeToVisibilityConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\TimeToVisibilityConverter.cs (value
-targetType	parameterculture"0*
-0*
-1
-2*
-2*
-1*
-1*
-3
-4*
-3*
-5*
-4*
-5*„
-5"
-u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\TimeToVisibilityConverter.cs (C
-""*
-6"
+”MaterialDesignThemes.Wpf.TreeViewAssist.SetAdditionalTemplateSelector(System.Windows.DependencyObject, System.Windows.Controls.DataTemplateSelector)_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.csD G(elementvalue"0*
+0*
+1*
+1"
 ""

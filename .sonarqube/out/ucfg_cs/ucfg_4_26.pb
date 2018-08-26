@@ -1,10 +1,9 @@
 
-aMaterialDesignColors.WpfExample.Buttons.PopupBox_OnOpened(object, System.Windows.RoutedEventArgs)Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs+ .(sendere"0*å
-0Å
-Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs- -(F%0 System.Console.WriteLine(string)"
-""*
-1*
+HVirtualCollection.VirtualCollection.VirtualizingWrapPanel.ItemHeight.get¨
+°D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs. .(?"0*Ω
+0"∑
+¨
+°D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs. .(=
+""*
 1"
 ""

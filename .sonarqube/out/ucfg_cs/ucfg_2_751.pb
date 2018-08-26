@@ -1,21 +1,31 @@
 
-wMaterialDesignThemes.Wpf.Transitions.Transitioner.OnSelectionChanged(System.Windows.Controls.SelectionChangedEventArgs)i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.cs^ n(e"0*
+ôMaterialDesignThemes.Wpf.Transitions.SlideOutWipe.Wipe(MaterialDesignThemes.Wpf.Transitions.TransitionerSlide, MaterialDesignThemes.Wpf.Transitions.TransitionerSlide, System.Windows.Point, MaterialDesignThemes.Wpf.Transitions.IZIndexController)i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\SlideOutWipe.cs 8(	fromSlidetoSlideoriginzIndexController"0*
 0*
 1
-2*ª
-1Ÿ
+2*¾
+1³
 i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csc" c(&%0.System.Windows.Controls.ItemsControl.Items.get*
-2*
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\SlideOutWipe.cs) (T%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*
 2*
-3
-4*ª
-3Ÿ
+4
+5*¾
+4³
 i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csh  h($%0.System.Windows.Controls.ItemsControl.Items.get*
-4*
-4*
-5*
-5"
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\SlideOutWipe.cs' (P%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*
+5*
+6
+7*¾
+6³
+i
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\SlideOutWipe.cs0 (b%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*
+7*
+3*
+3"
 ""

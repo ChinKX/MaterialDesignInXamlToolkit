@@ -1,10 +1,15 @@
 
-`MaterialDesignColors.WpfExample.Home.EmailButton_OnClick(object, System.Windows.RoutedEventArgs)N
-DD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Home.xaml.cs- 0(sendere"0*ë
-0Ü
-N
-DD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Home.xaml.cs/ /(7%0(System.Diagnostics.Process.Start(string)"
-""*
-1*
+JMaterialDesignColors.WpfExample.Domain.DocumentationLink.StyleLink(string)]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs #(	nameChunk"0*å
+0ù
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs "(%0òMaterialDesignColors.WpfExample.Domain.DocumentationLink.DocumentationLink(MaterialDesignColors.WpfExample.Domain.DocumentationLinkType, string, string)"
+"""
+"""
+
+	nameChunk"g
+]
+SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DocumentationLink.cs "(
+""*
 1"
 ""

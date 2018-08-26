@@ -1,7 +1,9 @@
 
-˜MaterialDesignThemes.Wpf.SnackbarMessageEventArgs.SnackbarMessageEventArgs(System.Windows.RoutedEvent, object, MaterialDesignThemes.Wpf.SnackbarMessage)i
-_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageEventArgs.cs (routedEventsourcemessage"0*
-0*
-1*
+.MaterialDesignThemes.Wpf.Plane3D.RotationX.getX
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs) )(>"0*g
+0"b
+X
+ND:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Plane3D.cs) )(<
+""*
 1"
 ""

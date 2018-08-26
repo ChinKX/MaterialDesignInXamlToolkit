@@ -1,7 +1,12 @@
 
-1MaterialDesignThemes.Wpf.PopupBox.IsPopupOpen.set[
-OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\PopupBox.csý ý(8value"0*
-0*
-1*
+vMaterialDesignThemes.Wpf.TimePicker.GetBinding(System.Windows.DependencyProperty, System.Windows.Data.IValueConverter)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csÆ Î(property	converter"0*‡
+0˜
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csÈ Ì(%0+System.Windows.Data.Binding.Binding(string)"
+"""g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.csÍ Í(
+""*
 1"
 ""

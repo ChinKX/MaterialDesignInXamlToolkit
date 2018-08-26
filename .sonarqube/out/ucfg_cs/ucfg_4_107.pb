@@ -1,13 +1,7 @@
 
-=MaterialDesignColors.WpfExample.ButtonsViewModel.IsSaving.setW
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csŸ Ÿ(\value"0*ï
-0ä
-W
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csŸ Ÿ(Y%0äMaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
-"""
-"""
-"""
-""*
+>MaterialDesignDemo.TransitionsDemo.Slide3_Intro.Slide3_Intro()f
+\D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\TransitionsDemo\Slide3_Intro.xaml.cs ("0*
+0*
 1*
 1"
 ""

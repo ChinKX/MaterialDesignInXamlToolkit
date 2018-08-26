@@ -1,7 +1,9 @@
 
-ŽMaterialDesignThemes.Wpf.SnackbarMessageQueue.MouseNotOverManagedWaitHandle.UiElementOnMouseEnter(object, System.Windows.Input.MouseEventArgs)e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessageQueue.csZ ](sendermouseEventArgs"0*
-0*
-1*
+,MaterialDesignThemes.Wpf.TimePicker.Text.get[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs? ?(1"0*j
+0"e
+[
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TimePicker.cs?	 ?(/
+""*
 1"
 ""

@@ -1,13 +1,14 @@
 
-CMaterialDesignColors.WpfExample.ButtonsViewModel.IsSaveComplete.setW
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs¶ ¶(bvalue"0*Ô
-0‰
-W
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs¶ ¶(_%0‰MaterialDesignColors.WpfExample.Domain.NotifyPropertyChangedExtension.MutateVerbose<TField>(System.ComponentModel.INotifyPropertyChanged, ref TField, TField, System.Action<System.ComponentModel.PropertyChangedEventArgs>, string)"
+IMaterialDesignColors.WpfExample.Domain.TreesViewModel.GenerateString(int)\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.csä ë(length"0*£
+0µ
+\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.csé ê(>%0Astring.Join<T>(string, System.Collections.Generic.IEnumerable<T>)"
 """
-"""
-"""
-""*
-1*
+"""f
+\
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.csé ê(?
+
+%0*
 1"
 ""

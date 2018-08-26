@@ -1,10 +1,13 @@
 
-}MaterialDesignDemo.Domain.DialogsViewModel.ExtendedOpenedEventHandler(object, MaterialDesignThemes.Wpf.DialogOpenedEventArgs)\
-RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.cs> A(sender	eventargs"0*—
-0Œ
-\
-RD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DialogsViewModel.cs@ @(k%0 System.Console.WriteLine(string)"
-""*
-1*
+[MaterialDesignDemo.ProvingGroundStuff.MeasuringTextBox.MeasureOverride(System.Windows.Size)h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGroundStuff\MeasuringTextBox.cs %(
+constraint"0*œ
+0¢
+h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGroundStuff\MeasuringTextBox.cs# #(v%0*System.Diagnostics.Debug.WriteLine(string)"
+"""r
+h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGroundStuff\MeasuringTextBox.cs$ $(
+""*
 1"
 ""

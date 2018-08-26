@@ -1,6 +1,6 @@
 
-1MaterialDesignColors.WpfExample.Buttons.Buttons()Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Buttons.xaml.cs ("0*
+1MaterialDesignColors.WpfExample.Palette.Palette()Q
+GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Palette.xaml.cs ("0*
 0*
 1*
 1"

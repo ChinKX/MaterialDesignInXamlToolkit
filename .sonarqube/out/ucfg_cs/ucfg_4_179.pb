@@ -1,9 +1,7 @@
 
-;MaterialDesignColors.WpfExample.Domain.DemoItem.Content.getT
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs$ $(#"0*c
-0"^
-T
-JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\DemoItem.cs$ $(!
-""*
+7MaterialDesignColors.WpfExample.TextFields.TextFields()T
+JD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\TextFields.xaml.cs ("0*
+0*
+1*
 1"
 ""

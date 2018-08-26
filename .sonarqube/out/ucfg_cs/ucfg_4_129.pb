@@ -1,9 +1,7 @@
 
-GMaterialDesignColors.WpfExample.ButtonsViewModel.RaisePropertyChanged()W
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs´ ·("0*f
-0"a
-W
-KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.cs¶ ¶(>
-""*
+BMaterialDesignColors.WpfExample.Domain.Movie.Movie(string, string)Z
+PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\TreesViewModel.cs$ ((namedirector"0*
+0*
+1*
 1"
 ""

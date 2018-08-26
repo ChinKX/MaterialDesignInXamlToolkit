@@ -1,26 +1,20 @@
 
-<MaterialDesignDemo.IconPackViewModel.CopyToClipboard(object)V
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.csB H(obj"0*Â
-0r
-V
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.csE E(M
-toBeCopied__id"
-""œ
-V
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.csF F(.%0.System.Windows.Clipboard.SetDataObject(object)"
-
-
-toBeCopied~
-V
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.csG* G(L%1__concat"
-"""
-
-
-toBeCopied¤
-V
-LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\IconPackViewModel.csG G(M%2>MaterialDesignThemes.Wpf.ISnackbarMessageQueue.Enqueue(object)"
+GMaterialDesignColors.WpfExample.ProvingGroundViewModel.SelectedTime.setW
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.csA F(value"0*
+0*
+1
+2*
+1*
+2*À
+2p
+W
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.csD3 D(^%0object.ToString()‘
+W
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.csD D(_%1*System.Diagnostics.Debug.WriteLine(string)"
 
-%1*
-1*
-1"
+%0¯
+W
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.csE E("%2PMaterialDesignColors.WpfExample.ProvingGroundViewModel.OnPropertyChanged(string)*
+3*
+3"
 ""

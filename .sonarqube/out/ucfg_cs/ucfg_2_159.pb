@@ -1,7 +1,9 @@
 
-<MaterialDesignThemes.Wpf.ComboBoxPopup.UpContentTemplate.set^
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.cs! !(>value"0*
-0*
-1*
+fMaterialDesignThemes.Wpf.TreeViewAssist.GetAdditionalTemplateSelector(System.Windows.DependencyObject)_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.csP S(element"0*n
+0"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\TreeViewAssist.csR R(]
+""*
 1"
 ""

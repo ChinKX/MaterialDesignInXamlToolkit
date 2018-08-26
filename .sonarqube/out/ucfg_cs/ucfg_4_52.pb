@@ -1,10 +1,7 @@
 
-nMaterialDesignColors.WpfExample.MenusAndToolBars.TwitterButton_OnClick(object, System.Windows.RoutedEventArgs)Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MenusAndToolBars.xaml.cs  (sendere"0*ù
-0í
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\MenusAndToolBars.xaml.cs (=%0(System.Diagnostics.Process.Start(string)"
-""*
+sMaterialDesignDemo.TransitionsDemo.Slide6_Origins.SecondSlideButton_OnClick(object, System.Windows.RoutedEventArgs)h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\TransitionsDemo\Slide6_Origins.xaml.cs! $(sendere"0*
+0*
 1*
 1"
 ""

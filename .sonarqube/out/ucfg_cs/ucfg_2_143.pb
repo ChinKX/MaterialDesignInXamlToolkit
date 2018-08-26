@@ -1,9 +1,9 @@
 
-cMaterialDesignThemes.Wpf.Converters.TimeToVisibilityConverter.ProvideValue(System.IServiceProvider)u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\TimeToVisibilityConverter.cs (serviceProvider"0*„
-0"
-u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\TimeToVisibilityConverter.cs (
+1MaterialDesignThemes.Wpf.Clock.IsMidnightHour.getV
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs] ](A"0*e
+0"`
+V
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs] ](?
 ""*
 1"
 ""

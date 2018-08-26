@@ -1,7 +1,14 @@
 
-{MaterialDesignThemes.Wpf.ShadowAssist.SetShadowEdges(System.Windows.DependencyObject, MaterialDesignThemes.Wpf.ShadowEdges)^
-SD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ShadowAssist.cs ‚(elementvalue"0*
-0*
-1*
-1"
+xMaterialDesignThemes.Wpf.Transitions.Transitioner.MoveFirstHandler(object, System.Windows.Input.ExecutedRoutedEventArgs)k
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.cs† ‹(senderexecutedRoutedEventArgs"0*Ñ
+0Ã
+k
+_D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Transitions\Transitioner.csˆ ˆ()%0PMaterialDesignThemes.Wpf.Transitions.Transitioner.AutoApplyTransitionOrigins.get*
+1
+2*
+1*
+2*
+2*
+3*
+3"
 ""

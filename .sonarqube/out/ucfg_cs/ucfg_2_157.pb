@@ -1,10 +1,12 @@
 
-ˆMaterialDesignThemes.Wpf.Converters.TimeToVisibilityConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\TimeToVisibilityConverter.cs (value
-targetType	parameterculture"0*„
-0"
-u
-kD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\TimeToVisibilityConverter.cs ($
+‹MaterialDesignThemes.Wpf.Converters.BooleanToVisibilityConverter.ConvertBack(object, System.Type, object, System.Globalization.CultureInfo)x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BooleanToVisibilityConverter.cs (value
+targetType	parameterculture"0*Ù
+0Î
+x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BooleanToVisibilityConverter.cs+ (3%0NMaterialDesignThemes.Wpf.Converters.BooleanToVisibilityConverter.TrueValue.get"‚
+x
+nD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\BooleanToVisibilityConverter.cs (4
 ""*
 1"
 ""

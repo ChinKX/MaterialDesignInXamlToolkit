@@ -1,10 +1,7 @@
 
-oMaterialDesignThemes.Wpf.Screen.OnUserPreferenceChanged(object, Microsoft.Win32.UserPreferenceChangedEventArgs)Y
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÿ …(sendere"0*
-0*
-1
-2*
-1*
-2*
-2"
+8MaterialDesignThemes.Wpf.DialogHost.CloseOnClickAway.set]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csø ø(=value"0*
+0*
+1*
+1"
 ""

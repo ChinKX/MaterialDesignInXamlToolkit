@@ -1,16 +1,9 @@
 
-ÑMaterialDesignThemes.Wpf.Converters.PointValueConverter.ConvertBack(object, System.Type[], object, System.Globalization.CultureInfo)o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs !(valuetargetTypes	parameterculture"0*
-0*
-1
-2*~
-1"y
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs (8
-""*~
-2"y
-o
-eD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\PointValueConverter.cs   ( 
+%ControlzEx.PopupEx.RECT.GetHashCode()è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs⁄ ›("0*†
+0"ö
+è
+ÇD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\PopupEx.cs‹ ‹(V
 ""*
-3"
+1"
 ""

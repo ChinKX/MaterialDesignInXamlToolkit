@@ -1,9 +1,7 @@
 
-/MaterialDesignThemes.Wpf.Underline.IsActive.getZ
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.cs' '(;"0*i
-0"d
-Z
-PD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Underline.cs' '(9
-""*
+-MaterialDesignThemes.Wpf.Chip.IsDeletable.setU
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Chip.cs? ?(8value"0*
+0*
+1*
 1"
 ""

@@ -1,7 +1,9 @@
 
-@MaterialDesignThemes.Wpf.ComboBoxPopup.VisiblePlacementWidth.set`
-TD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ComboBoxPopup.csù ù(Bvalue"0*
-0*
-1*
+4MaterialDesignThemes.Wpf.Clock.LesserButtonStyle.getX
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs∞ ∞(="0*g
+0"b
+X
+LD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Clock.cs∞	 ∞(;
+""*
 1"
 ""

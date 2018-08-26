@@ -1,7 +1,9 @@
 
-aMaterialDesignThemes.Wpf.ToggleButtonAssist.SetOnContent(System.Windows.DependencyObject, object)c
-YD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ToggleButtonAssist.cs/ 2(elementvalue"0*
-0*
-1*
+-MaterialDesignThemes.Wpf.Snackbar.Message.getY
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs& &(F"0*h
+0"c
+Y
+OD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Snackbar.cs& &(D
+""*
 1"
 ""

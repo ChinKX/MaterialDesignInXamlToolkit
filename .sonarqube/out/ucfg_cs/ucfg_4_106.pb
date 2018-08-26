@@ -1,6 +1,7 @@
 
-NMaterialDesignColors.WpfExample.App.OnStartup(System.Windows.StartupEventArgs)M
-CD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\App.xaml.cs (e"0*
+¤VirtualCollection.VirtualCollection.VirtualizingWrapPanel.EnsureScrollOffsetIsWithinConstrains(VirtualCollection.VirtualCollection.VirtualizingWrapPanel.ExtentInfo)®
+¡D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\..\paket-files\samueldjack\VirtualCollection\VirtualCollection\VirtualCollection\VirtualizingWrapPanel.cs° ³(
+extentInfo"0*
 0*
 1*
 1"

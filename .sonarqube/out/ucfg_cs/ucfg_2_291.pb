@@ -1,17 +1,9 @@
 
-zMaterialDesignThemes.Wpf.Converters.ShadowConverter.Convert(object, System.Type, object, System.Globalization.CultureInfo)k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs (value
-targetType	parameterculture"0*
-0*
-1
-2*z
-1"u
-k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs) (4
-""*z
-2"u
-k
-aD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Converters\ShadowConverter.cs (G
+_MaterialDesignThemes.Wpf.DataGridAssist.GetColumnHeaderPadding(System.Windows.DependencyObject)_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.csz }(element"0*n
+0"i
+_
+UD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DataGridAssist.cs| |(L
 ""*
-3"
+1"
 ""

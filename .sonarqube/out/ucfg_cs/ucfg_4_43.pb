@@ -1,20 +1,21 @@
 
-ÉMaterialDesignColors.WpfExample.Dialogs.Sample2_DialogHost_OnDialogClosing(object, MaterialDesignThemes.Wpf.DialogClosingEventArgs)Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs !(sender	eventArgs"0*
+íMaterialDesignColors.WpfExample.Domain.AnotherCommandImplementation.AnotherCommandImplementation(System.Action<object>, System.Func<object, bool>)h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\AnotherCommandImplementation.cs (execute
+canExecute"0*
 0*
 1
-2*
-1*
-2*ˇ
-2q
-Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs   (f%0__concat"
-"""
-""Å
-Q
-GD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Dialogs.xaml.cs   (g%1 System.Console.WriteLine(string)"
-
-%0*
+2*Ω
+1≤
+h
+^D:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\Domain\AnotherCommandImplementation.cs' (P%0:System.ArgumentNullException.ArgumentNullException(string)"
+""*
+3*
+2*
+4
+5*
+4*
+5*
+5*
 3*
 3"
 ""

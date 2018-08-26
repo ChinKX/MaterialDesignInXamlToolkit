@@ -1,9 +1,9 @@
 
-AMaterialDesignThemes.Wpf.DialogHost.DialogContentStringFormat.get]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÕ Õ(N"0*l
-0"g
-]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csÕ Õ(L
+>MaterialDesignThemes.Wpf.Screen.GetBounds(System.Windows.Rect)Y
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csÞ á(rect"0*h
+0"c
+Y
+MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\Screen.csà à((
 ""*
 1"
 ""

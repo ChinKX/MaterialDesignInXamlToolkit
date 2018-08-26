@@ -1,6 +1,6 @@
 
-gMaterialDesignThemes.Wpf.ButtonProgressAssist.SetIsIndeterminate(System.Windows.DependencyObject, bool)e
-[D:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\ButtonProgressAssist.cs8 ;(elementisIndeterminate"0*
+'ControlzEx.BadgedEx.BadgeForeground.setŽ
+ƒD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\..\paket-files\ControlzEx\ControlzEx\src\ControlzEx\BadgedEx.cs1 1(<value"0*
 0*
 1*
 1"

@@ -1,9 +1,9 @@
 
-CMaterialDesignThemes.Wpf.SnackbarMessage.ActionCommandParameter.get`
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cs+ +(L"0*o
+:MaterialDesignThemes.Wpf.SnackbarMessage.ActionContent.get`
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cs4 4(C"0*o
 0"j
 `
-VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cs+ +(J
+VD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\SnackbarMessage.cs4 4(A
 ""*
 1"
 ""

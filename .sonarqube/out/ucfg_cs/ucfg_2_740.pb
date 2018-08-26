@@ -1,6 +1,6 @@
 
-‘MaterialDesignThemes.Wpf.DialogHost.SetDialogClosingAttached(System.Windows.DependencyObject, MaterialDesignThemes.Wpf.DialogClosingEventHandler)]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csˆ ‹(elementvalue"0*
+bMaterialDesignThemes.Wpf.DialogHost.OnDialogOpened(MaterialDesignThemes.Wpf.DialogOpenedEventArgs)]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.csé ì(	eventArgs"0*
 0*
 1*
 1"

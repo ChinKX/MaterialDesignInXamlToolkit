@@ -1,7 +1,9 @@
 
-.MaterialDesignThemes.Wpf.DialogHost.IsOpen.set]
-QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DialogHost.cs² ²(3value"0*
-0*
-1*
+>MaterialDesignThemes.Wpf.DrawerHost.BottomDrawerBackground.get]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csÑ Ñ(J"0*l
+0"g
+]
+QD:\GitHub_Proj\MaterialDesignInXamlToolkit\MaterialDesignThemes.Wpf\DrawerHost.csÑ Ñ(H
+""*
 1"
 ""

@@ -1,9 +1,9 @@
 
-?MaterialDesignColors.WpfExample.ProvingGroundViewModel.Name.setW
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.cs5 9(value"0*∫
-0Ø
+CMaterialDesignColors.WpfExample.ButtonsViewModel.OrClickMeCount.getW
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csê ê(*"0*f
+0"a
 W
-MD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ProvingGround.xaml.cs8 8(%0PMaterialDesignColors.WpfExample.ProvingGroundViewModel.OnPropertyChanged(string)*
-1*
+KD:\GitHub_Proj\MaterialDesignInXamlToolkit\MainDemo.Wpf\ButtonsViewModel.csê ê((
+""*
 1"
 ""
