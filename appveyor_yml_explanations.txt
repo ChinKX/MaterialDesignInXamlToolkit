@@ -1,0 +1,117 @@
+***NOTE THAT ## indicates explanation and # indicates line is being commented out***
+
+## configuration for master/CI branch
+-
+## branch(es) to build
+  branches:
+    ## whitelist 
+    only:
+      - master
+
+  image: Visual Studio 2017
+  configuration: Debug		## build Configuration, i.e. Debug, Release, etc.
+
+## enable patching of AssemblyInfo.* files
+## asemmblyInfo.* files contains information about your assembly, like name, description, version, etc.
+  assembly_info:
+    patch: true
+    file: '**\AssemblyInfo.*'
+    assembly_version: '2.5.0.{build}'		## {build} represents build number
+    assembly_file_version: '2.5.0.{build}'
+    assembly_informational_version: '2.5.0.{build}'
+  
+  environment:
+    RestorePackages: false   	## set the custom environment variable
+
+## install the software that will be used in during the build using Chocolatey (package manager for Windows)
+  install:
+  - choco install "msbuild-sonarqube-runner" -y
+  - choco install opencover.portable
+
+  before_build:
+  - ps: .paket\paket.exe restore		## restoring NuGet packages before build
+
+## Build settings and "project" is relative to the original build directory
+  build:
+    project: MaterialDesignToolkit.Wpf.sln
+    # MSBuild verbosity level
+    verbosity: minimal
+
+## Commands in the test_script and after_test sections are used to generate a XML-based code coverage report and then send to Codecov which will process the XML-based report to a readable HTML-based report for analysis purpose
+## For more reference please go to https://www.appveyor.com/blog/2017/03/17/codecov/
+  test_script:
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit-2l02p\MaterialDesignColors.Wpf.Tests\bin\Debug\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit-2l02p\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" -noshadow" "-filter:+[MaterialDesignColors*]* +[MaterialDesignThemes*]*" -output:".\coverage.xml"
+  
+  after_test:
+  - ps: |
+      $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
+      Invoke-WebRequest -Uri 'https://codecov.io/bash' -OutFile codecov.sh
+      bash codecov.sh -f "coverage.xml"
+
+  after_build:
+  ## the first three commands are to generate a static code analysis report and send to SonarCloud for analysis purpose
+  - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
+  - msbuild "MaterialDesignToolkit.Wpf.sln" /t:Rebuild
+  - MSBuild.SonarQube.Runner.exe end /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
+  ## The below command creates a NuGet package from a .nuspec with specified version
+  #- ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
+  ## The below command adds all MainDemo.Wpf\bin\**\*.* folders and files to archive Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip
+  #- ps: 7z a Demo.2.5.0.$env:APPVEYOR_BUILD_NUMBER.zip MainDemo.Wpf\bin\**\*.*
+
+## tells AppVeyor which files and folders should be uploaded to AppVeyor cloud storage during the build
+  #artifacts:
+  #- path: '**\MaterialDesignThemes.*.nupkg'
+  #- path: Demo.*.zip
+
+## version format
+  version: 2.5.0-ci{build}
+
+## Deploying to NuGet feed 
+  #deploy:   
+  #- provider: NuGet
+    # a code passed in by computer programs calling an application programming interface (API) to identify the calling program, its developer, or its user to the Web site
+    #api_key:
+      #secure: B+WIdbRYr/rJo1QMeDwNen2xcj4RTu1d8AZiA03kb8wsWZVQxt5OgsWRacmEjWRd
+
+## configuration for release branch
+-
+  branches:
+    only:
+      - release
+
+  image: Visual Studio 2017
+  configuration: AppVeyor
+  assembly_info:
+    patch: true
+    file: '**\AssemblyInfo.*'
+    assembly_version: '{version}'
+    assembly_file_version: '{version}'
+    assembly_informational_version: '{version}'
+  environment:
+    RestorePackages: false
+  install:
+  - choco install "msbuild-sonarqube-runner" -y
+  - choco install opencover.portable    
+  before_build:
+  - ps: .paket\paket.exe restore
+  build:
+    project: MaterialDesignToolkit.Wpf.sln
+    verbosity: minimal
+  test_script:
+  - OpenCover.Console.exe -register:user -target:"%xunit20%\xunit.console.x86.exe" "-targetargs:"C:\projects\materialdesigninxamltoolkit-2l02p\MaterialDesignColors.Wpf.Tests\bin\Debug\MaterialDesignColors.Wpf.Fixture.dll" "C:\projects\materialdesigninxamltoolkit-2l02p\MaterialDesignThemes.Wpf.Tests\bin\Debug\MaterialDesignThemes.Wpf.Tests.dll" -noshadow" "-filter:+[MaterialDesignColors*]* +[MaterialDesignThemes*]*" -output:".\coverage.xml"
+  after_test:
+  - ps: |
+      $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
+      Invoke-WebRequest -Uri 'https://codecov.io/bash' -OutFile codecov.sh
+      bash codecov.sh -f "coverage.xml
+  after_build:
+  - MSBuild.SonarQube.Runner.exe begin /k:"scc_team_14" /d:sonar.organization="chinkx-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
+  - msbuild "MaterialDesignToolkit.Wpf.sln" /t:Rebuild
+  - MSBuild.SonarQube.Runner.exe end /d:sonar.login="705f88ba464efc4e93f916c7ce25cfdd183dc1e1"
+  #- ps: nuget pack MaterialDesignThemes.nuspec -Version $env:APPVEYOR_BUILD_VERSION
+  #- ps: 7z a Demo.$env:APPVEYOR_BUILD_VERSION.zip MainDemo.Wpf\bin\**\*.*
+  #artifacts:
+  #- path: '**\MaterialDesignThemes.*.nupkg'
+  #- path: Demo.*.zip
+
+  version: 2.5.0.{build}
